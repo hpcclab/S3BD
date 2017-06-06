@@ -1,0 +1,5 @@
+100-20
+Total Terms-513390
+Total Files-1540170
+Average Terms-34226.0
+Average Files-102678.0
