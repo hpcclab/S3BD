@@ -35,3 +35,6 @@ The config files for each project can be found in the utilities subdirectory of 
   * abstractIndexCound - the number of terms that will be included in an abstract index.
   * k - the number of clusters created during partitioning.
   * calcMetrics - only set this to true if you are testing speeds.
+  
+ ## Acknowledgements
+ This project is derived from Jason Woodworth Master's thesis. In addition to the code base, the project includes his thesis latex files too.
