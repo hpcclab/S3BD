@@ -59,11 +59,18 @@ The config files for each project can be found in the utilities subdirectory of 
   * abstractIndexCound - the number of terms that will be included in an abstract index.
   * k - the number of clusters created during partitioning.
   * calcMetrics - only set this to true if you are testing speeds.
-<<<<<<< HEAD
 
-##
+## How to Contribute
+We welcome new features, extension, or enhancements of S3BD.
+
+We are, in particular, looking for new collaborations, taking this framework further. As extension of S3C, we have developed S3BD that is similar to S3C but can perform search over encrypted Big Data. In addition to S3BD, we are also researching to extend the capabilities of S3BD such as search query expansion, intelligent pruning, clustering, and so on. Please drop us an email if you are interested to collaborate. 
+
+## Contacts
+* [Dr. Mohsen Amini Salehi](http://hpcclab.org/index.php/contact-us/)
+* [Jason Woodworth](https://vrlab.cmix.louisiana.edu/people/jason-woodworth/)
+* [SM Zobaed](zobaedsakib@gmail.com)
 =======
   
  ## Acknowledgements
  This project is derived from Jason Woodworth Master's thesis. In addition to the code base, the project includes his thesis latex files too.
->>>>>>> 8bb62e93644df19a61a25b9b6e05b4956af8f366
+
