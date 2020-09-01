@@ -69,7 +69,6 @@ We are, in particular, looking for new collaborations, taking this framework fur
 * [Dr. Mohsen Amini Salehi](http://hpcclab.org/index.php/contact-us/)
 * [Jason Woodworth](https://vrlab.cmix.louisiana.edu/people/jason-woodworth/)
 * [SM Zobaed](zobaedsakib@gmail.com)
-=======
   
  ## Acknowledgements
  This project is derived from Jason Woodworth Master's thesis. In addition to the code base, the project includes his thesis latex files too.
