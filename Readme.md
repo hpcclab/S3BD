@@ -16,9 +16,8 @@ If you are using this tool in your research projects, please cite the following 
 }
 ```
 The paper is also available in the following address:
-http://hpcclab.org/paperPdf/ccpe19/surveyccpe19.pdf
-## Architecture
-<p align="center"><img src="archi.png"></p>
+http://hpcclab.org/paperPdf/ccpe18/ccpe18.pdf
+
 
 
 ## S3BD Running Instructions
