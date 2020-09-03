@@ -37,6 +37,7 @@ public class CloudSearcher {
         query = new HashMap<>();
         searchedClusterNames = new ArrayList<>();
         index = i;
+        
     }
     
     /**
@@ -119,6 +120,7 @@ public class CloudSearcher {
                 String term = dis.readUTF();
                 float weight = dis.readFloat();
                 query.put(term, weight);
+                System.out.println(term + "   "+ weight);
             }
             
             dis.close();

@@ -62,6 +62,7 @@ public class RankingEngine {
         
         for (String term : query.keySet()) {
             score += computeBM25(docName, term, query.get(term));
+           // System.out.println(term+ query.get(term));
         }
         
         return score;
@@ -90,7 +91,7 @@ public class RankingEngine {
         // Get document length normalization.  Checks it against the average for normalization.
         double DLN = Config.k1 * (1 - Config.b + (Config.b * (index.documentSizes.get(docName) / avgDocLength)));
         
-        double score = IDF * ((TF * (Config.k1+ 1)) / (TF + DLN));
+        double score = IDF * ((TF * (Config.k1+ 1)) / (TF + DLN)) *termWeight ; //Zobaed included termWeight
         
         return score;
     } 

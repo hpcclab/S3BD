@@ -1,0 +1,27 @@
+0
+burt reynolds|.|bbc_entertainment_043.txt|.|2|.|bbc_entertainment_356.txt|.|2
+alda|.|bbc_entertainment_043.txt|.|2|.|bbc_entertainment_356.txt|.|2
+superhero|.|bbc_entertainment_374.txt|.|2|.|bbc_entertainment_386.txt|.|2|.|bbc_entertainment_077.txt|.|2
+dollars|.|bbc_business_200.txt|.|3|.|bbc_entertainment_298.txt|.|1
+comic book|.|bbc_entertainment_374.txt|.|2
+lee|.|bbc_entertainment_305.txt|.|12|.|bbc_entertainment_043.txt|.|3|.|bbc_entertainment_298.txt|.|5|.|bbc_entertainment_374.txt|.|3|.|bbc_entertainment_052.txt|.|6|.|bbc_entertainment_356.txt|.|3
+spike|.|bbc_entertainment_043.txt|.|2|.|bbc_entertainment_052.txt|.|2|.|bbc_entertainment_356.txt|.|2
+movies|.|bbc_entertainment_347.txt|.|1|.|bbc_entertainment_101.txt|.|1|.|bbc_entertainment_305.txt|.|2|.|bbc_entertainment_332.txt|.|1|.|bbc_tech_345.txt|.|5|.|bbc_tech_183.txt|.|2|.|bbc_entertainment_303.txt|.|1|.|bbc_entertainment_301.txt|.|1
+extraordinary powers|.|bbc_entertainment_305.txt|.|2
+spike lee|.|bbc_entertainment_043.txt|.|2|.|bbc_entertainment_052.txt|.|2|.|bbc_entertainment_356.txt|.|2
+creations|.|bbc_entertainment_374.txt|.|1
+friend|.|bbc_entertainment_043.txt|.|1|.|bbc_entertainment_356.txt|.|1
+films|.|bbc_entertainment_100.txt|.|1|.|bbc_entertainment_075.txt|.|1|.|bbc_tech_279.txt|.|1|.|bbc_entertainment_012.txt|.|1|.|bbc_business_021.txt|.|1|.|bbc_entertainment_101.txt|.|6|.|bbc_entertainment_040.txt|.|3|.|bbc_entertainment_348.txt|.|5|.|bbc_entertainment_083.txt|.|1|.|bbc_entertainment_340.txt|.|1|.|bbc_entertainment_052.txt|.|3|.|bbc_entertainment_301.txt|.|3|.|bbc_tech_276.txt|.|1|.|bbc_entertainment_035.txt|.|3|.|bbc_entertainment_366.txt|.|3|.|bbc_tech_306.txt|.|2|.|bbc_tech_013.txt|.|8|.|bbc_tech_255.txt|.|2|.|bbc_entertainment_367.txt|.|5|.|bbc_entertainment_077.txt|.|4|.|bbc_entertainment_042.txt|.|4|.|bbc_entertainment_028.txt|.|3|.|bbc_entertainment_058.txt|.|5|.|bbc_entertainment_307.txt|.|3|.|bbc_entertainment_303.txt|.|8|.|bbc_tech_302.txt|.|1
+tribute to actor|.|bbc_entertainment_043.txt|.|2|.|bbc_entertainment_356.txt|.|2
+creator|.|bbc_entertainment_298.txt|.|2|.|bbc_entertainment_386.txt|.|2|.|bbc_entertainment_211.txt|.|1
+reynolds|.|bbc_entertainment_043.txt|.|2|.|bbc_entertainment_020.txt|.|4|.|bbc_entertainment_356.txt|.|2
+stan lee|.|bbc_entertainment_305.txt|.|8
+extraordinary|.|bbc_entertainment_305.txt|.|2
+superheroes|.|bbc_entertainment_305.txt|.|2
+alan|.|bbc_politics_278.txt|.|2|.|bbc_entertainment_043.txt|.|2|.|bbc_entertainment_006.txt|.|2|.|bbc_sport_105.txt|.|2|.|bbc_politics_102.txt|.|3|.|bbc_business_273.txt|.|2|.|bbc_entertainment_383.txt|.|2|.|bbc_politics_402.txt|.|2|.|bbc_entertainment_275.txt|.|3|.|bbc_entertainment_356.txt|.|2
+ossie|.|bbc_entertainment_043.txt|.|5|.|bbc_entertainment_044.txt|.|2|.|bbc_entertainment_356.txt|.|5
+burt|.|bbc_entertainment_043.txt|.|2|.|bbc_entertainment_356.txt|.|2
+powers|.|bbc_entertainment_305.txt|.|4|.|bbc_politics_239.txt|.|7|.|bbc_politics_072.txt|.|2
+comic|.|bbc_entertainment_305.txt|.|5|.|bbc_entertainment_374.txt|.|2|.|bbc_entertainment_190.txt|.|2
+spider|.|bbc_entertainment_305.txt|.|1|.|bbc_entertainment_302.txt|.|2
+alan alda|.|bbc_entertainment_043.txt|.|2|.|bbc_entertainment_356.txt|.|2

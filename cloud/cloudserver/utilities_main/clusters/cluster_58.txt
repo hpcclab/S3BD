@@ -1,0 +1,12 @@
+58
+said gm|.|bbc_business_149.txt|.|1
+european|.|bbc_politics_391.txt|.|2|.|bbc_tech_215.txt|.|3|.|bbc_sport_077.txt|.|2|.|bbc_politics_358.txt|.|3|.|bbc_business_183.txt|.|2|.|bbc_sport_068.txt|.|3|.|bbc_sport_204.txt|.|2|.|bbc_politics_373.txt|.|8|.|bbc_business_441.txt|.|2|.|bbc_tech_330.txt|.|6|.|bbc_business_149.txt|.|8|.|bbc_business_319.txt|.|1|.|bbc_business_467.txt|.|3|.|bbc_politics_136.txt|.|2|.|bbc_sport_008.txt|.|2|.|bbc_business_494.txt|.|3|.|bbc_tech_361.txt|.|4|.|bbc_politics_126.txt|.|4|.|bbc_sport_061.txt|.|10|.|bbc_sport_222.txt|.|3|.|bbc_politics_142.txt|.|2|.|bbc_tech_030.txt|.|2|.|bbc_sport_001.txt|.|3|.|bbc_sport_014.txt|.|3|.|bbc_tech_167.txt|.|3|.|bbc_business_075.txt|.|2|.|bbc_sport_059.txt|.|4|.|bbc_business_382.txt|.|2|.|bbc_business_413.txt|.|4|.|bbc_politics_222.txt|.|2|.|bbc_tech_014.txt|.|6|.|bbc_sport_376.txt|.|3|.|bbc_business_113.txt|.|3|.|bbc_business_089.txt|.|6|.|bbc_sport_058.txt|.|8|.|bbc_business_065.txt|.|3|.|bbc_business_146.txt|.|8|.|bbc_sport_012.txt|.|2|.|bbc_sport_063.txt|.|3|.|bbc_sport_267.txt|.|3|.|bbc_sport_020.txt|.|2|.|bbc_sport_055.txt|.|2|.|bbc_politics_386.txt|.|2|.|bbc_politics_229.txt|.|3|.|bbc_sport_073.txt|.|3|.|bbc_entertainment_348.txt|.|5|.|bbc_business_172.txt|.|4|.|bbc_business_277.txt|.|5|.|bbc_business_446.txt|.|2|.|bbc_business_496.txt|.|2|.|bbc_business_135.txt|.|2|.|bbc_business_436.txt|.|2|.|bbc_business_262.txt|.|2|.|bbc_business_215.txt|.|3|.|bbc_entertainment_058.txt|.|5|.|bbc_sport_071.txt|.|2
+edges|.|bbc_sport_061.txt|.|1
+johnson edges|.|bbc_sport_061.txt|.|1
+edged|.|bbc_sport_061.txt|.|1
+edges out rival|.|bbc_sport_061.txt|.|1
+battles|.|bbc_sport_058.txt|.|1
+set out at the lisbon|.|bbc_business_146.txt|.|1
+building saabs|.|bbc_business_149.txt|.|1
+uk rebate|.|bbc_politics_373.txt|.|1
+johnson edged out rival|.|bbc_sport_061.txt|.|1

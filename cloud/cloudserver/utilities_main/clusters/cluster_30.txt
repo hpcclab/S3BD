@@ -1,0 +1,18 @@
+30
+packet access|.|bbc_tech_032.txt|.|4|.|bbc_tech_335.txt|.|3
+cause problems|.|bbc_tech_275.txt|.|1
+malicious hackers|.|bbc_tech_400.txt|.|2
+reports suggest|.|bbc_tech_400.txt|.|1
+cases|.|bbc_tech_391.txt|.|2|.|bbc_tech_286.txt|.|2
+high speed|.|bbc_tech_253.txt|.|2|.|bbc_tech_032.txt|.|3|.|bbc_tech_335.txt|.|2
+downlink|.|bbc_tech_032.txt|.|4|.|bbc_tech_335.txt|.|3
+speed downlink|.|bbc_tech_032.txt|.|3|.|bbc_tech_335.txt|.|2
+mobile networks|.|bbc_tech_032.txt|.|2|.|bbc_tech_335.txt|.|2
+networks|.|bbc_tech_391.txt|.|10|.|bbc_tech_272.txt|.|4|.|bbc_tech_032.txt|.|10|.|bbc_tech_286.txt|.|10|.|bbc_tech_303.txt|.|2|.|bbc_tech_357.txt|.|5|.|bbc_tech_346.txt|.|6|.|bbc_tech_206.txt|.|7|.|bbc_tech_275.txt|.|3|.|bbc_tech_122.txt|.|5|.|bbc_tech_400.txt|.|5|.|bbc_tech_335.txt|.|10|.|bbc_tech_075.txt|.|2|.|bbc_tech_038.txt|.|3
+generation of mobile|.|bbc_tech_032.txt|.|1|.|bbc_tech_335.txt|.|1
+legal cases|.|bbc_tech_391.txt|.|2|.|bbc_tech_286.txt|.|2
+siemens|.|bbc_tech_032.txt|.|6|.|bbc_tech_335.txt|.|6
+amit|.|bbc_tech_400.txt|.|2
+make money|.|bbc_tech_391.txt|.|2|.|bbc_tech_286.txt|.|2
+survey found|.|bbc_tech_346.txt|.|2
+amit yoran|.|bbc_tech_400.txt|.|2

@@ -1,0 +1,10 @@
+28
+tottenham bid|.|bbc_sport_191.txt|.|1
+wmc resources|.|bbc_business_366.txt|.|2
+exchanges merged|.|bbc_business_316.txt|.|1
+cash bid|.|bbc_business_264.txt|.|2
+exchanges|.|bbc_business_316.txt|.|1|.|bbc_business_319.txt|.|1
+european stock|.|bbc_business_319.txt|.|1
+bid|.|bbc_sport_072.txt|.|3|.|bbc_business_162.txt|.|2|.|bbc_business_264.txt|.|6|.|bbc_business_171.txt|.|3|.|bbc_sport_254.txt|.|4|.|bbc_business_242.txt|.|7|.|bbc_business_421.txt|.|6|.|bbc_sport_191.txt|.|3|.|bbc_business_125.txt|.|5|.|bbc_business_319.txt|.|3|.|bbc_business_392.txt|.|3|.|bbc_sport_272.txt|.|2|.|bbc_business_230.txt|.|2|.|bbc_business_366.txt|.|5|.|bbc_business_364.txt|.|2|.|bbc_business_202.txt|.|2|.|bbc_sport_273.txt|.|2|.|bbc_sport_189.txt|.|2|.|bbc_business_203.txt|.|5|.|bbc_business_179.txt|.|5|.|bbc_sport_243.txt|.|2|.|bbc_business_293.txt|.|5|.|bbc_business_316.txt|.|6|.|bbc_business_279.txt|.|5|.|bbc_sport_134.txt|.|2|.|bbc_sport_266.txt|.|3|.|bbc_sport_177.txt|.|2
+xstrata bid|.|bbc_business_366.txt|.|1
+malcolm glazer|.|bbc_business_293.txt|.|2|.|bbc_business_242.txt|.|3

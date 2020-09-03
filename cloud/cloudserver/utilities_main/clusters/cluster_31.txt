@@ -1,0 +1,30 @@
+31
+ballet future|.|bbc_entertainment_022.txt|.|1
+children were given laptop|.|bbc_tech_004.txt|.|1|.|bbc_tech_063.txt|.|1
+financial gifts|.|bbc_business_268.txt|.|2
+disadvantaged|.|bbc_politics_051.txt|.|2
+extending rights|.|bbc_politics_001.txt|.|1
+asylum children|.|bbc_politics_078.txt|.|1
+snack|.|bbc_business_443.txt|.|1
+ministries|.|bbc_tech_004.txt|.|1|.|bbc_tech_063.txt|.|1
+ballet dancers|.|bbc_entertainment_022.txt|.|2
+darcey|.|bbc_entertainment_022.txt|.|2
+disruptive children|.|bbc_politics_055.txt|.|2
+returning unaccompanied|.|bbc_politics_078.txt|.|1
+children|.|bbc_politics_051.txt|.|6|.|bbc_politics_078.txt|.|17|.|bbc_politics_263.txt|.|2|.|bbc_business_443.txt|.|4|.|bbc_entertainment_382.txt|.|2|.|bbc_tech_063.txt|.|3|.|bbc_business_484.txt|.|3|.|bbc_business_268.txt|.|8|.|bbc_politics_001.txt|.|2|.|bbc_politics_055.txt|.|3|.|bbc_politics_171.txt|.|4|.|bbc_entertainment_166.txt|.|2|.|bbc_entertainment_070.txt|.|2|.|bbc_tech_004.txt|.|3|.|bbc_entertainment_022.txt|.|6
+unaccompanied asylum|.|bbc_politics_078.txt|.|1
+advertise all its products|.|bbc_business_443.txt|.|1
+asylum seeking|.|bbc_politics_078.txt|.|1
+gifts is that the children|.|bbc_business_268.txt|.|1
+plans maternity pay|.|bbc_politics_001.txt|.|1
+child trust|.|bbc_business_268.txt|.|3
+immigration plan|.|bbc_politics_078.txt|.|2
+fewer children|.|bbc_entertainment_022.txt|.|2
+last resort|.|bbc_politics_051.txt|.|2
+trust fund|.|bbc_business_268.txt|.|3
+darcey bussell|.|bbc_entertainment_022.txt|.|2
+returning|.|bbc_politics_078.txt|.|2
+seeking children|.|bbc_politics_078.txt|.|1
+attendance|.|bbc_entertainment_022.txt|.|1
+unaccompanied|.|bbc_politics_078.txt|.|4
+advertise|.|bbc_business_443.txt|.|1

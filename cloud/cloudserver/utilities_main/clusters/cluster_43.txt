@@ -1,0 +1,16 @@
+43
+people and business|.|bbc_tech_262.txt|.|1
+motor|.|bbc_business_410.txt|.|1
+sell around five million|.|bbc_tech_160.txt|.|1
+people back into work|.|bbc_business_139.txt|.|1
+unemployment figure|.|bbc_business_139.txt|.|1
+connected to broadband|.|bbc_tech_262.txt|.|1
+skill levels|.|bbc_politics_080.txt|.|2
+demise|.|bbc_entertainment_031.txt|.|2
+locally|.|bbc_business_009.txt|.|1
+million|.|bbc_entertainment_372.txt|.|3|.|bbc_entertainment_207.txt|.|3|.|bbc_tech_262.txt|.|5|.|bbc_tech_160.txt|.|4|.|bbc_business_434.txt|.|4|.|bbc_politics_018.txt|.|2|.|bbc_business_185.txt|.|2|.|bbc_tech_211.txt|.|2|.|bbc_entertainment_252.txt|.|2|.|bbc_entertainment_031.txt|.|7|.|bbc_business_158.txt|.|3|.|bbc_tech_254.txt|.|5|.|bbc_tech_203.txt|.|2|.|bbc_business_420.txt|.|2|.|bbc_entertainment_069.txt|.|3|.|bbc_entertainment_078.txt|.|5|.|bbc_business_009.txt|.|4|.|bbc_entertainment_328.txt|.|2|.|bbc_business_275.txt|.|6|.|bbc_politics_291.txt|.|2|.|bbc_tech_217.txt|.|3|.|bbc_business_410.txt|.|3|.|bbc_tech_242.txt|.|5|.|bbc_entertainment_095.txt|.|3|.|bbc_tech_099.txt|.|2|.|bbc_entertainment_051.txt|.|3|.|bbc_entertainment_086.txt|.|2|.|bbc_business_296.txt|.|3|.|bbc_politics_135.txt|.|2|.|bbc_entertainment_064.txt|.|2|.|bbc_politics_080.txt|.|6|.|bbc_business_257.txt|.|2|.|bbc_politics_108.txt|.|2|.|bbc_entertainment_376.txt|.|2|.|bbc_business_139.txt|.|5|.|bbc_tech_226.txt|.|2
+baby has become the new|.|bbc_entertainment_078.txt|.|1
+people in asia|.|bbc_business_434.txt|.|1
+qualifications achieved|.|bbc_politics_080.txt|.|2
+analyst for forrester|.|bbc_tech_242.txt|.|1
+adb said|.|bbc_business_434.txt|.|1

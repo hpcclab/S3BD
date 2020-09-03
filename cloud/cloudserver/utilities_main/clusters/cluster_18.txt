@@ -1,0 +1,44 @@
+18
+producing songs|.|bbc_entertainment_259.txt|.|1
+newcomer|.|bbc_entertainment_253.txt|.|3|.|bbc_entertainment_156.txt|.|2
+scrubs|.|bbc_entertainment_040.txt|.|1|.|bbc_entertainment_224.txt|.|3
+french film|.|bbc_entertainment_063.txt|.|2
+achievement|.|bbc_entertainment_337.txt|.|2
+leading|.|bbc_entertainment_150.txt|.|2|.|bbc_entertainment_011.txt|.|1|.|bbc_business_011.txt|.|2|.|bbc_politics_191.txt|.|1|.|bbc_sport_115.txt|.|3|.|bbc_entertainment_156.txt|.|1
+keys|.|bbc_entertainment_150.txt|.|3|.|bbc_entertainment_264.txt|.|4|.|bbc_entertainment_259.txt|.|2|.|bbc_entertainment_175.txt|.|4
+soul|.|bbc_entertainment_264.txt|.|2|.|bbc_entertainment_259.txt|.|4|.|bbc_entertainment_249.txt|.|2|.|bbc_entertainment_156.txt|.|5
+car crash|.|bbc_entertainment_259.txt|.|2
+teenage|.|bbc_entertainment_249.txt|.|1
+train awards|.|bbc_entertainment_156.txt|.|2
+globes|.|bbc_entertainment_095.txt|.|5|.|bbc_entertainment_092.txt|.|2
+scrubs star|.|bbc_entertainment_040.txt|.|1
+usher|.|bbc_entertainment_150.txt|.|4|.|bbc_entertainment_153.txt|.|3|.|bbc_entertainment_156.txt|.|3
+producing|.|bbc_entertainment_259.txt|.|1|.|bbc_entertainment_205.txt|.|1
+starred|.|bbc_entertainment_217.txt|.|1|.|bbc_entertainment_092.txt|.|1|.|bbc_entertainment_343.txt|.|2
+mel|.|bbc_entertainment_097.txt|.|2|.|bbc_entertainment_326.txt|.|2
+four nominations|.|bbc_entertainment_040.txt|.|2
+fahrenheit|.|bbc_entertainment_326.txt|.|5
+recent|.|bbc_entertainment_063.txt|.|1
+achievement award|.|bbc_entertainment_337.txt|.|2
+train|.|bbc_business_123.txt|.|1|.|bbc_business_304.txt|.|2|.|bbc_entertainment_156.txt|.|5
+jamelia|.|bbc_entertainment_254.txt|.|5
+singers|.|bbc_entertainment_254.txt|.|1
+cesar|.|bbc_entertainment_067.txt|.|3|.|bbc_entertainment_063.txt|.|5
+usher is leading|.|bbc_entertainment_150.txt|.|1|.|bbc_entertainment_156.txt|.|1
+recent ruling|.|bbc_entertainment_063.txt|.|1
+alicia keys|.|bbc_entertainment_150.txt|.|2|.|bbc_entertainment_264.txt|.|2|.|bbc_entertainment_259.txt|.|2|.|bbc_entertainment_175.txt|.|2
+cesar organisers|.|bbc_entertainment_063.txt|.|2
+actor for dicaprio|.|bbc_entertainment_337.txt|.|1
+born|.|bbc_entertainment_254.txt|.|1
+contentious|.|bbc_entertainment_326.txt|.|4
+billboard|.|bbc_entertainment_150.txt|.|4
+nominations|.|bbc_entertainment_150.txt|.|3|.|bbc_entertainment_040.txt|.|5|.|bbc_entertainment_259.txt|.|3|.|bbc_entertainment_337.txt|.|2|.|bbc_entertainment_146.txt|.|2|.|bbc_entertainment_254.txt|.|2|.|bbc_entertainment_326.txt|.|3|.|bbc_entertainment_092.txt|.|4|.|bbc_entertainment_249.txt|.|2|.|bbc_entertainment_156.txt|.|6|.|bbc_entertainment_063.txt|.|2
+kanye west|.|bbc_entertainment_264.txt|.|2|.|bbc_entertainment_259.txt|.|2
+controversy|.|bbc_entertainment_326.txt|.|2
+warner bros|.|bbc_entertainment_063.txt|.|2
+duet|.|bbc_entertainment_146.txt|.|3
+globe|.|bbc_entertainment_095.txt|.|4|.|bbc_entertainment_092.txt|.|2|.|bbc_entertainment_355.txt|.|2|.|bbc_entertainment_038.txt|.|2
+awards|.|bbc_entertainment_059.txt|.|4|.|bbc_tech_126.txt|.|4|.|bbc_entertainment_215.txt|.|3|.|bbc_entertainment_041.txt|.|1|.|bbc_entertainment_253.txt|.|13|.|bbc_entertainment_135.txt|.|3|.|bbc_entertainment_139.txt|.|5|.|bbc_entertainment_097.txt|.|5|.|bbc_entertainment_363.txt|.|4|.|bbc_entertainment_008.txt|.|2|.|bbc_entertainment_092.txt|.|4|.|bbc_entertainment_062.txt|.|6|.|bbc_entertainment_150.txt|.|4|.|bbc_entertainment_040.txt|.|6|.|bbc_entertainment_314.txt|.|8|.|bbc_entertainment_370.txt|.|6|.|bbc_entertainment_039.txt|.|3|.|bbc_entertainment_357.txt|.|4|.|bbc_entertainment_323.txt|.|2|.|bbc_entertainment_251.txt|.|3|.|bbc_entertainment_095.txt|.|4|.|bbc_entertainment_082.txt|.|3|.|bbc_entertainment_243.txt|.|4|.|bbc_entertainment_146.txt|.|3|.|bbc_tech_111.txt|.|4|.|bbc_entertainment_332.txt|.|5|.|bbc_entertainment_014.txt|.|1|.|bbc_entertainment_153.txt|.|7|.|bbc_tech_171.txt|.|4|.|bbc_entertainment_367.txt|.|5|.|bbc_entertainment_220.txt|.|4|.|bbc_entertainment_125.txt|.|2|.|bbc_sport_041.txt|.|4|.|bbc_tech_057.txt|.|6|.|bbc_tech_088.txt|.|2|.|bbc_entertainment_236.txt|.|2|.|bbc_entertainment_249.txt|.|2|.|bbc_entertainment_275.txt|.|6|.|bbc_entertainment_156.txt|.|6|.|bbc_entertainment_024.txt|.|3
+lopez and anthony|.|bbc_entertainment_146.txt|.|1
+starring|.|bbc_entertainment_040.txt|.|4|.|bbc_entertainment_176.txt|.|1|.|bbc_entertainment_099.txt|.|3|.|bbc_entertainment_297.txt|.|1|.|bbc_entertainment_074.txt|.|3|.|bbc_entertainment_325.txt|.|1|.|bbc_entertainment_008.txt|.|1|.|bbc_entertainment_088.txt|.|3|.|bbc_entertainment_303.txt|.|2
+soul train|.|bbc_entertainment_156.txt|.|5

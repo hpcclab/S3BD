@@ -1,0 +1,49 @@
+37
+travel expenses|.|bbc_tech_140.txt|.|1
+oscar nominees|.|bbc_entertainment_084.txt|.|3|.|bbc_entertainment_363.txt|.|3
+guinness book|.|bbc_tech_253.txt|.|2
+pop band|.|bbc_entertainment_105.txt|.|2|.|bbc_entertainment_235.txt|.|2
+take legal|.|bbc_politics_325.txt|.|2
+tallest|.|bbc_tech_253.txt|.|1
+part|.|bbc_sport_029.txt|.|2|.|bbc_politics_181.txt|.|2|.|bbc_business_081.txt|.|3|.|bbc_politics_065.txt|.|3|.|bbc_politics_348.txt|.|5|.|bbc_tech_140.txt|.|2|.|bbc_politics_217.txt|.|4|.|bbc_politics_321.txt|.|4|.|bbc_sport_019.txt|.|2
+hansard|.|bbc_politics_348.txt|.|3|.|bbc_politics_217.txt|.|3|.|bbc_politics_321.txt|.|3
+book of records|.|bbc_tech_253.txt|.|2
+painkiller|.|bbc_tech_140.txt|.|9
+pole|.|bbc_sport_029.txt|.|2
+vote mock|.|bbc_politics_309.txt|.|1|.|bbc_politics_217.txt|.|2|.|bbc_politics_321.txt|.|2
+allied targets|.|bbc_politics_065.txt|.|2
+rumours|.|bbc_sport_409.txt|.|1|.|bbc_entertainment_105.txt|.|2|.|bbc_entertainment_235.txt|.|2
+lifts take|.|bbc_tech_253.txt|.|2
+rca|.|bbc_entertainment_163.txt|.|2
+society|.|bbc_business_357.txt|.|1|.|bbc_business_237.txt|.|2|.|bbc_politics_172.txt|.|3|.|bbc_politics_348.txt|.|3|.|bbc_business_153.txt|.|2|.|bbc_politics_217.txt|.|3|.|bbc_politics_321.txt|.|3|.|bbc_entertainment_104.txt|.|2
+blew|.|bbc_sport_263.txt|.|2
+son|.|bbc_entertainment_163.txt|.|2
+televised|.|bbc_politics_348.txt|.|5
+lord holme|.|bbc_politics_348.txt|.|5
+take a break|.|bbc_entertainment_105.txt|.|2|.|bbc_entertainment_235.txt|.|2
+pop band busted|.|bbc_entertainment_105.txt|.|2|.|bbc_entertainment_235.txt|.|2
+vault|.|bbc_sport_029.txt|.|2
+schools taking part|.|bbc_politics_217.txt|.|1|.|bbc_politics_321.txt|.|1
+mr hockney|.|bbc_politics_325.txt|.|2
+pole vault|.|bbc_sport_029.txt|.|2
+hansard society|.|bbc_politics_348.txt|.|3|.|bbc_politics_217.txt|.|3|.|bbc_politics_321.txt|.|3
+chance|.|bbc_sport_059.txt|.|1|.|bbc_sport_167.txt|.|2|.|bbc_sport_263.txt|.|1
+televised debate|.|bbc_politics_348.txt|.|3
+fastest|.|bbc_tech_253.txt|.|3|.|bbc_sport_018.txt|.|2|.|bbc_tech_356.txt|.|2
+solicitor|.|bbc_politics_065.txt|.|2
+mock elections|.|bbc_politics_217.txt|.|3|.|bbc_politics_321.txt|.|3
+guinness|.|bbc_tech_253.txt|.|4
+fast lifts|.|bbc_tech_253.txt|.|1
+painkiller game|.|bbc_tech_140.txt|.|2
+holme argued|.|bbc_politics_348.txt|.|2
+holme|.|bbc_politics_348.txt|.|5
+take|.|bbc_politics_325.txt|.|3|.|bbc_entertainment_084.txt|.|2|.|bbc_tech_253.txt|.|2|.|bbc_sport_263.txt|.|2|.|bbc_entertainment_105.txt|.|3|.|bbc_entertainment_235.txt|.|3|.|bbc_politics_217.txt|.|4|.|bbc_politics_321.txt|.|4|.|bbc_sport_029.txt|.|2|.|bbc_entertainment_163.txt|.|1|.|bbc_politics_065.txt|.|2|.|bbc_entertainment_152.txt|.|1|.|bbc_politics_348.txt|.|3|.|bbc_tech_140.txt|.|3
+busted|.|bbc_entertainment_105.txt|.|3|.|bbc_entertainment_235.txt|.|3
+take part in a mock|.|bbc_politics_217.txt|.|1|.|bbc_politics_321.txt|.|1
+take part|.|bbc_sport_029.txt|.|2|.|bbc_politics_065.txt|.|2|.|bbc_politics_348.txt|.|3|.|bbc_tech_140.txt|.|1|.|bbc_politics_217.txt|.|3|.|bbc_politics_321.txt|.|3
+list systems|.|bbc_politics_325.txt|.|1
+recordings|.|bbc_entertainment_163.txt|.|2|.|bbc_entertainment_152.txt|.|2
+band busted|.|bbc_entertainment_105.txt|.|2|.|bbc_entertainment_235.txt|.|2
+mock|.|bbc_politics_309.txt|.|5|.|bbc_politics_217.txt|.|6|.|bbc_politics_321.txt|.|6
+part in a mock|.|bbc_politics_217.txt|.|1|.|bbc_politics_321.txt|.|1
+schools to take|.|bbc_politics_217.txt|.|1|.|bbc_politics_321.txt|.|1

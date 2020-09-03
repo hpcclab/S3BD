@@ -1,0 +1,8 @@
+19
+loan collateral|.|bbc_business_477.txt|.|1
+bank|.|bbc_business_358.txt|.|8|.|bbc_entertainment_215.txt|.|4|.|bbc_business_184.txt|.|2|.|bbc_business_137.txt|.|5|.|bbc_business_396.txt|.|3|.|bbc_business_477.txt|.|7|.|bbc_tech_164.txt|.|8|.|bbc_business_506.txt|.|3|.|bbc_business_438.txt|.|6|.|bbc_entertainment_231.txt|.|2|.|bbc_tech_033.txt|.|3|.|bbc_business_023.txt|.|2|.|bbc_business_116.txt|.|1|.|bbc_business_185.txt|.|7|.|bbc_business_473.txt|.|7|.|bbc_business_083.txt|.|4|.|bbc_business_290.txt|.|7|.|bbc_business_119.txt|.|3|.|bbc_business_301.txt|.|2|.|bbc_business_498.txt|.|14|.|bbc_business_230.txt|.|3|.|bbc_entertainment_197.txt|.|3|.|bbc_business_423.txt|.|5|.|bbc_business_076.txt|.|5|.|bbc_business_122.txt|.|3|.|bbc_business_372.txt|.|1|.|bbc_business_084.txt|.|6|.|bbc_business_101.txt|.|6|.|bbc_business_032.txt|.|6|.|bbc_business_350.txt|.|2|.|bbc_business_507.txt|.|2|.|bbc_business_389.txt|.|6|.|bbc_business_492.txt|.|6|.|bbc_business_330.txt|.|3|.|bbc_business_147.txt|.|5|.|bbc_business_187.txt|.|7|.|bbc_business_085.txt|.|2|.|bbc_business_126.txt|.|8|.|bbc_business_297.txt|.|7|.|bbc_business_072.txt|.|4
+concealing|.|bbc_business_187.txt|.|1
+four year|.|bbc_business_101.txt|.|1
+standard trust bank|.|bbc_business_473.txt|.|1
+manufactured|.|bbc_business_358.txt|.|1
+biggest uk bank|.|bbc_business_126.txt|.|1

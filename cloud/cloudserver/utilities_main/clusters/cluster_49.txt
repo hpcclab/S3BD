@@ -1,0 +1,13 @@
+49
+lords ruled|.|bbc_politics_384.txt|.|1
+law protects|.|bbc_politics_230.txt|.|1
+law|.|bbc_tech_258.txt|.|5|.|bbc_tech_377.txt|.|2|.|bbc_politics_221.txt|.|5|.|bbc_tech_342.txt|.|5|.|bbc_politics_137.txt|.|9|.|bbc_politics_230.txt|.|6|.|bbc_politics_068.txt|.|4|.|bbc_tech_330.txt|.|5|.|bbc_politics_224.txt|.|8|.|bbc_business_305.txt|.|3|.|bbc_entertainment_171.txt|.|1|.|bbc_tech_399.txt|.|3|.|bbc_politics_034.txt|.|8|.|bbc_tech_048.txt|.|5|.|bbc_politics_368.txt|.|7|.|bbc_tech_132.txt|.|3|.|bbc_politics_266.txt|.|2|.|bbc_tech_030.txt|.|3|.|bbc_politics_202.txt|.|2|.|bbc_politics_384.txt|.|6|.|bbc_politics_040.txt|.|9|.|bbc_politics_031.txt|.|5|.|bbc_politics_152.txt|.|9|.|bbc_tech_080.txt|.|7|.|bbc_politics_198.txt|.|2|.|bbc_tech_096.txt|.|2|.|bbc_tech_176.txt|.|3|.|bbc_tech_014.txt|.|5|.|bbc_politics_045.txt|.|2|.|bbc_entertainment_303.txt|.|2|.|bbc_politics_097.txt|.|2|.|bbc_politics_019.txt|.|4
+delay hits|.|bbc_tech_080.txt|.|1
+suspected|.|bbc_politics_368.txt|.|1
+terrorism|.|bbc_politics_368.txt|.|1
+legalising euthanasia|.|bbc_politics_068.txt|.|1
+killing|.|bbc_politics_230.txt|.|1
+belmarsh prison|.|bbc_politics_224.txt|.|2
+detention ruling|.|bbc_politics_368.txt|.|1
+simply wrong|.|bbc_politics_040.txt|.|2
+simply|.|bbc_politics_040.txt|.|2

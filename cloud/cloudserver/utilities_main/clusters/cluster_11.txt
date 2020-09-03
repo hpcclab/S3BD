@@ -1,0 +1,38 @@
+11
+hunting with dogs|.|bbc_politics_152.txt|.|2|.|bbc_politics_134.txt|.|2|.|bbc_politics_179.txt|.|2
+poorly|.|bbc_politics_169.txt|.|2
+deer|.|bbc_politics_169.txt|.|3
+alliance|.|bbc_politics_032.txt|.|3|.|bbc_politics_134.txt|.|2|.|bbc_politics_179.txt|.|3|.|bbc_business_431.txt|.|1|.|bbc_politics_137.txt|.|2
+countryside alliance|.|bbc_politics_032.txt|.|3|.|bbc_politics_134.txt|.|2|.|bbc_politics_179.txt|.|2|.|bbc_politics_137.txt|.|2
+rural|.|bbc_politics_152.txt|.|3
+demonstration site|.|bbc_politics_032.txt|.|2
+polling|.|bbc_politics_381.txt|.|1
+appeal court|.|bbc_politics_179.txt|.|1
+ban|.|bbc_politics_032.txt|.|6|.|bbc_politics_134.txt|.|4|.|bbc_sport_319.txt|.|3|.|bbc_politics_377.txt|.|2|.|bbc_sport_295.txt|.|2|.|bbc_politics_137.txt|.|4|.|bbc_politics_050.txt|.|11|.|bbc_sport_035.txt|.|3|.|bbc_politics_152.txt|.|3|.|bbc_sport_485.txt|.|1|.|bbc_sport_048.txt|.|1|.|bbc_business_437.txt|.|2|.|bbc_politics_066.txt|.|4|.|bbc_politics_381.txt|.|7|.|bbc_politics_179.txt|.|8|.|bbc_sport_026.txt|.|4|.|bbc_sport_021.txt|.|4|.|bbc_sport_166.txt|.|2|.|bbc_sport_201.txt|.|2|.|bbc_politics_058.txt|.|5
+order act|.|bbc_politics_066.txt|.|2
+offence|.|bbc_politics_169.txt|.|5
+law banning hunting|.|bbc_politics_152.txt|.|1
+ban law|.|bbc_politics_152.txt|.|1
+hunting ban|.|bbc_politics_152.txt|.|2|.|bbc_politics_032.txt|.|2|.|bbc_politics_381.txt|.|1
+dogs|.|bbc_politics_152.txt|.|3|.|bbc_politics_169.txt|.|8|.|bbc_politics_134.txt|.|2|.|bbc_politics_179.txt|.|2|.|bbc_politics_137.txt|.|3
+define|.|bbc_politics_169.txt|.|4
+animals|.|bbc_politics_169.txt|.|4|.|bbc_tech_202.txt|.|6|.|bbc_politics_203.txt|.|2
+public order|.|bbc_politics_066.txt|.|2
+hunting|.|bbc_politics_152.txt|.|10|.|bbc_politics_169.txt|.|14|.|bbc_politics_032.txt|.|4|.|bbc_politics_134.txt|.|11|.|bbc_politics_066.txt|.|4|.|bbc_politics_381.txt|.|2|.|bbc_politics_179.txt|.|8
+supported a hunting ban|.|bbc_politics_381.txt|.|1
+poorly drafted|.|bbc_politics_169.txt|.|2
+rural communities|.|bbc_politics_152.txt|.|1
+countryside|.|bbc_politics_032.txt|.|3|.|bbc_politics_134.txt|.|2|.|bbc_politics_179.txt|.|4|.|bbc_politics_137.txt|.|2
+banning|.|bbc_politics_152.txt|.|1|.|bbc_politics_169.txt|.|1|.|bbc_politics_219.txt|.|2
+hunting act|.|bbc_politics_179.txt|.|2
+four dogs|.|bbc_politics_169.txt|.|2
+foxes|.|bbc_politics_134.txt|.|2
+unwanted animals|.|bbc_politics_169.txt|.|2
+banning hunting|.|bbc_politics_169.txt|.|1
+said police|.|bbc_politics_134.txt|.|2
+unwanted|.|bbc_politics_169.txt|.|2
+demonstration|.|bbc_politics_032.txt|.|4
+otis|.|bbc_politics_066.txt|.|2
+house of commons chamber|.|bbc_politics_066.txt|.|2
+drafted|.|bbc_politics_169.txt|.|2
+commons chamber|.|bbc_politics_066.txt|.|2

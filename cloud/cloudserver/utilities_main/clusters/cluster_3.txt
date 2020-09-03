@@ -1,0 +1,25 @@
+3
+skulls|.|bbc_tech_197.txt|.|9
+firefox browser|.|bbc_tech_138.txt|.|2
+sites searching|.|bbc_tech_257.txt|.|1
+phpbb|.|bbc_tech_257.txt|.|3
+wallpaper|.|bbc_tech_197.txt|.|2
+software|.|bbc_tech_258.txt|.|4|.|bbc_tech_029.txt|.|5|.|bbc_tech_398.txt|.|5|.|bbc_tech_177.txt|.|8|.|bbc_tech_292.txt|.|8|.|bbc_tech_316.txt|.|2|.|bbc_tech_342.txt|.|3|.|bbc_tech_012.txt|.|6|.|bbc_tech_091.txt|.|3|.|bbc_tech_330.txt|.|5|.|bbc_tech_003.txt|.|6|.|bbc_tech_308.txt|.|9|.|bbc_tech_105.txt|.|2|.|bbc_tech_399.txt|.|10|.|bbc_tech_051.txt|.|7|.|bbc_tech_048.txt|.|3|.|bbc_tech_331.txt|.|6|.|bbc_tech_323.txt|.|7|.|bbc_tech_268.txt|.|8|.|bbc_tech_370.txt|.|4|.|bbc_tech_036.txt|.|6|.|bbc_tech_080.txt|.|5|.|bbc_tech_227.txt|.|5|.|bbc_tech_108.txt|.|10|.|bbc_tech_257.txt|.|2|.|bbc_tech_083.txt|.|9|.|bbc_tech_014.txt|.|5|.|bbc_tech_354.txt|.|12
+release|.|bbc_entertainment_054.txt|.|2|.|bbc_entertainment_126.txt|.|1|.|bbc_tech_139.txt|.|3|.|bbc_entertainment_248.txt|.|3|.|bbc_tech_268.txt|.|1|.|bbc_politics_150.txt|.|2|.|bbc_politics_031.txt|.|1|.|bbc_tech_036.txt|.|1|.|bbc_entertainment_384.txt|.|1|.|bbc_entertainment_359.txt|.|2|.|bbc_tech_300.txt|.|3|.|bbc_tech_138.txt|.|2|.|bbc_politics_205.txt|.|3|.|bbc_tech_237.txt|.|2|.|bbc_entertainment_087.txt|.|2|.|bbc_tech_003.txt|.|1|.|bbc_politics_192.txt|.|5|.|bbc_entertainment_234.txt|.|1
+santy|.|bbc_tech_257.txt|.|4
+searching|.|bbc_tech_257.txt|.|2
+york times|.|bbc_tech_138.txt|.|2
+trojan|.|bbc_tech_036.txt|.|3|.|bbc_tech_003.txt|.|3
+program|.|bbc_tech_036.txt|.|6|.|bbc_tech_138.txt|.|5|.|bbc_tech_257.txt|.|5|.|bbc_tech_237.txt|.|3|.|bbc_tech_003.txt|.|6|.|bbc_tech_197.txt|.|10
+malicious program|.|bbc_tech_257.txt|.|3|.|bbc_tech_197.txt|.|2
+tool|.|bbc_tech_036.txt|.|2|.|bbc_tech_108.txt|.|3|.|bbc_tech_177.txt|.|2|.|bbc_tech_237.txt|.|4|.|bbc_tech_003.txt|.|2|.|bbc_tech_267.txt|.|2|.|bbc_tech_292.txt|.|2|.|bbc_tech_028.txt|.|2
+spread|.|bbc_tech_210.txt|.|4|.|bbc_tech_257.txt|.|3|.|bbc_politics_280.txt|.|2
+malicious|.|bbc_tech_385.txt|.|3|.|bbc_tech_210.txt|.|5|.|bbc_tech_257.txt|.|3|.|bbc_tech_400.txt|.|2|.|bbc_tech_197.txt|.|4|.|bbc_tech_077.txt|.|6
+spyware tool|.|bbc_tech_036.txt|.|1|.|bbc_tech_003.txt|.|1
+phpbb software|.|bbc_tech_257.txt|.|2
+files|.|bbc_tech_284.txt|.|2|.|bbc_tech_091.txt|.|5|.|bbc_tech_092.txt|.|3|.|bbc_tech_237.txt|.|2|.|bbc_tech_207.txt|.|3|.|bbc_sport_088.txt|.|1
+program attempts|.|bbc_tech_036.txt|.|1|.|bbc_tech_003.txt|.|1
+smartphones|.|bbc_tech_197.txt|.|2
+santy worm|.|bbc_tech_257.txt|.|2
+desktop search|.|bbc_tech_108.txt|.|6|.|bbc_tech_269.txt|.|5|.|bbc_tech_237.txt|.|5
+attempts|.|bbc_tech_036.txt|.|2|.|bbc_tech_003.txt|.|2

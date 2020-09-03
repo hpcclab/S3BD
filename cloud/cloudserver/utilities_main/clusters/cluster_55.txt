@@ -1,0 +1,27 @@
+55
+rebuilding costs|.|bbc_business_262.txt|.|1|.|bbc_business_411.txt|.|1
+nation|.|bbc_business_354.txt|.|1
+attacks cost|.|bbc_politics_106.txt|.|1
+rebuilding|.|bbc_business_262.txt|.|2|.|bbc_business_411.txt|.|2
+newspaper reports|.|bbc_business_455.txt|.|1
+geoff dixon|.|bbc_business_455.txt|.|2
+smart acquisition|.|bbc_politics_076.txt|.|2
+low cost|.|bbc_tech_300.txt|.|1
+rupiah|.|bbc_business_411.txt|.|3
+cost sri|.|bbc_business_398.txt|.|1
+dvd burner|.|bbc_tech_301.txt|.|4
+european shares|.|bbc_business_262.txt|.|2
+economic cost|.|bbc_business_354.txt|.|1
+senior defence|.|bbc_politics_076.txt|.|2
+cost to sri lanka|.|bbc_business_398.txt|.|1
+cost|.|bbc_business_455.txt|.|2|.|bbc_business_262.txt|.|3|.|bbc_politics_391.txt|.|6|.|bbc_entertainment_160.txt|.|2|.|bbc_tech_333.txt|.|2|.|bbc_tech_351.txt|.|2|.|bbc_business_354.txt|.|3|.|bbc_tech_022.txt|.|2|.|bbc_tech_037.txt|.|2|.|bbc_tech_301.txt|.|6|.|bbc_tech_300.txt|.|2|.|bbc_politics_076.txt|.|3|.|bbc_business_398.txt|.|2|.|bbc_business_411.txt|.|3|.|bbc_business_204.txt|.|4|.|bbc_politics_106.txt|.|3|.|bbc_tech_380.txt|.|2
+equipment|.|bbc_politics_076.txt|.|2
+leslie said|.|bbc_politics_391.txt|.|2
+sun offers|.|bbc_tech_022.txt|.|1|.|bbc_tech_380.txt|.|1
+offshore|.|bbc_business_455.txt|.|2
+told reporters|.|bbc_business_398.txt|.|2
+ethernet|.|bbc_tech_301.txt|.|2
+south asia|.|bbc_business_262.txt|.|2
+defence spending|.|bbc_business_204.txt|.|1
+port|.|bbc_tech_301.txt|.|4
+spending rise|.|bbc_business_204.txt|.|1

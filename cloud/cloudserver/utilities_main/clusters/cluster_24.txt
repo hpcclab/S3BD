@@ -1,0 +1,18 @@
+24
+own pockets|.|bbc_business_403.txt|.|2
+michael portillo|.|bbc_politics_320.txt|.|2
+warning to bbc|.|bbc_politics_196.txt|.|1
+speaking fees|.|bbc_politics_320.txt|.|2
+accounting decisions|.|bbc_business_087.txt|.|1
+former|.|bbc_sport_208.txt|.|4|.|bbc_sport_233.txt|.|2|.|bbc_business_197.txt|.|1|.|bbc_politics_183.txt|.|3|.|bbc_politics_196.txt|.|2|.|bbc_sport_386.txt|.|2|.|bbc_politics_027.txt|.|3|.|bbc_sport_321.txt|.|3|.|bbc_sport_251.txt|.|2|.|bbc_sport_366.txt|.|2|.|bbc_entertainment_123.txt|.|2|.|bbc_sport_212.txt|.|2|.|bbc_business_336.txt|.|2|.|bbc_business_087.txt|.|3|.|bbc_business_403.txt|.|5|.|bbc_business_508.txt|.|2|.|bbc_business_458.txt|.|3|.|bbc_sport_228.txt|.|2|.|bbc_business_246.txt|.|4|.|bbc_politics_297.txt|.|2|.|bbc_business_497.txt|.|2|.|bbc_sport_270.txt|.|2|.|bbc_business_196.txt|.|3|.|bbc_sport_226.txt|.|2|.|bbc_tech_001.txt|.|2|.|bbc_business_465.txt|.|3|.|bbc_business_414.txt|.|4|.|bbc_business_059.txt|.|2|.|bbc_politics_320.txt|.|5
+health secretary|.|bbc_politics_320.txt|.|1
+warns bbc|.|bbc_politics_297.txt|.|1
+smith already has the backing|.|bbc_sport_208.txt|.|1
+started in new|.|bbc_business_465.txt|.|1
+former directors|.|bbc_business_414.txt|.|2|.|bbc_business_403.txt|.|3
+portillo|.|bbc_politics_320.txt|.|2
+pockets|.|bbc_business_403.txt|.|2
+appointing tommy|.|bbc_sport_208.txt|.|1
+started in new york|.|bbc_business_465.txt|.|1
+scott dies|.|bbc_politics_183.txt|.|1
+confidential|.|bbc_business_497.txt|.|1

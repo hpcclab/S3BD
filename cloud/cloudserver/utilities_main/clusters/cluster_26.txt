@@ -1,0 +1,39 @@
+26
+devine|.|bbc_sport_240.txt|.|5
+time remaining|.|bbc_sport_247.txt|.|2
+stevie crawford|.|bbc_sport_107.txt|.|2
+two minutes|.|bbc_sport_247.txt|.|2
+extra time|.|bbc_sport_104.txt|.|1
+graham|.|bbc_sport_186.txt|.|2|.|bbc_sport_106.txt|.|5
+bullock|.|bbc_sport_107.txt|.|3|.|bbc_sport_339.txt|.|2
+united restored|.|bbc_sport_107.txt|.|1
+grady|.|bbc_sport_107.txt|.|7
+said the home|.|bbc_politics_071.txt|.|2
+murphy|.|bbc_sport_302.txt|.|5|.|bbc_sport_314.txt|.|5|.|bbc_sport_325.txt|.|2|.|bbc_sport_376.txt|.|2
+riise|.|bbc_sport_104.txt|.|4
+european champions|.|bbc_sport_376.txt|.|2
+whelan|.|bbc_sport_107.txt|.|2
+abandoned|.|bbc_sport_247.txt|.|2
+friendlies|.|bbc_sport_119.txt|.|4
+stevie|.|bbc_sport_107.txt|.|2
+gisbergen|.|bbc_sport_294.txt|.|2|.|bbc_sport_376.txt|.|1
+kezman|.|bbc_sport_104.txt|.|5|.|bbc_sport_139.txt|.|3
+queudrue|.|bbc_sport_106.txt|.|2
+minutes|.|bbc_sport_240.txt|.|2|.|bbc_sport_106.txt|.|3|.|bbc_sport_107.txt|.|8|.|bbc_sport_225.txt|.|2|.|bbc_sport_119.txt|.|2|.|bbc_sport_104.txt|.|6|.|bbc_politics_071.txt|.|4|.|bbc_sport_247.txt|.|4|.|bbc_sport_376.txt|.|2
+holland|.|bbc_sport_106.txt|.|4
+cech|.|bbc_sport_104.txt|.|4
+scholes|.|bbc_sport_240.txt|.|4
+remaining|.|bbc_sport_247.txt|.|3
+six minutes|.|bbc_sport_106.txt|.|2
+byrne|.|bbc_sport_107.txt|.|3
+danny|.|bbc_sport_106.txt|.|2
+real madrid|.|bbc_sport_245.txt|.|1|.|bbc_sport_193.txt|.|2|.|bbc_sport_154.txt|.|4|.|bbc_sport_211.txt|.|2|.|bbc_sport_275.txt|.|3|.|bbc_sport_237.txt|.|3|.|bbc_sport_247.txt|.|2
+visa|.|bbc_politics_156.txt|.|3|.|bbc_politics_102.txt|.|3|.|bbc_entertainment_349.txt|.|4|.|bbc_politics_112.txt|.|2|.|bbc_politics_071.txt|.|6
+minutes later|.|bbc_sport_107.txt|.|3
+club managers|.|bbc_sport_119.txt|.|2
+riggott|.|bbc_sport_106.txt|.|3
+nunez|.|bbc_sport_104.txt|.|3
+restored|.|bbc_sport_107.txt|.|2
+staff are expected|.|bbc_politics_071.txt|.|1
+play the final|.|bbc_sport_247.txt|.|2
+crawford|.|bbc_sport_131.txt|.|2|.|bbc_sport_107.txt|.|6

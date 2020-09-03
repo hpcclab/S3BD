@@ -1,0 +1,55 @@
+22
+mail|.|bbc_business_166.txt|.|3|.|bbc_tech_055.txt|.|1|.|bbc_tech_210.txt|.|3|.|bbc_sport_346.txt|.|3|.|bbc_tech_362.txt|.|3|.|bbc_politics_061.txt|.|4|.|bbc_tech_026.txt|.|11|.|bbc_tech_390.txt|.|3|.|bbc_tech_314.txt|.|1|.|bbc_tech_117.txt|.|1
+help the virus spread|.|bbc_tech_210.txt|.|1
+radicati group|.|bbc_tech_362.txt|.|2
+bad|.|bbc_business_244.txt|.|2|.|bbc_sport_154.txt|.|2|.|bbc_business_387.txt|.|2|.|bbc_tech_362.txt|.|3|.|bbc_entertainment_138.txt|.|2|.|bbc_entertainment_158.txt|.|2|.|bbc_business_050.txt|.|2|.|bbc_politics_160.txt|.|2
+help virus|.|bbc_tech_210.txt|.|1
+business groups|.|bbc_business_166.txt|.|3
+turns|.|bbc_tech_210.txt|.|1
+circulating|.|bbc_tech_026.txt|.|2
+amount of spam circulating|.|bbc_tech_026.txt|.|1
+mail servers|.|bbc_tech_026.txt|.|3
+darlington|.|bbc_politics_061.txt|.|4
+sustains|.|bbc_tech_362.txt|.|1
+protest|.|bbc_sport_346.txt|.|2
+legal fight|.|bbc_tech_390.txt|.|1|.|bbc_tech_355.txt|.|2
+treasury|.|bbc_business_166.txt|.|3|.|bbc_politics_407.txt|.|3
+junk mail|.|bbc_tech_026.txt|.|6|.|bbc_tech_390.txt|.|2
+seeking bankruptcy|.|bbc_tech_390.txt|.|1
+messages|.|bbc_tech_385.txt|.|3|.|bbc_tech_210.txt|.|6|.|bbc_tech_132.txt|.|2|.|bbc_tech_152.txt|.|5|.|bbc_tech_217.txt|.|6|.|bbc_tech_362.txt|.|2|.|bbc_tech_176.txt|.|2|.|bbc_entertainment_001.txt|.|2|.|bbc_tech_026.txt|.|3|.|bbc_tech_106.txt|.|1|.|bbc_tech_273.txt|.|6|.|bbc_tech_142.txt|.|12
+mail on sunday|.|bbc_business_166.txt|.|1
+virus spread|.|bbc_tech_210.txt|.|2
+regional assembly|.|bbc_politics_061.txt|.|2
+sustains spam|.|bbc_tech_362.txt|.|1
+regional|.|bbc_politics_061.txt|.|2|.|bbc_business_407.txt|.|2
+spam messages|.|bbc_tech_362.txt|.|2
+rugby board|.|bbc_sport_346.txt|.|2
+bankruptcy|.|bbc_business_358.txt|.|7|.|bbc_business_305.txt|.|4|.|bbc_business_348.txt|.|4|.|bbc_business_145.txt|.|6|.|bbc_business_164.txt|.|4|.|bbc_business_025.txt|.|2|.|bbc_tech_390.txt|.|2|.|bbc_business_299.txt|.|5|.|bbc_business_192.txt|.|3|.|bbc_business_391.txt|.|4
+papers|.|bbc_politics_061.txt|.|7
+crossrail link|.|bbc_business_166.txt|.|2
+servers|.|bbc_tech_013.txt|.|1|.|bbc_tech_026.txt|.|3
+darlington council|.|bbc_politics_061.txt|.|3
+daily mail|.|bbc_sport_346.txt|.|3
+irb|.|bbc_sport_346.txt|.|2
+infected machines|.|bbc_tech_210.txt|.|3
+radicati|.|bbc_tech_362.txt|.|2
+amount of spam|.|bbc_tech_026.txt|.|2
+turns infected|.|bbc_tech_210.txt|.|1
+ballot|.|bbc_politics_114.txt|.|8|.|bbc_politics_061.txt|.|9|.|bbc_entertainment_081.txt|.|1|.|bbc_politics_294.txt|.|2
+receive|.|bbc_business_077.txt|.|1|.|bbc_politics_061.txt|.|2|.|bbc_politics_322.txt|.|1
+infected|.|bbc_politics_140.txt|.|2|.|bbc_tech_210.txt|.|5|.|bbc_tech_272.txt|.|3|.|bbc_sport_338.txt|.|2
+amount|.|bbc_tech_055.txt|.|2|.|bbc_business_266.txt|.|3|.|bbc_tech_026.txt|.|3|.|bbc_tech_314.txt|.|2
+spammer|.|bbc_tech_390.txt|.|2
+links in spam|.|bbc_tech_362.txt|.|1
+warnings|.|bbc_tech_227.txt|.|1|.|bbc_tech_398.txt|.|1|.|bbc_politics_199.txt|.|3|.|bbc_tech_026.txt|.|2
+company said|.|bbc_business_307.txt|.|2|.|bbc_tech_390.txt|.|2
+called bofra|.|bbc_tech_210.txt|.|2
+filters|.|bbc_tech_362.txt|.|2
+mail messages|.|bbc_tech_210.txt|.|1
+management|.|bbc_tech_055.txt|.|1|.|bbc_business_203.txt|.|3|.|bbc_tech_314.txt|.|1
+ballot papers|.|bbc_politics_061.txt|.|7
+spam circulating|.|bbc_tech_026.txt|.|1
+junk|.|bbc_tech_055.txt|.|2|.|bbc_tech_026.txt|.|10|.|bbc_tech_390.txt|.|2|.|bbc_tech_314.txt|.|2
+royal mail|.|bbc_politics_061.txt|.|4
+spam|.|bbc_tech_227.txt|.|10|.|bbc_tech_398.txt|.|10|.|bbc_tech_132.txt|.|3|.|bbc_tech_362.txt|.|13|.|bbc_tech_214.txt|.|5|.|bbc_tech_189.txt|.|11|.|bbc_tech_176.txt|.|3|.|bbc_tech_159.txt|.|3|.|bbc_tech_026.txt|.|6|.|bbc_tech_390.txt|.|2|.|bbc_tech_147.txt|.|3
+royal|.|bbc_entertainment_011.txt|.|2|.|bbc_politics_379.txt|.|2|.|bbc_politics_073.txt|.|3|.|bbc_politics_061.txt|.|4|.|bbc_politics_208.txt|.|2|.|bbc_entertainment_022.txt|.|2

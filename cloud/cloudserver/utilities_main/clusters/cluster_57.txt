@@ -1,0 +1,13 @@
+57
+pension strike|.|bbc_politics_312.txt|.|1|.|bbc_politics_311.txt|.|1|.|bbc_politics_069.txt|.|1
+unions met|.|bbc_politics_312.txt|.|1
+aimed at averting|.|bbc_politics_311.txt|.|1|.|bbc_politics_069.txt|.|1
+public|.|bbc_politics_188.txt|.|2|.|bbc_politics_344.txt|.|3|.|bbc_politics_264.txt|.|2|.|bbc_entertainment_121.txt|.|3|.|bbc_politics_234.txt|.|4|.|bbc_politics_042.txt|.|7|.|bbc_tech_236.txt|.|4|.|bbc_politics_211.txt|.|4|.|bbc_politics_233.txt|.|5|.|bbc_politics_069.txt|.|6|.|bbc_politics_099.txt|.|2|.|bbc_politics_175.txt|.|3|.|bbc_politics_387.txt|.|3|.|bbc_politics_294.txt|.|4|.|bbc_politics_242.txt|.|4|.|bbc_entertainment_269.txt|.|2|.|bbc_politics_312.txt|.|6|.|bbc_politics_279.txt|.|3|.|bbc_business_240.txt|.|2|.|bbc_business_267.txt|.|3|.|bbc_sport_040.txt|.|3|.|bbc_tech_191.txt|.|9|.|bbc_politics_414.txt|.|3|.|bbc_politics_122.txt|.|3|.|bbc_business_365.txt|.|3|.|bbc_politics_050.txt|.|7|.|bbc_politics_248.txt|.|2|.|bbc_business_389.txt|.|5|.|bbc_politics_066.txt|.|2|.|bbc_business_214.txt|.|2|.|bbc_business_355.txt|.|2|.|bbc_politics_311.txt|.|6|.|bbc_politics_270.txt|.|2|.|bbc_entertainment_108.txt|.|2|.|bbc_entertainment_020.txt|.|2|.|bbc_politics_404.txt|.|5
+aim|.|bbc_politics_311.txt|.|1|.|bbc_politics_069.txt|.|1
+prepared|.|bbc_politics_233.txt|.|1
+averting|.|bbc_politics_311.txt|.|1|.|bbc_politics_069.txt|.|1
+smoke free|.|bbc_politics_050.txt|.|1
+talks aimed|.|bbc_politics_311.txt|.|1|.|bbc_politics_069.txt|.|1
+service union|.|bbc_politics_294.txt|.|1
+avert|.|bbc_politics_311.txt|.|1|.|bbc_politics_069.txt|.|1
+clashed|.|bbc_politics_211.txt|.|1|.|bbc_politics_387.txt|.|1

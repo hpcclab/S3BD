@@ -1,0 +1,48 @@
+50
+suspends|.|bbc_politics_170.txt|.|1
+stems|.|bbc_sport_395.txt|.|1
+elfyn llwyd|.|bbc_politics_177.txt|.|2
+hospital has suspended|.|bbc_politics_170.txt|.|1
+office minister|.|bbc_politics_177.txt|.|2
+legend|.|bbc_sport_395.txt|.|1
+germany|.|bbc_sport_194.txt|.|2|.|bbc_politics_039.txt|.|5|.|bbc_politics_292.txt|.|4
+james|.|bbc_entertainment_347.txt|.|2|.|bbc_sport_060.txt|.|2|.|bbc_tech_245.txt|.|3|.|bbc_politics_039.txt|.|6|.|bbc_business_337.txt|.|2|.|bbc_entertainment_333.txt|.|2|.|bbc_entertainment_263.txt|.|2|.|bbc_sport_139.txt|.|12|.|bbc_sport_097.txt|.|3
+welsh office|.|bbc_politics_177.txt|.|1
+welsh arts|.|bbc_politics_039.txt|.|2
+quango|.|bbc_politics_039.txt|.|1
+powys health|.|bbc_politics_170.txt|.|2
+nations|.|bbc_sport_360.txt|.|2|.|bbc_sport_335.txt|.|3|.|bbc_business_442.txt|.|2|.|bbc_sport_289.txt|.|3|.|bbc_sport_327.txt|.|3|.|bbc_sport_356.txt|.|2|.|bbc_sport_395.txt|.|2|.|bbc_sport_410.txt|.|4|.|bbc_sport_403.txt|.|4|.|bbc_sport_351.txt|.|2|.|bbc_sport_364.txt|.|3|.|bbc_sport_406.txt|.|3|.|bbc_sport_383.txt|.|2|.|bbc_tech_017.txt|.|3|.|bbc_sport_285.txt|.|5|.|bbc_sport_387.txt|.|2|.|bbc_sport_344.txt|.|2|.|bbc_sport_313.txt|.|4|.|bbc_politics_017.txt|.|3|.|bbc_sport_415.txt|.|2|.|bbc_sport_322.txt|.|2|.|bbc_sport_311.txt|.|2|.|bbc_tech_361.txt|.|2|.|bbc_sport_413.txt|.|5|.|bbc_sport_345.txt|.|2|.|bbc_sport_332.txt|.|2|.|bbc_sport_291.txt|.|2|.|bbc_business_008.txt|.|6|.|bbc_sport_295.txt|.|2|.|bbc_sport_372.txt|.|2|.|bbc_tech_074.txt|.|3|.|bbc_sport_412.txt|.|3|.|bbc_sport_385.txt|.|2|.|bbc_sport_408.txt|.|3|.|bbc_politics_130.txt|.|4|.|bbc_sport_342.txt|.|4|.|bbc_sport_363.txt|.|2|.|bbc_sport_292.txt|.|2|.|bbc_sport_296.txt|.|2
+office|.|bbc_entertainment_100.txt|.|4|.|bbc_business_243.txt|.|4|.|bbc_entertainment_312.txt|.|2|.|bbc_entertainment_364.txt|.|2|.|bbc_entertainment_046.txt|.|2|.|bbc_tech_041.txt|.|7|.|bbc_entertainment_202.txt|.|2|.|bbc_politics_078.txt|.|2|.|bbc_entertainment_363.txt|.|6|.|bbc_entertainment_350.txt|.|3|.|bbc_entertainment_088.txt|.|3|.|bbc_entertainment_380.txt|.|3|.|bbc_politics_042.txt|.|2|.|bbc_business_073.txt|.|2|.|bbc_entertainment_384.txt|.|2|.|bbc_entertainment_335.txt|.|3|.|bbc_entertainment_066.txt|.|2|.|bbc_entertainment_053.txt|.|6|.|bbc_business_357.txt|.|2|.|bbc_politics_370.txt|.|3|.|bbc_entertainment_074.txt|.|3|.|bbc_entertainment_340.txt|.|3|.|bbc_business_446.txt|.|2|.|bbc_entertainment_065.txt|.|2|.|bbc_politics_203.txt|.|2|.|bbc_entertainment_060.txt|.|2|.|bbc_entertainment_073.txt|.|3|.|bbc_entertainment_049.txt|.|3|.|bbc_politics_232.txt|.|3|.|bbc_politics_215.txt|.|6|.|bbc_entertainment_196.txt|.|5|.|bbc_politics_031.txt|.|5|.|bbc_entertainment_072.txt|.|4|.|bbc_entertainment_297.txt|.|3|.|bbc_tech_376.txt|.|7|.|bbc_entertainment_338.txt|.|2|.|bbc_politics_041.txt|.|2|.|bbc_politics_088.txt|.|2|.|bbc_entertainment_076.txt|.|4|.|bbc_politics_002.txt|.|2|.|bbc_politics_138.txt|.|4|.|bbc_politics_177.txt|.|2
+welsh legend|.|bbc_sport_395.txt|.|2
+pugh said|.|bbc_politics_039.txt|.|2
+welsh|.|bbc_politics_170.txt|.|5|.|bbc_sport_392.txt|.|2|.|bbc_politics_039.txt|.|8|.|bbc_sport_395.txt|.|7|.|bbc_sport_362.txt|.|4|.|bbc_politics_177.txt|.|3|.|bbc_sport_401.txt|.|2
+welsh region|.|bbc_sport_392.txt|.|2
+red|.|bbc_sport_269.txt|.|1|.|bbc_tech_230.txt|.|1|.|bbc_entertainment_354.txt|.|4|.|bbc_entertainment_064.txt|.|2|.|bbc_sport_401.txt|.|2
+pugh|.|bbc_politics_039.txt|.|2
+review|.|bbc_politics_039.txt|.|2|.|bbc_business_231.txt|.|4
+assembly|.|bbc_politics_101.txt|.|3|.|bbc_politics_061.txt|.|3|.|bbc_politics_288.txt|.|2|.|bbc_politics_039.txt|.|8|.|bbc_politics_200.txt|.|5
+security services|.|bbc_politics_177.txt|.|7
+arts|.|bbc_politics_039.txt|.|10
+welsh patients|.|bbc_politics_170.txt|.|3
+quango review|.|bbc_politics_039.txt|.|1
+ms james|.|bbc_politics_039.txt|.|5
+funding|.|bbc_politics_039.txt|.|2|.|bbc_business_469.txt|.|3|.|bbc_politics_298.txt|.|3|.|bbc_sport_362.txt|.|2|.|bbc_politics_059.txt|.|3
+six|.|bbc_sport_360.txt|.|2|.|bbc_sport_335.txt|.|3|.|bbc_sport_106.txt|.|3|.|bbc_sport_407.txt|.|2|.|bbc_sport_114.txt|.|3|.|bbc_sport_343.txt|.|1|.|bbc_sport_289.txt|.|4|.|bbc_politics_366.txt|.|1|.|bbc_sport_327.txt|.|3|.|bbc_politics_382.txt|.|3|.|bbc_sport_300.txt|.|2|.|bbc_sport_395.txt|.|2|.|bbc_sport_319.txt|.|1|.|bbc_sport_351.txt|.|2|.|bbc_sport_406.txt|.|4|.|bbc_entertainment_040.txt|.|2|.|bbc_politics_144.txt|.|3|.|bbc_sport_387.txt|.|2|.|bbc_sport_344.txt|.|2|.|bbc_sport_415.txt|.|3|.|bbc_sport_413.txt|.|5|.|bbc_sport_345.txt|.|3|.|bbc_sport_332.txt|.|2|.|bbc_politics_003.txt|.|6|.|bbc_sport_295.txt|.|2|.|bbc_sport_412.txt|.|2|.|bbc_sport_408.txt|.|3|.|bbc_sport_358.txt|.|3|.|bbc_sport_363.txt|.|2|.|bbc_sport_296.txt|.|2|.|bbc_sport_356.txt|.|2|.|bbc_sport_410.txt|.|4|.|bbc_sport_403.txt|.|4|.|bbc_sport_364.txt|.|3|.|bbc_sport_162.txt|.|2|.|bbc_sport_383.txt|.|3|.|bbc_sport_285.txt|.|5|.|bbc_sport_313.txt|.|4|.|bbc_sport_411.txt|.|3|.|bbc_sport_322.txt|.|2|.|bbc_business_128.txt|.|2|.|bbc_sport_311.txt|.|2|.|bbc_sport_117.txt|.|2|.|bbc_sport_368.txt|.|8|.|bbc_sport_286.txt|.|2|.|bbc_sport_291.txt|.|3|.|bbc_sport_372.txt|.|2|.|bbc_business_257.txt|.|2|.|bbc_sport_385.txt|.|2|.|bbc_sport_342.txt|.|4|.|bbc_sport_292.txt|.|2|.|bbc_sport_151.txt|.|2
+llwyd|.|bbc_politics_177.txt|.|4
+students rugby|.|bbc_sport_362.txt|.|3
+rugby|.|bbc_sport_360.txt|.|8|.|bbc_sport_365.txt|.|5|.|bbc_sport_343.txt|.|2|.|bbc_sport_357.txt|.|3|.|bbc_sport_395.txt|.|4|.|bbc_tech_028.txt|.|2|.|bbc_sport_399.txt|.|3|.|bbc_sport_364.txt|.|5|.|bbc_sport_419.txt|.|2|.|bbc_sport_369.txt|.|4|.|bbc_sport_387.txt|.|6|.|bbc_sport_370.txt|.|4|.|bbc_sport_402.txt|.|5|.|bbc_sport_374.txt|.|6|.|bbc_sport_361.txt|.|2|.|bbc_sport_413.txt|.|3|.|bbc_sport_371.txt|.|11|.|bbc_sport_346.txt|.|3|.|bbc_sport_367.txt|.|3|.|bbc_sport_397.txt|.|6|.|bbc_sport_329.txt|.|3|.|bbc_sport_362.txt|.|6|.|bbc_sport_375.txt|.|3|.|bbc_sport_372.txt|.|3|.|bbc_sport_328.txt|.|3|.|bbc_sport_385.txt|.|6|.|bbc_sport_358.txt|.|5|.|bbc_sport_404.txt|.|2|.|bbc_sport_363.txt|.|3|.|bbc_sport_398.txt|.|3|.|bbc_sport_400.txt|.|3
+patients|.|bbc_politics_170.txt|.|12|.|bbc_politics_121.txt|.|6
+health|.|bbc_politics_050.txt|.|9|.|bbc_politics_170.txt|.|7|.|bbc_business_159.txt|.|3|.|bbc_politics_265.txt|.|2|.|bbc_politics_382.txt|.|9|.|bbc_tech_200.txt|.|3|.|bbc_politics_226.txt|.|2|.|bbc_politics_124.txt|.|9|.|bbc_politics_057.txt|.|2|.|bbc_politics_320.txt|.|1|.|bbc_politics_122.txt|.|9|.|bbc_politics_162.txt|.|6
+government control|.|bbc_politics_039.txt|.|3
+matches|.|bbc_sport_423.txt|.|2|.|bbc_sport_474.txt|.|2|.|bbc_sport_204.txt|.|3|.|bbc_sport_362.txt|.|2|.|bbc_sport_455.txt|.|2
+martyn williams|.|bbc_sport_312.txt|.|3|.|bbc_sport_395.txt|.|2|.|bbc_sport_416.txt|.|3
+wales students|.|bbc_sport_362.txt|.|4
+nationalist vote|.|bbc_politics_177.txt|.|2
+lord roberts|.|bbc_politics_177.txt|.|2
+hereford hospital|.|bbc_politics_170.txt|.|2
+meibion glyndwr|.|bbc_politics_177.txt|.|3
+elfyn|.|bbc_politics_177.txt|.|2
+sides|.|bbc_sport_395.txt|.|3
+arts funding|.|bbc_politics_039.txt|.|2
+hereford|.|bbc_politics_170.txt|.|5|.|bbc_sport_225.txt|.|2
+health board|.|bbc_politics_170.txt|.|5

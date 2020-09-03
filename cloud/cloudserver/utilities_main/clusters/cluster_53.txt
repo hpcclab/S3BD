@@ -1,0 +1,601 @@
+53
+cancel|.|bbc_entertainment_118.txt|.|1
+schroeder also called|.|bbc_business_457.txt|.|1
+commenee|.|bbc_sport_043.txt|.|2
+half|.|bbc_sport_214.txt|.|1|.|bbc_sport_263.txt|.|2|.|bbc_sport_356.txt|.|1|.|bbc_tech_154.txt|.|1|.|bbc_sport_332.txt|.|1|.|bbc_sport_284.txt|.|4|.|bbc_sport_139.txt|.|2|.|bbc_sport_416.txt|.|2|.|bbc_tech_061.txt|.|2|.|bbc_tech_265.txt|.|2|.|bbc_sport_312.txt|.|2|.|bbc_sport_340.txt|.|1|.|bbc_entertainment_085.txt|.|2|.|bbc_tech_321.txt|.|2|.|bbc_sport_344.txt|.|1|.|bbc_sport_231.txt|.|2|.|bbc_tech_244.txt|.|1|.|bbc_business_033.txt|.|3
+kelly holmes|.|bbc_sport_057.txt|.|3
+craphouse|.|bbc_entertainment_315.txt|.|2
+shooting|.|bbc_tech_245.txt|.|1|.|bbc_entertainment_237.txt|.|1
+idol|.|bbc_politics_259.txt|.|2|.|bbc_entertainment_319.txt|.|3|.|bbc_entertainment_286.txt|.|2|.|bbc_entertainment_027.txt|.|3
+hall|.|bbc_entertainment_291.txt|.|2|.|bbc_politics_190.txt|.|3
+salary|.|bbc_business_238.txt|.|5|.|bbc_politics_042.txt|.|3
+halo|.|bbc_tech_139.txt|.|15|.|bbc_tech_160.txt|.|4
+music online|.|bbc_entertainment_266.txt|.|2
+relay squad|.|bbc_sport_090.txt|.|2
+reading blogs|.|bbc_tech_078.txt|.|1
+london stock|.|bbc_business_454.txt|.|2|.|bbc_business_269.txt|.|2
+new performance|.|bbc_sport_043.txt|.|2
+new strains|.|bbc_tech_290.txt|.|2|.|bbc_tech_116.txt|.|2
+desmoteplase|.|bbc_business_233.txt|.|2
+make her return|.|bbc_sport_443.txt|.|2
+tel|.|bbc_sport_050.txt|.|2
+ten|.|bbc_sport_140.txt|.|2|.|bbc_business_403.txt|.|2
+energy|.|bbc_business_472.txt|.|3|.|bbc_business_096.txt|.|4|.|bbc_politics_091.txt|.|3|.|bbc_business_428.txt|.|2|.|bbc_business_028.txt|.|5|.|bbc_business_080.txt|.|3|.|bbc_business_433.txt|.|2|.|bbc_business_456.txt|.|2|.|bbc_business_181.txt|.|7
+multiplayer gaming|.|bbc_tech_363.txt|.|2
+bid undervalued|.|bbc_business_316.txt|.|2
+switzerland|.|bbc_sport_134.txt|.|12
+investment|.|bbc_business_184.txt|.|2|.|bbc_business_501.txt|.|3|.|bbc_business_068.txt|.|6|.|bbc_business_493.txt|.|2|.|bbc_business_019.txt|.|5|.|bbc_business_231.txt|.|1|.|bbc_business_070.txt|.|2|.|bbc_business_389.txt|.|2|.|bbc_business_263.txt|.|3|.|bbc_tech_384.txt|.|4|.|bbc_business_091.txt|.|3|.|bbc_business_284.txt|.|3|.|bbc_business_286.txt|.|2|.|bbc_business_074.txt|.|4
+carriers|.|bbc_business_395.txt|.|2
+click|.|bbc_business_243.txt|.|2
+eu countries|.|bbc_business_285.txt|.|2
+neeson|.|bbc_entertainment_012.txt|.|6
+standards|.|bbc_politics_089.txt|.|2
+blair rejects|.|bbc_politics_014.txt|.|1|.|bbc_politics_184.txt|.|1
+triple|.|bbc_sport_012.txt|.|4|.|bbc_tech_178.txt|.|1|.|bbc_sport_008.txt|.|2|.|bbc_sport_020.txt|.|4|.|bbc_sport_364.txt|.|3
+telegraph group|.|bbc_business_014.txt|.|2
+monsoon wedding|.|bbc_entertainment_061.txt|.|2
+hodge|.|bbc_politics_103.txt|.|2
+handheld|.|bbc_tech_066.txt|.|3|.|bbc_tech_359.txt|.|3|.|bbc_tech_084.txt|.|5|.|bbc_tech_363.txt|.|4|.|bbc_tech_351.txt|.|5|.|bbc_tech_381.txt|.|3
+propaganda exercise|.|bbc_politics_383.txt|.|2|.|bbc_politics_082.txt|.|2
+music video in jail|.|bbc_entertainment_279.txt|.|2
+griffin was arrested|.|bbc_politics_074.txt|.|1
+ferdinand|.|bbc_entertainment_131.txt|.|4|.|bbc_entertainment_236.txt|.|4|.|bbc_sport_124.txt|.|3
+newspaper|.|bbc_politics_133.txt|.|2|.|bbc_business_455.txt|.|4|.|bbc_entertainment_045.txt|.|2|.|bbc_business_325.txt|.|5|.|bbc_politics_376.txt|.|2
+cec|.|bbc_tech_261.txt|.|3
+telling|.|bbc_politics_147.txt|.|3
+role|.|bbc_entertainment_299.txt|.|3|.|bbc_tech_401.txt|.|4|.|bbc_entertainment_242.txt|.|2|.|bbc_entertainment_019.txt|.|2|.|bbc_entertainment_056.txt|.|7|.|bbc_politics_347.txt|.|2|.|bbc_tech_244.txt|.|1|.|bbc_entertainment_325.txt|.|8|.|bbc_sport_348.txt|.|2|.|bbc_entertainment_316.txt|.|6
+turf|.|bbc_politics_201.txt|.|2
+cliff|.|bbc_entertainment_130.txt|.|2
+hank|.|bbc_entertainment_119.txt|.|2
+greek tribunal|.|bbc_sport_089.txt|.|2
+roll|.|bbc_entertainment_291.txt|.|3
+net firms|.|bbc_tech_270.txt|.|3|.|bbc_tech_299.txt|.|3
+hans|.|bbc_entertainment_002.txt|.|4
+ces|.|bbc_tech_163.txt|.|3|.|bbc_tech_291.txt|.|3|.|bbc_tech_134.txt|.|3
+home game|.|bbc_sport_134.txt|.|2
+opposition|.|bbc_politics_386.txt|.|2|.|bbc_politics_362.txt|.|3|.|bbc_business_454.txt|.|5|.|bbc_politics_272.txt|.|5
+skype|.|bbc_tech_042.txt|.|8|.|bbc_tech_339.txt|.|8
+rejects|.|bbc_business_010.txt|.|1|.|bbc_politics_014.txt|.|1|.|bbc_politics_184.txt|.|1|.|bbc_business_451.txt|.|1|.|bbc_sport_445.txt|.|1
+said johnson|.|bbc_sport_073.txt|.|2
+golf|.|bbc_tech_054.txt|.|2
+van den|.|bbc_sport_382.txt|.|2
+drugs test|.|bbc_sport_485.txt|.|2|.|bbc_sport_089.txt|.|1|.|bbc_sport_048.txt|.|1|.|bbc_sport_199.txt|.|4|.|bbc_sport_051.txt|.|1|.|bbc_sport_080.txt|.|2
+face trust issue|.|bbc_politics_314.txt|.|1
+saab factory|.|bbc_business_149.txt|.|2
+van der|.|bbc_business_419.txt|.|2
+expectations of winning|.|bbc_sport_038.txt|.|2
+tory tax cuts|.|bbc_politics_344.txt|.|2
+commission|.|bbc_tech_048.txt|.|3|.|bbc_politics_026.txt|.|5|.|bbc_tech_215.txt|.|4|.|bbc_business_259.txt|.|2|.|bbc_tech_167.txt|.|4|.|bbc_politics_031.txt|.|5|.|bbc_tech_342.txt|.|3|.|bbc_politics_059.txt|.|5|.|bbc_politics_003.txt|.|2|.|bbc_politics_345.txt|.|3|.|bbc_politics_079.txt|.|2|.|bbc_politics_309.txt|.|3|.|bbc_business_468.txt|.|3|.|bbc_business_113.txt|.|8|.|bbc_politics_298.txt|.|5
+positives|.|bbc_sport_263.txt|.|1
+basic security|.|bbc_tech_346.txt|.|2
+hand|.|bbc_tech_353.txt|.|4
+fiction prize|.|bbc_entertainment_024.txt|.|1
+ordered|.|bbc_business_472.txt|.|3|.|bbc_politics_174.txt|.|3
+largest power producer|.|bbc_business_276.txt|.|2
+hamm|.|bbc_sport_271.txt|.|2|.|bbc_sport_241.txt|.|6
+radio show|.|bbc_entertainment_231.txt|.|2
+prosecutors and police|.|bbc_politics_230.txt|.|1
+desailly|.|bbc_sport_181.txt|.|6|.|bbc_sport_182.txt|.|6
+straight|.|bbc_sport_434.txt|.|2|.|bbc_sport_511.txt|.|1|.|bbc_sport_097.txt|.|2
+cudicini|.|bbc_sport_174.txt|.|5
+halt|.|bbc_business_472.txt|.|2
+hewitt|.|bbc_politics_001.txt|.|4|.|bbc_sport_486.txt|.|10|.|bbc_sport_444.txt|.|2|.|bbc_sport_450.txt|.|6|.|bbc_sport_487.txt|.|3|.|bbc_sport_483.txt|.|8|.|bbc_sport_458.txt|.|4|.|bbc_politics_003.txt|.|5|.|bbc_sport_441.txt|.|2
+holding firm|.|bbc_business_485.txt|.|1
+sale|.|bbc_entertainment_011.txt|.|7|.|bbc_business_003.txt|.|3|.|bbc_entertainment_240.txt|.|2|.|bbc_entertainment_018.txt|.|5|.|bbc_business_267.txt|.|3|.|bbc_business_324.txt|.|5|.|bbc_tech_160.txt|.|2|.|bbc_entertainment_140.txt|.|1|.|bbc_sport_325.txt|.|2|.|bbc_tech_351.txt|.|3|.|bbc_business_475.txt|.|2|.|bbc_sport_351.txt|.|4|.|bbc_business_365.txt|.|3|.|bbc_business_088.txt|.|1|.|bbc_tech_114.txt|.|3|.|bbc_tech_359.txt|.|5|.|bbc_business_489.txt|.|1|.|bbc_business_223.txt|.|4|.|bbc_business_217.txt|.|1|.|bbc_business_230.txt|.|5|.|bbc_politics_006.txt|.|3
+us gaming|.|bbc_business_223.txt|.|4
+two families|.|bbc_politics_012.txt|.|2
+readers|.|bbc_tech_001.txt|.|3|.|bbc_tech_078.txt|.|1
+school pupils|.|bbc_politics_094.txt|.|1
+sunset|.|bbc_politics_014.txt|.|5
+x|.|bbc_entertainment_174.txt|.|3|.|bbc_tech_336.txt|.|2
+information|.|bbc_entertainment_221.txt|.|5|.|bbc_tech_086.txt|.|10|.|bbc_tech_398.txt|.|3|.|bbc_politics_379.txt|.|2|.|bbc_politics_396.txt|.|6|.|bbc_business_475.txt|.|3|.|bbc_politics_337.txt|.|3|.|bbc_tech_006.txt|.|6|.|bbc_tech_227.txt|.|3|.|bbc_tech_230.txt|.|3|.|bbc_tech_360.txt|.|3|.|bbc_politics_233.txt|.|6|.|bbc_politics_088.txt|.|3|.|bbc_politics_002.txt|.|8|.|bbc_politics_242.txt|.|8|.|bbc_tech_369.txt|.|4
+put up rates|.|bbc_business_137.txt|.|1
+presidential elections|.|bbc_tech_001.txt|.|1
+plasma|.|bbc_business_211.txt|.|6
+britannia|.|bbc_business_237.txt|.|5
+vagina monologues|.|bbc_entertainment_010.txt|.|2
+november|.|bbc_sport_378.txt|.|2|.|bbc_business_306.txt|.|3|.|bbc_business_481.txt|.|2|.|bbc_business_440.txt|.|3|.|bbc_sport_373.txt|.|2
+flight delays|.|bbc_business_015.txt|.|1
+powered|.|bbc_sport_246.txt|.|1
+blogs|.|bbc_tech_151.txt|.|9|.|bbc_tech_318.txt|.|5|.|bbc_tech_099.txt|.|13|.|bbc_tech_106.txt|.|4|.|bbc_tech_062.txt|.|5|.|bbc_tech_078.txt|.|10
+davis cup win|.|bbc_sport_470.txt|.|1|.|bbc_sport_469.txt|.|1
+black vote|.|bbc_politics_318.txt|.|2
+good|.|bbc_politics_049.txt|.|2|.|bbc_sport_504.txt|.|4|.|bbc_politics_101.txt|.|2|.|bbc_sport_238.txt|.|2|.|bbc_sport_223.txt|.|4|.|bbc_sport_308.txt|.|7|.|bbc_sport_228.txt|.|7|.|bbc_sport_309.txt|.|3|.|bbc_sport_337.txt|.|5|.|bbc_sport_138.txt|.|2|.|bbc_sport_217.txt|.|4
+obese|.|bbc_tech_220.txt|.|3
+who use|.|bbc_politics_230.txt|.|2
+cup final|.|bbc_sport_174.txt|.|2|.|bbc_sport_111.txt|.|3
+tie|.|bbc_sport_240.txt|.|3|.|bbc_sport_431.txt|.|4|.|bbc_sport_192.txt|.|4|.|bbc_sport_317.txt|.|2|.|bbc_sport_197.txt|.|2
+pigs|.|bbc_politics_228.txt|.|3|.|bbc_tech_202.txt|.|3
+implemented invention|.|bbc_tech_030.txt|.|1
+turkmen gas|.|bbc_business_378.txt|.|2
+moggi|.|bbc_sport_203.txt|.|2
+suffered|.|bbc_sport_340.txt|.|1|.|bbc_entertainment_118.txt|.|1
+copying|.|bbc_tech_285.txt|.|2|.|bbc_tech_304.txt|.|2
+serious|.|bbc_business_289.txt|.|2|.|bbc_tech_034.txt|.|3|.|bbc_politics_070.txt|.|4|.|bbc_sport_218.txt|.|2
+tim|.|bbc_sport_476.txt|.|2
+tip|.|bbc_entertainment_328.txt|.|1|.|bbc_entertainment_086.txt|.|1
+phone viruses|.|bbc_tech_290.txt|.|2
+trading statement|.|bbc_business_384.txt|.|2
+rome|.|bbc_sport_312.txt|.|2|.|bbc_sport_301.txt|.|2
+play truant|.|bbc_politics_190.txt|.|1
+mr ebbers|.|bbc_business_196.txt|.|6|.|bbc_business_465.txt|.|4|.|bbc_business_087.txt|.|6|.|bbc_business_246.txt|.|10|.|bbc_business_100.txt|.|8|.|bbc_business_114.txt|.|10
+uk election|.|bbc_politics_372.txt|.|2
+health check|.|bbc_politics_122.txt|.|1
+fantasy|.|bbc_entertainment_304.txt|.|2
+roma|.|bbc_politics_370.txt|.|10|.|bbc_sport_185.txt|.|3
+owen|.|bbc_sport_142.txt|.|5|.|bbc_sport_156.txt|.|3|.|bbc_tech_071.txt|.|5|.|bbc_sport_348.txt|.|4|.|bbc_sport_151.txt|.|5|.|bbc_entertainment_064.txt|.|2
+eurovision|.|bbc_entertainment_172.txt|.|4
+record highs|.|bbc_business_260.txt|.|1|.|bbc_business_354.txt|.|1
+swiss cement firm|.|bbc_business_485.txt|.|2
+constitutional affairs|.|bbc_politics_372.txt|.|3
+bafana|.|bbc_sport_190.txt|.|4
+walker|.|bbc_sport_031.txt|.|4
+computer centres|.|bbc_tech_006.txt|.|2
+owed|.|bbc_business_210.txt|.|2
+wage increases|.|bbc_politics_380.txt|.|3
+coria|.|bbc_sport_452.txt|.|4
+disgraceful waste|.|bbc_politics_023.txt|.|2
+reopening|.|bbc_politics_038.txt|.|3
+dr nielsen|.|bbc_tech_168.txt|.|8
+freddy|.|bbc_entertainment_379.txt|.|2
+little words|.|bbc_politics_346.txt|.|2
+hart|.|bbc_sport_207.txt|.|2
+representation|.|bbc_politics_143.txt|.|2
+jamieson|.|bbc_politics_219.txt|.|8
+universities scotland|.|bbc_politics_047.txt|.|1
+iraq war|.|bbc_politics_184.txt|.|3|.|bbc_politics_302.txt|.|1|.|bbc_politics_353.txt|.|3|.|bbc_politics_327.txt|.|3
+amplify laser|.|bbc_tech_019.txt|.|2|.|bbc_tech_329.txt|.|2
+provides|.|bbc_tech_006.txt|.|1
+thieves|.|bbc_tech_077.txt|.|2
+qantas|.|bbc_business_455.txt|.|13|.|bbc_business_128.txt|.|8
+bnp voters|.|bbc_politics_201.txt|.|2
+hitachi unveils|.|bbc_tech_356.txt|.|1
+patrick|.|bbc_sport_137.txt|.|3
+hard|.|bbc_entertainment_208.txt|.|1|.|bbc_tech_336.txt|.|4|.|bbc_politics_380.txt|.|5|.|bbc_tech_070.txt|.|2|.|bbc_tech_207.txt|.|2|.|bbc_politics_364.txt|.|1|.|bbc_tech_278.txt|.|4|.|bbc_sport_309.txt|.|2|.|bbc_sport_046.txt|.|2|.|bbc_tech_301.txt|.|6
+multiplayer|.|bbc_tech_363.txt|.|2
+doubled profits|.|bbc_business_017.txt|.|1
+campaigning|.|bbc_politics_007.txt|.|1|.|bbc_politics_351.txt|.|1|.|bbc_politics_196.txt|.|4|.|bbc_politics_417.txt|.|1|.|bbc_politics_298.txt|.|2|.|bbc_politics_297.txt|.|4|.|bbc_politics_059.txt|.|2
+us actor ossie davis|.|bbc_entertainment_044.txt|.|2
+beckham|.|bbc_tech_385.txt|.|5|.|bbc_sport_239.txt|.|3|.|bbc_sport_275.txt|.|5
+multiple|.|bbc_business_150.txt|.|3
+ncci|.|bbc_business_476.txt|.|4
+unece|.|bbc_business_172.txt|.|5
+emi said|.|bbc_business_207.txt|.|2
+privatisation|.|bbc_business_136.txt|.|3
+russian authorities|.|bbc_business_131.txt|.|2|.|bbc_business_399.txt|.|2|.|bbc_business_192.txt|.|2|.|bbc_business_391.txt|.|2
+room|.|bbc_politics_393.txt|.|3
+gap narrows|.|bbc_business_441.txt|.|1
+tutu|.|bbc_politics_205.txt|.|3
+islamic banking|.|bbc_business_147.txt|.|6
+biggest bank|.|bbc_business_473.txt|.|1|.|bbc_business_126.txt|.|1
+mourinho expects|.|bbc_sport_183.txt|.|2
+bank awards|.|bbc_entertainment_215.txt|.|1
+bidding war|.|bbc_business_188.txt|.|2
+cancer|.|bbc_business_309.txt|.|2|.|bbc_business_452.txt|.|2
+fagin|.|bbc_politics_331.txt|.|3
+norah|.|bbc_entertainment_264.txt|.|2
+biggest band|.|bbc_entertainment_262.txt|.|2
+free personal care|.|bbc_politics_098.txt|.|3
+taking|.|bbc_business_216.txt|.|1|.|bbc_politics_217.txt|.|1|.|bbc_politics_321.txt|.|1
+pupils|.|bbc_politics_094.txt|.|3|.|bbc_politics_269.txt|.|3|.|bbc_politics_030.txt|.|5
+voters|.|bbc_politics_349.txt|.|2|.|bbc_politics_062.txt|.|2|.|bbc_entertainment_041.txt|.|2|.|bbc_politics_075.txt|.|3|.|bbc_politics_277.txt|.|2|.|bbc_politics_412.txt|.|3|.|bbc_politics_353.txt|.|3|.|bbc_entertainment_081.txt|.|2|.|bbc_politics_414.txt|.|3|.|bbc_politics_360.txt|.|5|.|bbc_politics_313.txt|.|2|.|bbc_politics_222.txt|.|2|.|bbc_politics_112.txt|.|2|.|bbc_tech_088.txt|.|2|.|bbc_politics_283.txt|.|2|.|bbc_politics_201.txt|.|2
+charvis|.|bbc_sport_341.txt|.|3
+united fans|.|bbc_sport_148.txt|.|3
+urged congress|.|bbc_business_041.txt|.|2
+flop|.|bbc_entertainment_178.txt|.|1
+six weeks|.|bbc_sport_162.txt|.|2|.|bbc_sport_114.txt|.|2
+taxes must be trusted|.|bbc_politics_301.txt|.|1
+promotional|.|bbc_entertainment_360.txt|.|1|.|bbc_entertainment_085.txt|.|2|.|bbc_politics_396.txt|.|2
+protecting|.|bbc_tech_316.txt|.|2
+aid agencies|.|bbc_tech_097.txt|.|4|.|bbc_business_353.txt|.|1
+interest rates|.|bbc_business_383.txt|.|3|.|bbc_business_137.txt|.|2|.|bbc_business_438.txt|.|5|.|bbc_business_290.txt|.|4|.|bbc_business_402.txt|.|2|.|bbc_business_151.txt|.|2|.|bbc_business_121.txt|.|3|.|bbc_politics_361.txt|.|2
+elvis fans|.|bbc_entertainment_233.txt|.|2
+film festival|.|bbc_entertainment_269.txt|.|2|.|bbc_entertainment_047.txt|.|2|.|bbc_entertainment_042.txt|.|2|.|bbc_entertainment_101.txt|.|2|.|bbc_entertainment_309.txt|.|2|.|bbc_entertainment_336.txt|.|3|.|bbc_entertainment_306.txt|.|4|.|bbc_entertainment_102.txt|.|2|.|bbc_entertainment_341.txt|.|2
+country compete|.|bbc_politics_374.txt|.|1
+mobile gaming|.|bbc_tech_185.txt|.|2|.|bbc_tech_153.txt|.|2|.|bbc_tech_192.txt|.|5
+indonesia|.|bbc_politics_208.txt|.|5|.|bbc_business_261.txt|.|3
+reform|.|bbc_business_388.txt|.|3|.|bbc_business_305.txt|.|2|.|bbc_business_457.txt|.|3|.|bbc_politics_163.txt|.|5
+government help|.|bbc_entertainment_131.txt|.|2
+email systems|.|bbc_tech_055.txt|.|4|.|bbc_tech_314.txt|.|4
+us woman|.|bbc_tech_333.txt|.|2|.|bbc_tech_037.txt|.|2
+henri camara|.|bbc_sport_180.txt|.|2
+than originally|.|bbc_business_235.txt|.|2
+celtic goalkeeper|.|bbc_sport_146.txt|.|2
+fallow|.|bbc_entertainment_122.txt|.|2
+innovation award|.|bbc_tech_111.txt|.|2
+child support|.|bbc_politics_156.txt|.|2|.|bbc_politics_116.txt|.|2|.|bbc_politics_315.txt|.|3
+william hill|.|bbc_entertainment_221.txt|.|2|.|bbc_entertainment_328.txt|.|5|.|bbc_entertainment_086.txt|.|5|.|bbc_entertainment_333.txt|.|2
+world number two|.|bbc_sport_441.txt|.|2
+campbell has set|.|bbc_sport_028.txt|.|1
+women|.|bbc_politics_140.txt|.|8|.|bbc_politics_318.txt|.|2|.|bbc_sport_432.txt|.|6|.|bbc_sport_438.txt|.|6|.|bbc_politics_340.txt|.|12|.|bbc_business_043.txt|.|10|.|bbc_politics_155.txt|.|3|.|bbc_entertainment_351.txt|.|9|.|bbc_politics_008.txt|.|12|.|bbc_entertainment_010.txt|.|5
+vaccination|.|bbc_politics_385.txt|.|1
+pink|.|bbc_entertainment_026.txt|.|1
+woman|.|bbc_entertainment_312.txt|.|3|.|bbc_entertainment_204.txt|.|3|.|bbc_sport_447.txt|.|3|.|bbc_sport_027.txt|.|2|.|bbc_tech_333.txt|.|3|.|bbc_entertainment_386.txt|.|5|.|bbc_tech_037.txt|.|3
+humanoid|.|bbc_tech_246.txt|.|2|.|bbc_tech_356.txt|.|3
+glaxosmithkline|.|bbc_business_176.txt|.|2
+tonnes of lng a year|.|bbc_business_158.txt|.|1
+save|.|bbc_politics_091.txt|.|2|.|bbc_politics_238.txt|.|3
+protection|.|bbc_business_358.txt|.|2|.|bbc_tech_043.txt|.|3|.|bbc_business_348.txt|.|2|.|bbc_business_145.txt|.|2|.|bbc_tech_326.txt|.|3|.|bbc_business_025.txt|.|3|.|bbc_tech_390.txt|.|2|.|bbc_politics_338.txt|.|3|.|bbc_business_299.txt|.|2
+bank of israel|.|bbc_business_423.txt|.|2
+unece forecasts|.|bbc_business_172.txt|.|1
+second leg|.|bbc_sport_181.txt|.|2|.|bbc_sport_182.txt|.|2
+baikal|.|bbc_business_332.txt|.|3|.|bbc_business_314.txt|.|10
+cameras|.|bbc_tech_388.txt|.|7|.|bbc_sport_404.txt|.|2|.|bbc_tech_278.txt|.|2|.|bbc_tech_103.txt|.|7
+aviation expansion|.|bbc_politics_369.txt|.|1
+tom|.|bbc_sport_312.txt|.|2|.|bbc_entertainment_098.txt|.|2|.|bbc_sport_416.txt|.|2
+morrison|.|bbc_entertainment_161.txt|.|10|.|bbc_sport_171.txt|.|3|.|bbc_entertainment_381.txt|.|3
+toy|.|bbc_entertainment_144.txt|.|3
+gaming|.|bbc_tech_317.txt|.|3|.|bbc_tech_054.txt|.|1|.|bbc_tech_134.txt|.|3|.|bbc_tech_309.txt|.|4|.|bbc_tech_351.txt|.|2|.|bbc_entertainment_220.txt|.|1|.|bbc_tech_221.txt|.|5|.|bbc_tech_359.txt|.|5|.|bbc_tech_274.txt|.|3|.|bbc_tech_185.txt|.|5|.|bbc_tech_153.txt|.|5|.|bbc_tech_244.txt|.|5|.|bbc_tech_363.txt|.|6|.|bbc_business_223.txt|.|7|.|bbc_tech_192.txt|.|6|.|bbc_tech_025.txt|.|3
+handsets|.|bbc_tech_311.txt|.|4|.|bbc_tech_059.txt|.|5|.|bbc_tech_095.txt|.|4|.|bbc_tech_322.txt|.|5
+adultery|.|bbc_politics_393.txt|.|2
+question|.|bbc_politics_142.txt|.|5|.|bbc_politics_222.txt|.|6
+asian|.|bbc_business_142.txt|.|2|.|bbc_business_345.txt|.|3|.|bbc_politics_143.txt|.|4|.|bbc_entertainment_306.txt|.|2|.|bbc_business_273.txt|.|3
+saud|.|bbc_business_043.txt|.|2
+spirit|.|bbc_sport_222.txt|.|2|.|bbc_entertainment_370.txt|.|2|.|bbc_entertainment_062.txt|.|2
+intellectual|.|bbc_tech_268.txt|.|3|.|bbc_business_342.txt|.|2
+picture|.|bbc_entertainment_035.txt|.|2|.|bbc_entertainment_385.txt|.|2|.|bbc_tech_201.txt|.|2|.|bbc_tech_094.txt|.|2|.|bbc_tech_313.txt|.|2|.|bbc_tech_208.txt|.|8|.|bbc_entertainment_078.txt|.|2
+tv content|.|bbc_tech_087.txt|.|4
+trusts|.|bbc_business_263.txt|.|1
+willis|.|bbc_entertainment_050.txt|.|7
+documentary showed|.|bbc_politics_292.txt|.|2
+rose|.|bbc_business_275.txt|.|2|.|bbc_business_132.txt|.|2|.|bbc_business_370.txt|.|2|.|bbc_business_450.txt|.|2|.|bbc_business_170.txt|.|2|.|bbc_entertainment_090.txt|.|2|.|bbc_business_153.txt|.|2|.|bbc_sport_401.txt|.|2|.|bbc_business_405.txt|.|2|.|bbc_business_441.txt|.|4|.|bbc_entertainment_191.txt|.|3|.|bbc_business_387.txt|.|3|.|bbc_business_163.txt|.|2
+sir cliff|.|bbc_entertainment_130.txt|.|2
+who won olympic|.|bbc_sport_028.txt|.|2
+gambling bill|.|bbc_politics_187.txt|.|2
+centre ollie|.|bbc_sport_285.txt|.|1
+elliot spitzer|.|bbc_business_103.txt|.|2
+local government|.|bbc_politics_357.txt|.|6
+sources close|.|bbc_business_034.txt|.|1
+jose mourinho|.|bbc_sport_280.txt|.|2
+mortgages approved|.|bbc_business_085.txt|.|1
+hilary|.|bbc_entertainment_372.txt|.|2|.|bbc_entertainment_368.txt|.|12|.|bbc_entertainment_078.txt|.|2
+minimum rate|.|bbc_politics_103.txt|.|2
+double act|.|bbc_entertainment_284.txt|.|2
+el watan|.|bbc_business_502.txt|.|2
+leicester|.|bbc_sport_179.txt|.|3|.|bbc_sport_391.txt|.|3|.|bbc_sport_398.txt|.|3|.|bbc_sport_376.txt|.|5|.|bbc_entertainment_036.txt|.|2
+chance of a medal|.|bbc_sport_059.txt|.|1
+owns|.|bbc_business_293.txt|.|1
+face house arrest|.|bbc_politics_384.txt|.|3
+mr milburn|.|bbc_politics_260.txt|.|2|.|bbc_politics_268.txt|.|5|.|bbc_politics_402.txt|.|4
+davis cup|.|bbc_sport_437.txt|.|2|.|bbc_sport_485.txt|.|2|.|bbc_sport_431.txt|.|3|.|bbc_sport_499.txt|.|5|.|bbc_sport_472.txt|.|2|.|bbc_sport_500.txt|.|10|.|bbc_sport_449.txt|.|4|.|bbc_sport_470.txt|.|5|.|bbc_sport_466.txt|.|4|.|bbc_sport_469.txt|.|5
+biometric|.|bbc_tech_179.txt|.|3|.|bbc_tech_131.txt|.|3
+circumstances|.|bbc_politics_378.txt|.|2
+including|.|bbc_entertainment_117.txt|.|1|.|bbc_tech_196.txt|.|3
+enquiries|.|bbc_tech_232.txt|.|2
+mccririck|.|bbc_entertainment_180.txt|.|5|.|bbc_entertainment_225.txt|.|2
+lions coach|.|bbc_sport_385.txt|.|2|.|bbc_sport_387.txt|.|2
+six zeros off lira|.|bbc_business_257.txt|.|1
+laser light|.|bbc_tech_019.txt|.|6|.|bbc_tech_329.txt|.|6
+hewitt fought|.|bbc_sport_486.txt|.|2
+christmas|.|bbc_entertainment_109.txt|.|3|.|bbc_business_306.txt|.|2|.|bbc_business_348.txt|.|3|.|bbc_entertainment_001.txt|.|2|.|bbc_business_317.txt|.|6|.|bbc_entertainment_159.txt|.|4|.|bbc_business_225.txt|.|2|.|bbc_tech_252.txt|.|5|.|bbc_tech_127.txt|.|3|.|bbc_entertainment_136.txt|.|14|.|bbc_politics_063.txt|.|5|.|bbc_business_481.txt|.|5|.|bbc_tech_008.txt|.|5|.|bbc_tech_172.txt|.|4|.|bbc_entertainment_076.txt|.|5
+house of commons|.|bbc_politics_066.txt|.|4
+andy|.|bbc_sport_437.txt|.|2|.|bbc_sport_299.txt|.|2|.|bbc_sport_330.txt|.|2|.|bbc_politics_198.txt|.|2|.|bbc_sport_476.txt|.|3|.|bbc_sport_356.txt|.|2|.|bbc_sport_398.txt|.|2|.|bbc_sport_373.txt|.|2|.|bbc_sport_482.txt|.|2|.|bbc_sport_481.txt|.|3
+customers in january|.|bbc_business_234.txt|.|2
+markets|.|bbc_business_261.txt|.|9|.|bbc_politics_243.txt|.|1
+overbooking flights|.|bbc_business_015.txt|.|1
+richard scrushy|.|bbc_business_508.txt|.|2
+digital home|.|bbc_tech_347.txt|.|3
+tru|.|bbc_entertainment_279.txt|.|2
+trillion rupiah|.|bbc_business_411.txt|.|2
+try|.|bbc_sport_384.txt|.|2|.|bbc_sport_311.txt|.|6|.|bbc_sport_288.txt|.|4|.|bbc_sport_293.txt|.|5
+act of parliament|.|bbc_politics_393.txt|.|2
+equal prize money|.|bbc_sport_432.txt|.|3|.|bbc_sport_438.txt|.|3
+stock exchange|.|bbc_business_454.txt|.|2|.|bbc_business_220.txt|.|2|.|bbc_business_264.txt|.|2|.|bbc_business_171.txt|.|3|.|bbc_business_269.txt|.|2|.|bbc_business_279.txt|.|2|.|bbc_business_392.txt|.|2|.|bbc_business_260.txt|.|2|.|bbc_business_261.txt|.|2|.|bbc_business_150.txt|.|3|.|bbc_business_048.txt|.|2
+segas|.|bbc_sport_081.txt|.|3
+ufj holdings|.|bbc_business_032.txt|.|2
+roxy|.|bbc_entertainment_318.txt|.|4
+world record|.|bbc_sport_053.txt|.|1|.|bbc_sport_029.txt|.|1|.|bbc_sport_006.txt|.|2|.|bbc_sport_070.txt|.|1|.|bbc_sport_005.txt|.|2
+tonnes of lng|.|bbc_business_158.txt|.|2
+laura|.|bbc_business_393.txt|.|7
+new manager|.|bbc_sport_233.txt|.|1
+illegal traders|.|bbc_tech_194.txt|.|3
+times|.|bbc_entertainment_311.txt|.|2|.|bbc_tech_138.txt|.|3|.|bbc_politics_121.txt|.|3|.|bbc_entertainment_346.txt|.|2|.|bbc_tech_205.txt|.|2|.|bbc_business_051.txt|.|2|.|bbc_business_346.txt|.|2|.|bbc_politics_112.txt|.|2|.|bbc_entertainment_212.txt|.|3|.|bbc_business_203.txt|.|3
+stations to refuse|.|bbc_entertainment_166.txt|.|1
+strategic health|.|bbc_politics_265.txt|.|2|.|bbc_politics_226.txt|.|2
+falconer|.|bbc_politics_211.txt|.|2|.|bbc_politics_067.txt|.|3|.|bbc_politics_118.txt|.|4|.|bbc_politics_180.txt|.|5|.|bbc_politics_327.txt|.|3|.|bbc_politics_390.txt|.|3
+forced sale|.|bbc_business_003.txt|.|1
+says|.|bbc_tech_199.txt|.|10|.|bbc_politics_115.txt|.|4|.|bbc_politics_319.txt|.|2|.|bbc_sport_318.txt|.|2|.|bbc_sport_039.txt|.|2|.|bbc_sport_195.txt|.|2|.|bbc_politics_154.txt|.|2|.|bbc_politics_213.txt|.|3|.|bbc_tech_364.txt|.|6|.|bbc_business_285.txt|.|2|.|bbc_entertainment_300.txt|.|6|.|bbc_politics_313.txt|.|2|.|bbc_sport_366.txt|.|2|.|bbc_politics_399.txt|.|4|.|bbc_politics_091.txt|.|2|.|bbc_tech_161.txt|.|3|.|bbc_sport_158.txt|.|2|.|bbc_tech_308.txt|.|2|.|bbc_politics_052.txt|.|5|.|bbc_tech_148.txt|.|2|.|bbc_politics_298.txt|.|7|.|bbc_politics_099.txt|.|1|.|bbc_sport_348.txt|.|3|.|bbc_politics_043.txt|.|2|.|bbc_tech_276.txt|.|2|.|bbc_tech_366.txt|.|4|.|bbc_politics_274.txt|.|3|.|bbc_entertainment_349.txt|.|1|.|bbc_sport_502.txt|.|3|.|bbc_tech_137.txt|.|9|.|bbc_sport_040.txt|.|3|.|bbc_tech_344.txt|.|3|.|bbc_politics_059.txt|.|7|.|bbc_politics_367.txt|.|2|.|bbc_business_507.txt|.|2|.|bbc_tech_074.txt|.|2|.|bbc_sport_412.txt|.|2|.|bbc_politics_271.txt|.|2|.|bbc_politics_168.txt|.|2|.|bbc_sport_092.txt|.|2|.|bbc_politics_079.txt|.|2|.|bbc_tech_083.txt|.|2|.|bbc_politics_130.txt|.|2|.|bbc_entertainment_280.txt|.|6|.|bbc_politics_182.txt|.|3|.|bbc_politics_186.txt|.|3|.|bbc_sport_093.txt|.|2
+direction|.|bbc_entertainment_373.txt|.|1
+meibion|.|bbc_politics_177.txt|.|3
+printers|.|bbc_tech_243.txt|.|7
+comments|.|bbc_politics_060.txt|.|1|.|bbc_sport_258.txt|.|3|.|bbc_sport_257.txt|.|3
+next said|.|bbc_business_384.txt|.|1
+box office|.|bbc_entertainment_060.txt|.|2|.|bbc_entertainment_100.txt|.|4|.|bbc_entertainment_312.txt|.|2|.|bbc_entertainment_073.txt|.|3|.|bbc_entertainment_364.txt|.|2|.|bbc_entertainment_046.txt|.|2|.|bbc_entertainment_363.txt|.|6|.|bbc_entertainment_049.txt|.|3|.|bbc_entertainment_350.txt|.|3|.|bbc_entertainment_088.txt|.|3|.|bbc_entertainment_380.txt|.|3|.|bbc_entertainment_072.txt|.|4|.|bbc_entertainment_384.txt|.|2|.|bbc_entertainment_335.txt|.|3|.|bbc_entertainment_066.txt|.|2|.|bbc_entertainment_053.txt|.|6|.|bbc_entertainment_297.txt|.|3|.|bbc_entertainment_338.txt|.|2|.|bbc_entertainment_074.txt|.|3|.|bbc_entertainment_340.txt|.|3|.|bbc_entertainment_076.txt|.|4|.|bbc_entertainment_065.txt|.|2
+next generation|.|bbc_tech_306.txt|.|2|.|bbc_tech_366.txt|.|2|.|bbc_tech_294.txt|.|5|.|bbc_tech_309.txt|.|2|.|bbc_tech_052.txt|.|3|.|bbc_tech_219.txt|.|2|.|bbc_tech_155.txt|.|5|.|bbc_tech_396.txt|.|5|.|bbc_tech_224.txt|.|2
+news online|.|bbc_tech_114.txt|.|3
+elgindy|.|bbc_business_497.txt|.|8
+house of lords|.|bbc_politics_221.txt|.|3|.|bbc_politics_117.txt|.|3|.|bbc_politics_287.txt|.|3|.|bbc_politics_163.txt|.|2
+right information|.|bbc_tech_360.txt|.|3
+eu constitution|.|bbc_politics_142.txt|.|2|.|bbc_politics_383.txt|.|2
+probe|.|bbc_politics_232.txt|.|2
+csa|.|bbc_politics_116.txt|.|6|.|bbc_politics_315.txt|.|5
+national audit|.|bbc_politics_203.txt|.|2
+csi|.|bbc_entertainment_193.txt|.|8|.|bbc_entertainment_173.txt|.|2|.|bbc_entertainment_365.txt|.|6
+sham marriages|.|bbc_politics_215.txt|.|2
+sri lankan|.|bbc_tech_106.txt|.|2
+revolution studios|.|bbc_entertainment_050.txt|.|3
+parmalat|.|bbc_business_492.txt|.|3|.|bbc_business_017.txt|.|2|.|bbc_business_458.txt|.|7|.|bbc_business_312.txt|.|6|.|bbc_business_048.txt|.|7
+respond|.|bbc_tech_223.txt|.|8
+tuc|.|bbc_business_227.txt|.|3|.|bbc_politics_162.txt|.|4
+splits|.|bbc_sport_481.txt|.|1
+japan|.|bbc_tech_317.txt|.|2|.|bbc_business_071.txt|.|2|.|bbc_business_283.txt|.|3|.|bbc_business_110.txt|.|1|.|bbc_tech_238.txt|.|3|.|bbc_business_287.txt|.|11|.|bbc_tech_141.txt|.|1|.|bbc_politics_386.txt|.|2|.|bbc_business_335.txt|.|7|.|bbc_entertainment_087.txt|.|1|.|bbc_business_156.txt|.|2|.|bbc_tech_112.txt|.|3|.|bbc_business_295.txt|.|2|.|bbc_business_037.txt|.|3|.|bbc_tech_025.txt|.|2|.|bbc_business_234.txt|.|3|.|bbc_sport_374.txt|.|8
+dirty tricks|.|bbc_politics_196.txt|.|3|.|bbc_politics_297.txt|.|3
+state law|.|bbc_tech_132.txt|.|3|.|bbc_tech_176.txt|.|3
+concert|.|bbc_entertainment_233.txt|.|2|.|bbc_entertainment_287.txt|.|6|.|bbc_entertainment_111.txt|.|4|.|bbc_entertainment_104.txt|.|3
+ntpc|.|bbc_business_276.txt|.|5
+touchline|.|bbc_sport_169.txt|.|2
+dialler|.|bbc_tech_397.txt|.|4
+pitt|.|bbc_entertainment_074.txt|.|2|.|bbc_entertainment_088.txt|.|2
+uncertain|.|bbc_sport_153.txt|.|2
+concern|.|bbc_politics_313.txt|.|2|.|bbc_tech_061.txt|.|2|.|bbc_politics_020.txt|.|3|.|bbc_tech_321.txt|.|2|.|bbc_politics_334.txt|.|3|.|bbc_politics_043.txt|.|2
+striking civil servants|.|bbc_politics_210.txt|.|1
+campese has told|.|bbc_sport_330.txt|.|1
+hackers|.|bbc_tech_284.txt|.|1|.|bbc_tech_400.txt|.|2|.|bbc_tech_357.txt|.|3
+deaf people|.|bbc_tech_251.txt|.|5
+accuses|.|bbc_sport_037.txt|.|1
+state|.|bbc_tech_132.txt|.|4|.|bbc_business_501.txt|.|7|.|bbc_business_332.txt|.|3|.|bbc_entertainment_281.txt|.|2|.|bbc_business_343.txt|.|2|.|bbc_politics_174.txt|.|2|.|bbc_tech_273.txt|.|2|.|bbc_politics_059.txt|.|3|.|bbc_entertainment_023.txt|.|1|.|bbc_business_136.txt|.|4|.|bbc_business_255.txt|.|3|.|bbc_politics_290.txt|.|10|.|bbc_business_389.txt|.|1|.|bbc_entertainment_271.txt|.|3|.|bbc_business_424.txt|.|2|.|bbc_tech_176.txt|.|4|.|bbc_entertainment_273.txt|.|1|.|bbc_business_468.txt|.|8|.|bbc_politics_298.txt|.|3
+stalking horse|.|bbc_politics_308.txt|.|2
+tel aviv|.|bbc_sport_050.txt|.|2
+game playing|.|bbc_tech_311.txt|.|1|.|bbc_tech_095.txt|.|1
+hopkins|.|bbc_tech_016.txt|.|7
+environmental|.|bbc_business_472.txt|.|5|.|bbc_politics_167.txt|.|4
+dortmund posted|.|bbc_business_193.txt|.|1
+watan|.|bbc_business_502.txt|.|2
+tvs|.|bbc_tech_193.txt|.|2|.|bbc_tech_296.txt|.|2|.|bbc_tech_216.txt|.|2
+absa said|.|bbc_business_218.txt|.|2
+europeans|.|bbc_tech_146.txt|.|2|.|bbc_tech_158.txt|.|2
+offering|.|bbc_tech_264.txt|.|2
+creating|.|bbc_business_366.txt|.|1
+hodges|.|bbc_sport_361.txt|.|5
+courtney|.|bbc_entertainment_258.txt|.|2
+anil|.|bbc_business_379.txt|.|4
+monitors|.|bbc_entertainment_168.txt|.|1
+cut|.|bbc_business_281.txt|.|4|.|bbc_business_027.txt|.|2|.|bbc_tech_067.txt|.|4|.|bbc_business_278.txt|.|1|.|bbc_politics_226.txt|.|3|.|bbc_business_099.txt|.|3|.|bbc_business_443.txt|.|1|.|bbc_politics_087.txt|.|1|.|bbc_politics_091.txt|.|2|.|bbc_politics_197.txt|.|5|.|bbc_business_204.txt|.|2|.|bbc_tech_382.txt|.|4|.|bbc_politics_365.txt|.|5|.|bbc_business_180.txt|.|1|.|bbc_politics_121.txt|.|2|.|bbc_business_394.txt|.|1|.|bbc_business_041.txt|.|3|.|bbc_politics_029.txt|.|1|.|bbc_business_038.txt|.|1|.|bbc_politics_096.txt|.|3|.|bbc_politics_265.txt|.|3|.|bbc_politics_079.txt|.|2|.|bbc_business_098.txt|.|1|.|bbc_business_297.txt|.|1|.|bbc_business_206.txt|.|3|.|bbc_politics_084.txt|.|1|.|bbc_entertainment_381.txt|.|1
+warrior|.|bbc_tech_218.txt|.|3|.|bbc_entertainment_300.txt|.|2
+tax rises|.|bbc_politics_128.txt|.|2|.|bbc_politics_101.txt|.|2
+constitutional|.|bbc_politics_372.txt|.|3
+sony walkman|.|bbc_tech_379.txt|.|3
+battery|.|bbc_tech_367.txt|.|5
+curbishley|.|bbc_sport_220.txt|.|4
+two|.|bbc_business_340.txt|.|3|.|bbc_sport_289.txt|.|2|.|bbc_entertainment_151.txt|.|3|.|bbc_sport_483.txt|.|4|.|bbc_tech_303.txt|.|3|.|bbc_tech_351.txt|.|2|.|bbc_sport_247.txt|.|3|.|bbc_politics_254.txt|.|4|.|bbc_politics_171.txt|.|3|.|bbc_sport_406.txt|.|2|.|bbc_politics_144.txt|.|2|.|bbc_politics_012.txt|.|3|.|bbc_business_451.txt|.|3|.|bbc_business_379.txt|.|2|.|bbc_entertainment_115.txt|.|2|.|bbc_tech_153.txt|.|4|.|bbc_entertainment_184.txt|.|4|.|bbc_sport_259.txt|.|2|.|bbc_sport_004.txt|.|2|.|bbc_sport_441.txt|.|2|.|bbc_tech_239.txt|.|2|.|bbc_politics_181.txt|.|3|.|bbc_sport_427.txt|.|1|.|bbc_sport_219.txt|.|2|.|bbc_politics_258.txt|.|7|.|bbc_tech_273.txt|.|3|.|bbc_sport_310.txt|.|3|.|bbc_business_207.txt|.|3|.|bbc_entertainment_311.txt|.|5|.|bbc_business_478.txt|.|3|.|bbc_sport_209.txt|.|1|.|bbc_sport_342.txt|.|3|.|bbc_sport_320.txt|.|3|.|bbc_sport_032.txt|.|2|.|bbc_tech_185.txt|.|4|.|bbc_politics_283.txt|.|3|.|bbc_business_113.txt|.|2|.|bbc_tech_075.txt|.|3|.|bbc_politics_257.txt|.|2
+us shops|.|bbc_tech_363.txt|.|1
+warmly|.|bbc_politics_307.txt|.|2
+adriano|.|bbc_sport_168.txt|.|5
+allan bruvik|.|bbc_tech_092.txt|.|2
+greer said|.|bbc_entertainment_203.txt|.|2
+worries|.|bbc_business_383.txt|.|1
+attack|.|bbc_business_191.txt|.|2|.|bbc_politics_408.txt|.|2|.|bbc_politics_316.txt|.|4|.|bbc_sport_223.txt|.|1|.|bbc_tech_123.txt|.|5|.|bbc_tech_197.txt|.|2
+axa sun life|.|bbc_business_281.txt|.|2
+hingis|.|bbc_sport_454.txt|.|3|.|bbc_sport_442.txt|.|4
+reported|.|bbc_business_310.txt|.|3|.|bbc_business_079.txt|.|3|.|bbc_politics_286.txt|.|2|.|bbc_business_203.txt|.|2|.|bbc_politics_125.txt|.|2|.|bbc_politics_138.txt|.|3
+operating profits|.|bbc_business_117.txt|.|2
+major test|.|bbc_sport_299.txt|.|2
+nitoglia|.|bbc_sport_302.txt|.|3|.|bbc_sport_314.txt|.|3
+creation|.|bbc_business_022.txt|.|3|.|bbc_business_416.txt|.|2|.|bbc_business_292.txt|.|2
+hard work|.|bbc_sport_309.txt|.|1
+sign juninho|.|bbc_sport_276.txt|.|1
+replaces|.|bbc_sport_233.txt|.|1
+donating|.|bbc_sport_451.txt|.|1
+accused|.|bbc_politics_194.txt|.|2|.|bbc_business_357.txt|.|2|.|bbc_sport_037.txt|.|1|.|bbc_business_133.txt|.|2|.|bbc_business_102.txt|.|2
+said rusedski|.|bbc_sport_461.txt|.|1
+palestinian economy|.|bbc_business_076.txt|.|2
+clive|.|bbc_sport_389.txt|.|2|.|bbc_entertainment_064.txt|.|2
+services|.|bbc_tech_239.txt|.|2|.|bbc_politics_344.txt|.|3|.|bbc_tech_067.txt|.|6|.|bbc_tech_059.txt|.|13|.|bbc_politics_264.txt|.|3|.|bbc_tech_280.txt|.|3|.|bbc_tech_251.txt|.|5|.|bbc_business_021.txt|.|2|.|bbc_politics_241.txt|.|8|.|bbc_politics_265.txt|.|2|.|bbc_politics_271.txt|.|4|.|bbc_tech_386.txt|.|7|.|bbc_tech_322.txt|.|13|.|bbc_tech_382.txt|.|6|.|bbc_tech_352.txt|.|5|.|bbc_tech_358.txt|.|2|.|bbc_politics_270.txt|.|2|.|bbc_politics_404.txt|.|5|.|bbc_politics_099.txt|.|2|.|bbc_tech_198.txt|.|5|.|bbc_politics_387.txt|.|2|.|bbc_politics_177.txt|.|7
+team|.|bbc_sport_066.txt|.|7|.|bbc_sport_155.txt|.|2|.|bbc_sport_371.txt|.|8|.|bbc_sport_276.txt|.|1|.|bbc_sport_087.txt|.|3|.|bbc_tech_165.txt|.|4|.|bbc_sport_074.txt|.|2|.|bbc_sport_351.txt|.|1|.|bbc_sport_336.txt|.|4|.|bbc_sport_100.txt|.|2|.|bbc_sport_143.txt|.|3|.|bbc_sport_449.txt|.|4|.|bbc_sport_261.txt|.|2|.|bbc_sport_350.txt|.|3|.|bbc_tech_166.txt|.|4|.|bbc_sport_281.txt|.|3|.|bbc_sport_417.txt|.|2|.|bbc_tech_140.txt|.|2|.|bbc_politics_402.txt|.|2|.|bbc_sport_296.txt|.|2
+slam titles|.|bbc_sport_489.txt|.|1|.|bbc_sport_490.txt|.|1
+computer servers|.|bbc_tech_013.txt|.|1
+marketing|.|bbc_politics_337.txt|.|8|.|bbc_politics_396.txt|.|6|.|bbc_business_173.txt|.|3
+mongrel|.|bbc_politics_408.txt|.|4
+chilean|.|bbc_business_360.txt|.|2
+speech|.|bbc_politics_350.txt|.|4|.|bbc_tech_102.txt|.|2|.|bbc_politics_264.txt|.|4|.|bbc_business_002.txt|.|2|.|bbc_tech_261.txt|.|5
+watch|.|bbc_tech_378.txt|.|2|.|bbc_tech_216.txt|.|4|.|bbc_politics_136.txt|.|2|.|bbc_tech_365.txt|.|6
+low versus euro|.|bbc_business_350.txt|.|1
+increased marketing|.|bbc_business_173.txt|.|2
+building society|.|bbc_business_237.txt|.|2|.|bbc_business_153.txt|.|2
+cabinet|.|bbc_politics_343.txt|.|2|.|bbc_politics_300.txt|.|3|.|bbc_politics_141.txt|.|3|.|bbc_politics_236.txt|.|2|.|bbc_politics_002.txt|.|2|.|bbc_politics_042.txt|.|2
+thing|.|bbc_politics_248.txt|.|1|.|bbc_politics_267.txt|.|2|.|bbc_politics_258.txt|.|3
+redmond|.|bbc_entertainment_211.txt|.|2
+margins|.|bbc_business_050.txt|.|2|.|bbc_business_247.txt|.|2
+mumbai|.|bbc_entertainment_054.txt|.|5
+rates are set|.|bbc_business_137.txt|.|1
+santa barbara|.|bbc_entertainment_108.txt|.|2
+anne|.|bbc_tech_184.txt|.|3
+mr hague|.|bbc_politics_285.txt|.|7|.|bbc_politics_083.txt|.|7
+anna|.|bbc_entertainment_198.txt|.|2
+indonesians|.|bbc_business_012.txt|.|2
+speech technology|.|bbc_tech_261.txt|.|3
+domestic|.|bbc_business_249.txt|.|2|.|bbc_business_439.txt|.|3|.|bbc_business_380.txt|.|3|.|bbc_business_044.txt|.|2|.|bbc_business_190.txt|.|2
+concern over rfid|.|bbc_tech_061.txt|.|1|.|bbc_tech_321.txt|.|1
+kevin|.|bbc_entertainment_071.txt|.|2|.|bbc_sport_310.txt|.|2
+terrestrial|.|bbc_tech_371.txt|.|6
+seafarers|.|bbc_tech_179.txt|.|8|.|bbc_tech_131.txt|.|8
+buying gifts|.|bbc_tech_235.txt|.|1
+european firms|.|bbc_business_215.txt|.|3|.|bbc_business_494.txt|.|3
+ireland can win|.|bbc_sport_352.txt|.|2
+backing for id cards|.|bbc_politics_081.txt|.|1|.|bbc_politics_299.txt|.|1
+starts|.|bbc_sport_084.txt|.|1|.|bbc_sport_117.txt|.|1|.|bbc_sport_052.txt|.|1|.|bbc_business_107.txt|.|1
+stability|.|bbc_business_457.txt|.|2|.|bbc_politics_389.txt|.|5
+budget|.|bbc_business_159.txt|.|8|.|bbc_politics_021.txt|.|1|.|bbc_business_412.txt|.|5|.|bbc_business_041.txt|.|5|.|bbc_business_488.txt|.|6|.|bbc_politics_364.txt|.|5|.|bbc_business_047.txt|.|2|.|bbc_business_328.txt|.|6|.|bbc_politics_360.txt|.|5|.|bbc_business_249.txt|.|11|.|bbc_politics_354.txt|.|9|.|bbc_politics_356.txt|.|1|.|bbc_business_204.txt|.|12|.|bbc_business_055.txt|.|6|.|bbc_politics_077.txt|.|7|.|bbc_politics_406.txt|.|3|.|bbc_business_474.txt|.|2|.|bbc_business_245.txt|.|11|.|bbc_politics_376.txt|.|5
+england defender|.|bbc_sport_268.txt|.|2
+tech|.|bbc_tech_048.txt|.|2|.|bbc_tech_270.txt|.|1|.|bbc_tech_347.txt|.|1|.|bbc_tech_005.txt|.|1|.|bbc_tech_299.txt|.|1|.|bbc_tech_342.txt|.|2|.|bbc_tech_077.txt|.|1
+protect pcs|.|bbc_tech_316.txt|.|1
+nokia and microsoft|.|bbc_tech_383.txt|.|2
+obtained illegally|.|bbc_tech_195.txt|.|1
+glass|.|bbc_entertainment_019.txt|.|2
+british premiere|.|bbc_entertainment_071.txt|.|1
+said nortel|.|bbc_business_425.txt|.|1
+closer to home|.|bbc_business_183.txt|.|2
+ultimate|.|bbc_tech_126.txt|.|2|.|bbc_entertainment_136.txt|.|2|.|bbc_tech_171.txt|.|2
+said ruddock|.|bbc_sport_359.txt|.|2|.|bbc_sport_307.txt|.|2
+troncon|.|bbc_sport_305.txt|.|2
+godzilla|.|bbc_entertainment_093.txt|.|9
+technologies|.|bbc_politics_109.txt|.|2|.|bbc_tech_220.txt|.|1
+privileged|.|bbc_business_475.txt|.|2
+creator of buffy|.|bbc_entertainment_386.txt|.|1
+mr kinnock|.|bbc_politics_163.txt|.|3
+christian aid|.|bbc_business_296.txt|.|3
+private sector|.|bbc_business_057.txt|.|2|.|bbc_politics_023.txt|.|2
+shops|.|bbc_tech_061.txt|.|2|.|bbc_tech_363.txt|.|2
+wyatt and said|.|bbc_politics_415.txt|.|1
+microsoft outlook|.|bbc_tech_117.txt|.|2
+unilever|.|bbc_business_111.txt|.|7|.|bbc_business_302.txt|.|4
+memory|.|bbc_politics_274.txt|.|2
+year olds|.|bbc_politics_309.txt|.|1
+concept|.|bbc_tech_229.txt|.|5
+farmers|.|bbc_tech_006.txt|.|8|.|bbc_business_067.txt|.|2
+house|.|bbc_politics_319.txt|.|2|.|bbc_politics_221.txt|.|3|.|bbc_business_170.txt|.|5|.|bbc_politics_072.txt|.|7|.|bbc_business_248.txt|.|6|.|bbc_business_153.txt|.|5|.|bbc_politics_290.txt|.|5|.|bbc_politics_289.txt|.|5|.|bbc_entertainment_141.txt|.|3|.|bbc_entertainment_344.txt|.|2|.|bbc_business_323.txt|.|1|.|bbc_politics_378.txt|.|5|.|bbc_politics_117.txt|.|4|.|bbc_politics_384.txt|.|5|.|bbc_business_415.txt|.|9|.|bbc_politics_070.txt|.|5|.|bbc_politics_163.txt|.|2|.|bbc_entertainment_257.txt|.|4|.|bbc_business_405.txt|.|11|.|bbc_politics_014.txt|.|5|.|bbc_entertainment_187.txt|.|2|.|bbc_politics_066.txt|.|4|.|bbc_politics_182.txt|.|7|.|bbc_politics_287.txt|.|4|.|bbc_business_329.txt|.|2
+disaster|.|bbc_politics_164.txt|.|3|.|bbc_entertainment_375.txt|.|3|.|bbc_business_434.txt|.|3|.|bbc_tech_106.txt|.|2|.|bbc_business_354.txt|.|3|.|bbc_tech_142.txt|.|4
+hitch|.|bbc_entertainment_364.txt|.|2
+mp defects|.|bbc_politics_307.txt|.|1
+assembly government|.|bbc_politics_101.txt|.|2|.|bbc_politics_039.txt|.|6
+tory leader|.|bbc_politics_013.txt|.|5|.|bbc_politics_408.txt|.|2|.|bbc_politics_271.txt|.|3|.|bbc_politics_316.txt|.|2|.|bbc_politics_262.txt|.|2|.|bbc_politics_364.txt|.|3|.|bbc_politics_371.txt|.|2|.|bbc_politics_120.txt|.|2|.|bbc_politics_320.txt|.|2
+ms robinson|.|bbc_politics_013.txt|.|2
+st helens|.|bbc_sport_397.txt|.|4|.|bbc_sport_357.txt|.|4
+walliams|.|bbc_entertainment_201.txt|.|5
+opposing|.|bbc_politics_202.txt|.|1
+hours|.|bbc_politics_171.txt|.|3|.|bbc_politics_181.txt|.|4|.|bbc_politics_202.txt|.|1|.|bbc_tech_101.txt|.|2
+redwood said|.|bbc_politics_265.txt|.|2
+international film festival|.|bbc_entertainment_309.txt|.|2
+car market|.|bbc_business_149.txt|.|2|.|bbc_business_141.txt|.|1
+cairn|.|bbc_business_198.txt|.|7|.|bbc_business_307.txt|.|10|.|bbc_business_433.txt|.|3
+libraries|.|bbc_tech_236.txt|.|6
+stars|.|bbc_entertainment_311.txt|.|2|.|bbc_entertainment_167.txt|.|3|.|bbc_entertainment_373.txt|.|2|.|bbc_sport_316.txt|.|2|.|bbc_entertainment_224.txt|.|3|.|bbc_entertainment_314.txt|.|3|.|bbc_entertainment_188.txt|.|3|.|bbc_entertainment_172.txt|.|2|.|bbc_entertainment_265.txt|.|2|.|bbc_entertainment_300.txt|.|5
+lifestyle|.|bbc_tech_225.txt|.|2|.|bbc_tech_212.txt|.|2
+fallen|.|bbc_business_344.txt|.|3|.|bbc_business_270.txt|.|2
+marvel|.|bbc_entertainment_298.txt|.|5
+video mobile|.|bbc_tech_386.txt|.|1
+us state|.|bbc_tech_273.txt|.|2
+mobiles in the uk|.|bbc_tech_265.txt|.|2
+hotels|.|bbc_entertainment_016.txt|.|1
+disney|.|bbc_business_331.txt|.|10|.|bbc_business_483.txt|.|2
+commonwealth|.|bbc_sport_008.txt|.|2
+apple has unveiled|.|bbc_tech_297.txt|.|1|.|bbc_tech_260.txt|.|1
+important car|.|bbc_business_105.txt|.|2
+former president|.|bbc_business_197.txt|.|1
+fox entertainment group|.|bbc_business_422.txt|.|2
+finance|.|bbc_business_065.txt|.|2|.|bbc_business_479.txt|.|2|.|bbc_business_241.txt|.|6|.|bbc_business_210.txt|.|2|.|bbc_business_273.txt|.|2|.|bbc_business_075.txt|.|2|.|bbc_business_314.txt|.|3|.|bbc_politics_241.txt|.|3|.|bbc_business_008.txt|.|3
+ism survey|.|bbc_business_108.txt|.|1
+john hartson|.|bbc_sport_146.txt|.|2
+regulate|.|bbc_tech_275.txt|.|1
+us budget|.|bbc_business_488.txt|.|2
+squabbling|.|bbc_politics_258.txt|.|4
+us interest rates|.|bbc_business_402.txt|.|1|.|bbc_business_121.txt|.|2
+measures|.|bbc_politics_354.txt|.|3|.|bbc_tech_154.txt|.|1|.|bbc_business_128.txt|.|2
+invite bids|.|bbc_business_129.txt|.|1
+daniela|.|bbc_sport_455.txt|.|2
+golden|.|bbc_business_154.txt|.|5|.|bbc_entertainment_042.txt|.|2|.|bbc_entertainment_191.txt|.|3|.|bbc_entertainment_095.txt|.|6|.|bbc_business_106.txt|.|2|.|bbc_entertainment_092.txt|.|3|.|bbc_business_195.txt|.|4
+rate rises|.|bbc_business_240.txt|.|2|.|bbc_business_214.txt|.|2
+sir nicholas|.|bbc_politics_183.txt|.|5
+savings|.|bbc_business_255.txt|.|2
+catalogues|.|bbc_tech_213.txt|.|2
+gallery|.|bbc_entertainment_026.txt|.|6|.|bbc_entertainment_001.txt|.|3
+transition government|.|bbc_business_107.txt|.|2
+steroid|.|bbc_sport_091.txt|.|3|.|bbc_sport_045.txt|.|2
+great believer|.|bbc_politics_166.txt|.|2
+downlink packet|.|bbc_tech_032.txt|.|4|.|bbc_tech_335.txt|.|3
+sutton|.|bbc_sport_108.txt|.|3
+cameron|.|bbc_entertainment_005.txt|.|2
+ethernet port|.|bbc_tech_301.txt|.|2
+lomax|.|bbc_business_057.txt|.|7
+france honour|.|bbc_entertainment_243.txt|.|1
+goodman|.|bbc_entertainment_164.txt|.|2
+dates|.|bbc_entertainment_120.txt|.|2
+real estate activity|.|bbc_business_463.txt|.|2
+creative|.|bbc_tech_005.txt|.|12|.|bbc_politics_404.txt|.|3
+hey jude|.|bbc_entertainment_133.txt|.|2|.|bbc_entertainment_145.txt|.|2
+tv drama|.|bbc_entertainment_215.txt|.|2
+coast|.|bbc_politics_129.txt|.|4
+ulvaeus|.|bbc_entertainment_265.txt|.|2
+becky sharp|.|bbc_entertainment_061.txt|.|6
+mellor|.|bbc_sport_269.txt|.|3
+farmers in peru|.|bbc_tech_006.txt|.|2
+mr smith|.|bbc_politics_315.txt|.|7
+theme at the show|.|bbc_tech_347.txt|.|2
+clint|.|bbc_entertainment_377.txt|.|2|.|bbc_entertainment_095.txt|.|2|.|bbc_entertainment_368.txt|.|7
+evening chronicle|.|bbc_sport_260.txt|.|2
+fulham|.|bbc_sport_252.txt|.|2|.|bbc_sport_127.txt|.|2|.|bbc_sport_281.txt|.|3|.|bbc_sport_255.txt|.|2
+consume|.|bbc_tech_384.txt|.|2
+planned|.|bbc_business_454.txt|.|3|.|bbc_business_510.txt|.|2
+single passenger|.|bbc_tech_229.txt|.|2
+clive owen|.|bbc_entertainment_064.txt|.|2
+air show|.|bbc_business_130.txt|.|2
+andreas|.|bbc_tech_135.txt|.|6|.|bbc_tech_130.txt|.|5|.|bbc_tech_178.txt|.|5
+tellier|.|bbc_business_304.txt|.|3
+referendum question|.|bbc_politics_142.txt|.|3
+website mentioned|.|bbc_tech_385.txt|.|1
+holdings|.|bbc_business_274.txt|.|1|.|bbc_business_180.txt|.|2|.|bbc_business_032.txt|.|2
+jackie|.|bbc_entertainment_203.txt|.|2
+says i work|.|bbc_entertainment_349.txt|.|1
+muslim voters|.|bbc_politics_062.txt|.|2
+cantona masks|.|bbc_sport_148.txt|.|3
+megabit|.|bbc_tech_205.txt|.|1
+celebrates|.|bbc_tech_065.txt|.|1
+jack straw|.|bbc_politics_142.txt|.|2
+bedside|.|bbc_entertainment_141.txt|.|2
+mr botin|.|bbc_business_506.txt|.|5
+fully with prosecutors|.|bbc_business_458.txt|.|2
+performed|.|bbc_business_428.txt|.|1|.|bbc_entertainment_343.txt|.|1
+jimmy marlu|.|bbc_sport_306.txt|.|2
+pipeline|.|bbc_business_363.txt|.|5
+said lending|.|bbc_business_194.txt|.|3
+member states|.|bbc_politics_193.txt|.|1|.|bbc_politics_138.txt|.|6
+air deccan|.|bbc_business_339.txt|.|3|.|bbc_business_407.txt|.|4
+fetch|.|bbc_entertainment_164.txt|.|2
+clash on tax|.|bbc_politics_387.txt|.|1
+crawford registration|.|bbc_sport_131.txt|.|2
+child support agency|.|bbc_politics_315.txt|.|2
+potential candidates|.|bbc_politics_259.txt|.|2
+svanberg|.|bbc_business_118.txt|.|2
+outlines|.|bbc_politics_107.txt|.|1|.|bbc_politics_342.txt|.|1
+oasis|.|bbc_entertainment_154.txt|.|2
+friendly|.|bbc_sport_277.txt|.|2|.|bbc_sport_128.txt|.|2
+bussell|.|bbc_entertainment_022.txt|.|2
+tell|.|bbc_politics_403.txt|.|2|.|bbc_tech_034.txt|.|4
+fatboy|.|bbc_entertainment_122.txt|.|3
+dal|.|bbc_sport_350.txt|.|3
+dan|.|bbc_entertainment_089.txt|.|2
+ticket record|.|bbc_entertainment_140.txt|.|1
+dam|.|bbc_business_472.txt|.|5|.|bbc_business_282.txt|.|6|.|bbc_business_174.txt|.|5
+lovenduski|.|bbc_politics_008.txt|.|3
+engerwitzdorf|.|bbc_tech_365.txt|.|3
+shows|.|bbc_entertainment_191.txt|.|3|.|bbc_entertainment_190.txt|.|2|.|bbc_politics_320.txt|.|3
+outlined|.|bbc_politics_107.txt|.|2|.|bbc_politics_342.txt|.|2
+shown|.|bbc_tech_267.txt|.|2|.|bbc_tech_165.txt|.|2|.|bbc_tech_166.txt|.|2
+old trafford|.|bbc_sport_158.txt|.|2
+rules for ringtone|.|bbc_tech_067.txt|.|1|.|bbc_tech_382.txt|.|1
+last three months|.|bbc_business_503.txt|.|2
+super size|.|bbc_entertainment_361.txt|.|2
+lewsey|.|bbc_sport_288.txt|.|4|.|bbc_sport_405.txt|.|3|.|bbc_sport_414.txt|.|4
+speeds|.|bbc_tech_264.txt|.|2|.|bbc_tech_205.txt|.|2|.|bbc_tech_058.txt|.|8
+day|.|bbc_entertainment_100.txt|.|4|.|bbc_politics_366.txt|.|1|.|bbc_tech_016.txt|.|5|.|bbc_politics_412.txt|.|2|.|bbc_sport_319.txt|.|1|.|bbc_business_337.txt|.|2|.|bbc_entertainment_127.txt|.|1|.|bbc_entertainment_267.txt|.|3|.|bbc_tech_381.txt|.|2|.|bbc_entertainment_369.txt|.|2|.|bbc_entertainment_341.txt|.|1|.|bbc_politics_137.txt|.|2|.|bbc_business_142.txt|.|1|.|bbc_sport_366.txt|.|2|.|bbc_business_083.txt|.|3|.|bbc_entertainment_322.txt|.|2|.|bbc_business_504.txt|.|2|.|bbc_business_476.txt|.|2|.|bbc_entertainment_286.txt|.|4|.|bbc_entertainment_234.txt|.|2|.|bbc_entertainment_102.txt|.|1|.|bbc_business_167.txt|.|1|.|bbc_politics_223.txt|.|2|.|bbc_politics_228.txt|.|2|.|bbc_tech_188.txt|.|3|.|bbc_business_428.txt|.|2|.|bbc_entertainment_124.txt|.|2|.|bbc_entertainment_358.txt|.|2|.|bbc_politics_135.txt|.|2|.|bbc_tech_035.txt|.|6|.|bbc_entertainment_103.txt|.|1|.|bbc_politics_401.txt|.|2|.|bbc_entertainment_214.txt|.|3|.|bbc_tech_066.txt|.|2|.|bbc_entertainment_227.txt|.|2|.|bbc_sport_173.txt|.|3|.|bbc_entertainment_055.txt|.|1|.|bbc_tech_189.txt|.|3|.|bbc_sport_159.txt|.|2|.|bbc_business_028.txt|.|2|.|bbc_politics_341.txt|.|2|.|bbc_politics_063.txt|.|9|.|bbc_entertainment_130.txt|.|3|.|bbc_entertainment_076.txt|.|4
+raising|.|bbc_entertainment_160.txt|.|1|.|bbc_politics_185.txt|.|2|.|bbc_business_012.txt|.|2|.|bbc_politics_054.txt|.|1|.|bbc_politics_162.txt|.|1
+drinking|.|bbc_politics_202.txt|.|6|.|bbc_politics_094.txt|.|11|.|bbc_politics_019.txt|.|7
+equal access|.|bbc_business_252.txt|.|2
+island|.|bbc_entertainment_120.txt|.|2|.|bbc_tech_249.txt|.|3|.|bbc_entertainment_007.txt|.|2|.|bbc_entertainment_013.txt|.|2
+created|.|bbc_tech_201.txt|.|4|.|bbc_entertainment_165.txt|.|2
+format|.|bbc_tech_294.txt|.|6|.|bbc_tech_219.txt|.|6|.|bbc_tech_345.txt|.|2|.|bbc_tech_155.txt|.|6|.|bbc_tech_224.txt|.|6
+jack cunningham|.|bbc_politics_236.txt|.|2
+water|.|bbc_business_501.txt|.|9|.|bbc_business_050.txt|.|3
+cent appeared|.|bbc_entertainment_282.txt|.|2
+gw pharma|.|bbc_business_327.txt|.|5
+eu rules|.|bbc_business_413.txt|.|1|.|bbc_politics_389.txt|.|2
+advance warning|.|bbc_business_226.txt|.|2
+victory over england|.|bbc_sport_290.txt|.|2
+rise in the minimum wage|.|bbc_politics_380.txt|.|2
+terrestrial tv|.|bbc_tech_371.txt|.|3
+fox entertainment|.|bbc_business_422.txt|.|3
+opposition parties|.|bbc_politics_362.txt|.|3
+history boys|.|bbc_entertainment_006.txt|.|4|.|bbc_entertainment_275.txt|.|5
+next election|.|bbc_politics_254.txt|.|3|.|bbc_politics_403.txt|.|4|.|bbc_politics_261.txt|.|1
+tens|.|bbc_tech_395.txt|.|1
+branson|.|bbc_entertainment_178.txt|.|1
+critical|.|bbc_tech_007.txt|.|6|.|bbc_tech_060.txt|.|6
+boards|.|bbc_business_111.txt|.|1
+smith lecture|.|bbc_business_213.txt|.|2
+young people|.|bbc_politics_056.txt|.|3|.|bbc_politics_309.txt|.|4|.|bbc_politics_094.txt|.|2|.|bbc_politics_019.txt|.|6
+direct the third harry|.|bbc_entertainment_028.txt|.|1
+comedian|.|bbc_entertainment_204.txt|.|3|.|bbc_entertainment_190.txt|.|1|.|bbc_entertainment_185.txt|.|2
+guarded|.|bbc_politics_232.txt|.|1
+declining|.|bbc_sport_445.txt|.|2
+camera phones|.|bbc_tech_234.txt|.|1|.|bbc_tech_388.txt|.|9|.|bbc_tech_389.txt|.|1|.|bbc_tech_208.txt|.|3|.|bbc_tech_103.txt|.|9
+asimo|.|bbc_tech_246.txt|.|7|.|bbc_tech_356.txt|.|4

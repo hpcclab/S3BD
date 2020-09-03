@@ -1,0 +1,23 @@
+42
+risks of infection|.|bbc_tech_122.txt|.|2
+banks start|.|bbc_tech_122.txt|.|1
+infection|.|bbc_tech_385.txt|.|1|.|bbc_tech_272.txt|.|2|.|bbc_tech_122.txt|.|3
+operating system|.|bbc_tech_259.txt|.|1|.|bbc_tech_083.txt|.|3|.|bbc_tech_308.txt|.|3|.|bbc_tech_194.txt|.|2
+documents contained|.|bbc_tech_086.txt|.|2
+windows genuine|.|bbc_tech_083.txt|.|2|.|bbc_tech_308.txt|.|2
+patches|.|bbc_tech_007.txt|.|2|.|bbc_tech_060.txt|.|2
+automatically|.|bbc_tech_083.txt|.|1|.|bbc_tech_308.txt|.|1
+replacement scheme|.|bbc_tech_194.txt|.|1
+updates|.|bbc_tech_083.txt|.|3|.|bbc_tech_308.txt|.|3
+windows|.|bbc_tech_210.txt|.|4|.|bbc_tech_086.txt|.|3|.|bbc_tech_272.txt|.|3|.|bbc_tech_007.txt|.|3|.|bbc_tech_083.txt|.|10|.|bbc_tech_122.txt|.|9|.|bbc_tech_237.txt|.|3|.|bbc_tech_250.txt|.|5|.|bbc_tech_308.txt|.|10|.|bbc_tech_060.txt|.|3|.|bbc_tech_194.txt|.|7
+replace counterfeit|.|bbc_tech_194.txt|.|1
+microsoft has launched|.|bbc_tech_194.txt|.|2
+contained|.|bbc_tech_086.txt|.|2
+running pirated|.|bbc_tech_083.txt|.|2|.|bbc_tech_308.txt|.|2
+updates automatically|.|bbc_tech_083.txt|.|1|.|bbc_tech_308.txt|.|1
+networks of cash machines|.|bbc_tech_122.txt|.|1
+atms|.|bbc_tech_122.txt|.|4
+risk of infection|.|bbc_tech_272.txt|.|1
+windows operating|.|bbc_tech_083.txt|.|2|.|bbc_tech_308.txt|.|2
+firm giant|.|bbc_tech_250.txt|.|2
+operating|.|bbc_business_117.txt|.|3|.|bbc_tech_259.txt|.|2|.|bbc_tech_083.txt|.|3|.|bbc_tech_308.txt|.|3|.|bbc_tech_194.txt|.|2

@@ -1,0 +1,18 @@
+46
+revamped|.|bbc_entertainment_284.txt|.|2
+set to top the uk|.|bbc_entertainment_112.txt|.|1
+singles chart|.|bbc_entertainment_112.txt|.|2|.|bbc_entertainment_278.txt|.|3|.|bbc_entertainment_127.txt|.|3|.|bbc_entertainment_159.txt|.|2|.|bbc_entertainment_103.txt|.|3
+us singles|.|bbc_entertainment_127.txt|.|2|.|bbc_entertainment_103.txt|.|2
+digital sales|.|bbc_entertainment_127.txt|.|3|.|bbc_entertainment_103.txt|.|3
+elvis is set to top|.|bbc_entertainment_112.txt|.|1
+revamped chart|.|bbc_entertainment_284.txt|.|1
+delayed|.|bbc_entertainment_278.txt|.|2
+hot|.|bbc_entertainment_127.txt|.|3|.|bbc_entertainment_103.txt|.|3
+revamp|.|bbc_entertainment_284.txt|.|1
+inclusion|.|bbc_entertainment_278.txt|.|2
+revamp chart show|.|bbc_entertainment_284.txt|.|1
+singles|.|bbc_entertainment_233.txt|.|1|.|bbc_entertainment_112.txt|.|3|.|bbc_sport_431.txt|.|2|.|bbc_entertainment_285.txt|.|3|.|bbc_entertainment_278.txt|.|4|.|bbc_entertainment_127.txt|.|6|.|bbc_sport_466.txt|.|2|.|bbc_entertainment_234.txt|.|2|.|bbc_entertainment_159.txt|.|2|.|bbc_entertainment_103.txt|.|6|.|bbc_sport_455.txt|.|2
+us singles chart|.|bbc_entertainment_127.txt|.|2|.|bbc_entertainment_103.txt|.|2
+bpi|.|bbc_entertainment_278.txt|.|5
+chart|.|bbc_entertainment_060.txt|.|3|.|bbc_entertainment_240.txt|.|2|.|bbc_entertainment_100.txt|.|2|.|bbc_entertainment_126.txt|.|5|.|bbc_entertainment_285.txt|.|3|.|bbc_entertainment_278.txt|.|7|.|bbc_entertainment_127.txt|.|16|.|bbc_entertainment_159.txt|.|2|.|bbc_entertainment_025.txt|.|3|.|bbc_entertainment_103.txt|.|16|.|bbc_tech_141.txt|.|1|.|bbc_entertainment_112.txt|.|3|.|bbc_entertainment_284.txt|.|9|.|bbc_entertainment_136.txt|.|3|.|bbc_entertainment_340.txt|.|2|.|bbc_entertainment_076.txt|.|2
+joel|.|bbc_entertainment_284.txt|.|3

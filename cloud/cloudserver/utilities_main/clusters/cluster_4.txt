@@ -1,0 +1,29 @@
+4
+big club|.|bbc_sport_254.txt|.|2
+james kept|.|bbc_sport_139.txt|.|2
+city|.|bbc_sport_101.txt|.|6|.|bbc_business_461.txt|.|1|.|bbc_sport_250.txt|.|5|.|bbc_sport_224.txt|.|2|.|bbc_tech_201.txt|.|3|.|bbc_entertainment_032.txt|.|2|.|bbc_sport_195.txt|.|2|.|bbc_sport_254.txt|.|3|.|bbc_sport_206.txt|.|3|.|bbc_sport_176.txt|.|4|.|bbc_sport_139.txt|.|3|.|bbc_politics_114.txt|.|2|.|bbc_business_070.txt|.|4|.|bbc_sport_244.txt|.|4
+panoramic|.|bbc_tech_201.txt|.|2
+chorley|.|bbc_sport_224.txt|.|2
+make a gigapixel|.|bbc_tech_201.txt|.|1
+resolution|.|bbc_tech_201.txt|.|2
+investment firms|.|bbc_business_070.txt|.|1
+juninho wants|.|bbc_sport_195.txt|.|1
+dutch city|.|bbc_tech_201.txt|.|2
+joint assistant|.|bbc_sport_244.txt|.|1
+manchester city|.|bbc_sport_101.txt|.|2|.|bbc_sport_195.txt|.|2|.|bbc_sport_254.txt|.|2
+wayne rooney|.|bbc_sport_101.txt|.|2|.|bbc_sport_216.txt|.|2
+dunne keen|.|bbc_sport_250.txt|.|1
+denied by james|.|bbc_sport_139.txt|.|1
+contract extension|.|bbc_sport_206.txt|.|1
+charging|.|bbc_politics_114.txt|.|2
+edinburgh city|.|bbc_politics_114.txt|.|2
+pacquette|.|bbc_sport_224.txt|.|2
+pearce is keen|.|bbc_sport_244.txt|.|1
+gigapixel|.|bbc_tech_201.txt|.|3
+private investment|.|bbc_business_070.txt|.|2
+redford wants|.|bbc_entertainment_032.txt|.|1
+keen|.|bbc_sport_250.txt|.|2|.|bbc_sport_266.txt|.|3|.|bbc_sport_244.txt|.|2
+man city|.|bbc_sport_101.txt|.|2
+apologises|.|bbc_sport_254.txt|.|1
+keegan|.|bbc_sport_250.txt|.|4|.|bbc_sport_116.txt|.|2|.|bbc_sport_244.txt|.|5|.|bbc_sport_176.txt|.|6
+congestion|.|bbc_politics_114.txt|.|3

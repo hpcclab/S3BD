@@ -1,0 +1,6 @@
+45
+game with italy|.|bbc_sport_304.txt|.|1
+suffer|.|bbc_sport_353.txt|.|1
+wales centre|.|bbc_sport_304.txt|.|1
+feign injury|.|bbc_sport_260.txt|.|1
+injury|.|bbc_sport_360.txt|.|3|.|bbc_sport_467.txt|.|2|.|bbc_sport_114.txt|.|4|.|bbc_sport_488.txt|.|3|.|bbc_sport_475.txt|.|2|.|bbc_sport_356.txt|.|2|.|bbc_sport_055.txt|.|2|.|bbc_sport_496.txt|.|5|.|bbc_sport_162.txt|.|2|.|bbc_sport_304.txt|.|3|.|bbc_sport_353.txt|.|2|.|bbc_sport_419.txt|.|2|.|bbc_sport_479.txt|.|2|.|bbc_sport_471.txt|.|2|.|bbc_sport_171.txt|.|2|.|bbc_sport_008.txt|.|2|.|bbc_sport_411.txt|.|3|.|bbc_sport_096.txt|.|3|.|bbc_sport_418.txt|.|2|.|bbc_sport_443.txt|.|2|.|bbc_sport_117.txt|.|3|.|bbc_sport_478.txt|.|2|.|bbc_sport_260.txt|.|3|.|bbc_sport_103.txt|.|3|.|bbc_sport_345.txt|.|3|.|bbc_sport_388.txt|.|3|.|bbc_sport_457.txt|.|3|.|bbc_sport_315.txt|.|3|.|bbc_sport_129.txt|.|2|.|bbc_sport_380.txt|.|1|.|bbc_sport_417.txt|.|2|.|bbc_entertainment_050.txt|.|3

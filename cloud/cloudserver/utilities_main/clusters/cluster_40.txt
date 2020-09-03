@@ -1,0 +1,7 @@
+40
+production tax|.|bbc_business_307.txt|.|1
+development and product|.|bbc_business_460.txt|.|1
+russian companies|.|bbc_business_222.txt|.|1
+group company|.|bbc_business_486.txt|.|1
+company|.|bbc_tech_024.txt|.|3|.|bbc_business_027.txt|.|3|.|bbc_business_111.txt|.|7|.|bbc_tech_084.txt|.|2|.|bbc_business_251.txt|.|3|.|bbc_business_307.txt|.|6|.|bbc_business_222.txt|.|4|.|bbc_politics_208.txt|.|2|.|bbc_business_337.txt|.|5|.|bbc_business_486.txt|.|4|.|bbc_business_460.txt|.|5|.|bbc_business_188.txt|.|2|.|bbc_business_053.txt|.|2|.|bbc_business_331.txt|.|4|.|bbc_business_379.txt|.|2|.|bbc_entertainment_158.txt|.|2|.|bbc_business_102.txt|.|4|.|bbc_business_349.txt|.|2|.|bbc_business_476.txt|.|1|.|bbc_business_314.txt|.|4|.|bbc_business_167.txt|.|3|.|bbc_business_048.txt|.|3|.|bbc_business_321.txt|.|2|.|bbc_business_508.txt|.|2|.|bbc_business_304.txt|.|3|.|bbc_business_029.txt|.|2|.|bbc_business_479.txt|.|4|.|bbc_business_054.txt|.|4|.|bbc_business_343.txt|.|2|.|bbc_tech_390.txt|.|4|.|bbc_tech_065.txt|.|2|.|bbc_business_313.txt|.|6|.|bbc_business_088.txt|.|2|.|bbc_business_352.txt|.|2|.|bbc_entertainment_161.txt|.|2|.|bbc_business_266.txt|.|3|.|bbc_entertainment_138.txt|.|2|.|bbc_business_325.txt|.|2|.|bbc_business_312.txt|.|5|.|bbc_business_100.txt|.|4
+disney has settled|.|bbc_business_331.txt|.|1

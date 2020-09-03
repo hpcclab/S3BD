@@ -1,0 +1,23 @@
+15
+madonna|.|bbc_entertainment_162.txt|.|3|.|bbc_entertainment_250.txt|.|3
+elton john|.|bbc_entertainment_162.txt|.|2|.|bbc_entertainment_250.txt|.|2
+audience|.|bbc_entertainment_253.txt|.|3
+brits|.|bbc_entertainment_261.txt|.|5|.|bbc_entertainment_129.txt|.|5
+album|.|bbc_entertainment_162.txt|.|4|.|bbc_entertainment_253.txt|.|7|.|bbc_entertainment_126.txt|.|5|.|bbc_entertainment_261.txt|.|8|.|bbc_entertainment_129.txt|.|8|.|bbc_entertainment_250.txt|.|4|.|bbc_business_207.txt|.|1|.|bbc_entertainment_125.txt|.|3|.|bbc_entertainment_106.txt|.|6|.|bbc_entertainment_120.txt|.|2|.|bbc_entertainment_241.txt|.|3|.|bbc_entertainment_268.txt|.|1|.|bbc_entertainment_117.txt|.|3|.|bbc_entertainment_238.txt|.|3
+eight years|.|bbc_entertainment_238.txt|.|2
+songwriting|.|bbc_entertainment_106.txt|.|1
+black album|.|bbc_entertainment_117.txt|.|2
+youssou|.|bbc_entertainment_241.txt|.|2
+album chart|.|bbc_entertainment_126.txt|.|2
+brits success|.|bbc_entertainment_261.txt|.|3|.|bbc_entertainment_129.txt|.|3
+rap star|.|bbc_entertainment_117.txt|.|1
+doves|.|bbc_entertainment_126.txt|.|2
+artists including|.|bbc_entertainment_117.txt|.|1
+barrow told|.|bbc_entertainment_238.txt|.|2
+album title|.|bbc_entertainment_261.txt|.|1|.|bbc_entertainment_129.txt|.|1
+new number|.|bbc_entertainment_126.txt|.|1
+jamaican|.|bbc_entertainment_120.txt|.|1
+band and album|.|bbc_entertainment_125.txt|.|2
+newcomer awards|.|bbc_entertainment_253.txt|.|2
+irish band and album|.|bbc_entertainment_125.txt|.|2
+award for best irish|.|bbc_entertainment_125.txt|.|1

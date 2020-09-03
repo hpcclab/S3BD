@@ -1,0 +1,52 @@
+61
+free access|.|bbc_business_478.txt|.|2
+templeton said|.|bbc_tech_350.txt|.|2
+free personal|.|bbc_politics_098.txt|.|3
+pledged|.|bbc_politics_171.txt|.|1
+delta|.|bbc_tech_102.txt|.|5|.|bbc_business_395.txt|.|5|.|bbc_business_348.txt|.|3
+mojtaba|.|bbc_tech_016.txt|.|5
+allander|.|bbc_politics_098.txt|.|2
+telephone calls|.|bbc_tech_136.txt|.|2
+sports lessons|.|bbc_politics_171.txt|.|2
+sturgeon said|.|bbc_politics_098.txt|.|2
+bt offers|.|bbc_tech_136.txt|.|1|.|bbc_business_252.txt|.|1
+net|.|bbc_tech_385.txt|.|2|.|bbc_tech_350.txt|.|4|.|bbc_tech_398.txt|.|2|.|bbc_tech_270.txt|.|8|.|bbc_business_464.txt|.|2|.|bbc_tech_002.txt|.|15|.|bbc_tech_364.txt|.|5|.|bbc_tech_316.txt|.|13|.|bbc_tech_368.txt|.|6|.|bbc_tech_089.txt|.|2|.|bbc_tech_011.txt|.|5|.|bbc_tech_211.txt|.|3|.|bbc_tech_136.txt|.|2|.|bbc_tech_042.txt|.|6|.|bbc_tech_267.txt|.|4|.|bbc_tech_339.txt|.|6|.|bbc_tech_365.txt|.|2|.|bbc_tech_175.txt|.|3|.|bbc_tech_073.txt|.|4|.|bbc_tech_361.txt|.|5|.|bbc_tech_366.txt|.|15|.|bbc_tech_081.txt|.|4|.|bbc_business_503.txt|.|2|.|bbc_business_479.txt|.|3|.|bbc_tech_310.txt|.|2|.|bbc_tech_087.txt|.|9|.|bbc_tech_299.txt|.|8|.|bbc_tech_221.txt|.|2|.|bbc_tech_397.txt|.|3|.|bbc_tech_392.txt|.|5|.|bbc_tech_031.txt|.|5|.|bbc_tech_074.txt|.|16|.|bbc_tech_227.txt|.|2|.|bbc_tech_150.txt|.|5|.|bbc_tech_129.txt|.|3|.|bbc_tech_226.txt|.|3|.|bbc_tech_393.txt|.|4|.|bbc_business_288.txt|.|2|.|bbc_tech_010.txt|.|2
+free speech|.|bbc_tech_102.txt|.|2
+digital terrestrial tv will launch|.|bbc_tech_371.txt|.|1
+gaining|.|bbc_tech_042.txt|.|1|.|bbc_tech_339.txt|.|1
+broadreach|.|bbc_tech_042.txt|.|3|.|bbc_tech_339.txt|.|3
+make free|.|bbc_tech_350.txt|.|2|.|bbc_tech_042.txt|.|2|.|bbc_tech_339.txt|.|2
+blogger action|.|bbc_tech_016.txt|.|2
+arash|.|bbc_tech_016.txt|.|5
+bt communicator|.|bbc_tech_136.txt|.|3
+egypt and israel|.|bbc_business_478.txt|.|3
+phone|.|bbc_tech_054.txt|.|11|.|bbc_tech_109.txt|.|8|.|bbc_politics_234.txt|.|2|.|bbc_tech_338.txt|.|5|.|bbc_tech_152.txt|.|2|.|bbc_tech_305.txt|.|2|.|bbc_tech_290.txt|.|8|.|bbc_tech_098.txt|.|5|.|bbc_tech_161.txt|.|1|.|bbc_tech_064.txt|.|5|.|bbc_tech_382.txt|.|3|.|bbc_tech_339.txt|.|2|.|bbc_tech_192.txt|.|1|.|bbc_tech_234.txt|.|4|.|bbc_tech_388.txt|.|3|.|bbc_tech_009.txt|.|5|.|bbc_tech_251.txt|.|6|.|bbc_tech_197.txt|.|6|.|bbc_tech_359.txt|.|4|.|bbc_tech_093.txt|.|4|.|bbc_tech_389.txt|.|4|.|bbc_business_236.txt|.|2|.|bbc_business_113.txt|.|4|.|bbc_tech_198.txt|.|13|.|bbc_tech_142.txt|.|5|.|bbc_business_129.txt|.|2|.|bbc_tech_350.txt|.|6|.|bbc_tech_067.txt|.|3|.|bbc_tech_325.txt|.|4|.|bbc_business_162.txt|.|2|.|bbc_politics_310.txt|.|2|.|bbc_tech_050.txt|.|1|.|bbc_tech_271.txt|.|1|.|bbc_tech_386.txt|.|5|.|bbc_business_188.txt|.|3|.|bbc_tech_042.txt|.|2|.|bbc_tech_289.txt|.|5|.|bbc_politics_123.txt|.|2|.|bbc_business_202.txt|.|4|.|bbc_tech_379.txt|.|6|.|bbc_tech_188.txt|.|15|.|bbc_tech_095.txt|.|3|.|bbc_tech_225.txt|.|11|.|bbc_tech_212.txt|.|11|.|bbc_tech_208.txt|.|8|.|bbc_tech_311.txt|.|3|.|bbc_tech_230.txt|.|4|.|bbc_tech_116.txt|.|8|.|bbc_tech_103.txt|.|3
+telephony|.|bbc_tech_350.txt|.|3
+communicator|.|bbc_tech_136.txt|.|3
+free sports|.|bbc_politics_171.txt|.|2
+lessons|.|bbc_entertainment_148.txt|.|4|.|bbc_politics_171.txt|.|2|.|bbc_politics_172.txt|.|2
+phone calls|.|bbc_tech_042.txt|.|2|.|bbc_tech_339.txt|.|2
+hotspot|.|bbc_tech_073.txt|.|2|.|bbc_tech_042.txt|.|1|.|bbc_tech_339.txt|.|1
+templeton|.|bbc_tech_350.txt|.|3
+hotspots|.|bbc_tech_042.txt|.|4|.|bbc_tech_339.txt|.|4
+free kick|.|bbc_sport_109.txt|.|2
+personal websites|.|bbc_tech_102.txt|.|3
+personal care|.|bbc_politics_098.txt|.|4|.|bbc_politics_388.txt|.|3
+arash day|.|bbc_tech_016.txt|.|3
+protect|.|bbc_tech_048.txt|.|1|.|bbc_tech_016.txt|.|3|.|bbc_tech_377.txt|.|2|.|bbc_tech_096.txt|.|2|.|bbc_tech_316.txt|.|1|.|bbc_tech_342.txt|.|1|.|bbc_politics_162.txt|.|1
+free|.|bbc_politics_098.txt|.|3|.|bbc_politics_050.txt|.|1|.|bbc_tech_102.txt|.|2|.|bbc_business_478.txt|.|2|.|bbc_politics_171.txt|.|2|.|bbc_tech_350.txt|.|4|.|bbc_tech_016.txt|.|4|.|bbc_tech_136.txt|.|4|.|bbc_tech_042.txt|.|5|.|bbc_sport_109.txt|.|2|.|bbc_tech_371.txt|.|1|.|bbc_tech_339.txt|.|5
+net calls|.|bbc_tech_042.txt|.|2|.|bbc_tech_339.txt|.|2
+mr templeton|.|bbc_tech_350.txt|.|2
+curt hopkins|.|bbc_tech_016.txt|.|2
+month old|.|bbc_tech_016.txt|.|1
+maker|.|bbc_business_364.txt|.|2|.|bbc_tech_114.txt|.|1|.|bbc_tech_350.txt|.|3|.|bbc_business_149.txt|.|2|.|bbc_business_462.txt|.|2|.|bbc_business_160.txt|.|2|.|bbc_business_013.txt|.|3|.|bbc_tech_100.txt|.|3|.|bbc_business_049.txt|.|2
+sturgeon|.|bbc_politics_098.txt|.|2
+dedicate|.|bbc_tech_016.txt|.|1
+hotspot users|.|bbc_tech_042.txt|.|1|.|bbc_tech_339.txt|.|1
+connected|.|bbc_tech_350.txt|.|1|.|bbc_tech_262.txt|.|1
+kick|.|bbc_sport_109.txt|.|2|.|bbc_sport_248.txt|.|1
+livingston|.|bbc_sport_109.txt|.|2
+free mojtaba|.|bbc_tech_016.txt|.|3
+meldrum|.|bbc_sport_109.txt|.|5
+comprehensive|.|bbc_politics_050.txt|.|2
+sports clubs|.|bbc_politics_171.txt|.|2

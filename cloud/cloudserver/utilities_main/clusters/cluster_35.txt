@@ -1,0 +1,31 @@
+35
+backed stem|.|bbc_politics_086.txt|.|1
+cell research|.|bbc_politics_086.txt|.|3
+cell processor|.|bbc_tech_320.txt|.|2|.|bbc_tech_018.txt|.|3|.|bbc_tech_319.txt|.|3
+howard backs|.|bbc_politics_086.txt|.|1
+backed stem cell research|.|bbc_politics_086.txt|.|1
+death rate|.|bbc_politics_214.txt|.|2
+run|.|bbc_sport_059.txt|.|2|.|bbc_tech_246.txt|.|5|.|bbc_sport_366.txt|.|2|.|bbc_tech_320.txt|.|4|.|bbc_sport_062.txt|.|2|.|bbc_tech_241.txt|.|2|.|bbc_sport_002.txt|.|2|.|bbc_sport_085.txt|.|2|.|bbc_business_404.txt|.|2
+mental|.|bbc_politics_068.txt|.|3|.|bbc_politics_214.txt|.|3
+cell|.|bbc_politics_086.txt|.|3|.|bbc_tech_320.txt|.|8|.|bbc_tech_018.txt|.|5|.|bbc_politics_214.txt|.|2|.|bbc_tech_190.txt|.|4|.|bbc_tech_319.txt|.|14|.|bbc_tech_142.txt|.|2
+stem cell research|.|bbc_politics_086.txt|.|3
+alcohol problems|.|bbc_politics_214.txt|.|2
+sony|.|bbc_tech_317.txt|.|5|.|bbc_tech_379.txt|.|5|.|bbc_tech_320.txt|.|1|.|bbc_tech_018.txt|.|4|.|bbc_tech_052.txt|.|3|.|bbc_tech_111.txt|.|5|.|bbc_tech_219.txt|.|5|.|bbc_tech_238.txt|.|3|.|bbc_tech_396.txt|.|2|.|bbc_tech_045.txt|.|1|.|bbc_tech_190.txt|.|2|.|bbc_tech_112.txt|.|2|.|bbc_tech_319.txt|.|5|.|bbc_tech_341.txt|.|1|.|bbc_tech_224.txt|.|5|.|bbc_tech_025.txt|.|5
+playstation|.|bbc_tech_320.txt|.|6|.|bbc_tech_190.txt|.|4|.|bbc_tech_112.txt|.|3
+stem cell|.|bbc_politics_086.txt|.|3
+backed stem cell|.|bbc_politics_086.txt|.|1
+sms|.|bbc_tech_142.txt|.|4
+deaths in custody|.|bbc_politics_214.txt|.|1
+details|.|bbc_politics_188.txt|.|1|.|bbc_entertainment_137.txt|.|2|.|bbc_business_185.txt|.|4|.|bbc_tech_018.txt|.|3|.|bbc_tech_052.txt|.|3|.|bbc_tech_190.txt|.|3|.|bbc_politics_376.txt|.|2
+designed|.|bbc_tech_018.txt|.|3
+alcohol|.|bbc_politics_214.txt|.|2|.|bbc_politics_019.txt|.|2
+cell chip|.|bbc_tech_190.txt|.|2
+chip|.|bbc_tech_350.txt|.|2|.|bbc_tech_320.txt|.|8|.|bbc_tech_018.txt|.|9|.|bbc_tech_190.txt|.|10|.|bbc_tech_319.txt|.|2|.|bbc_tech_050.txt|.|5
+senanayake|.|bbc_tech_142.txt|.|3
+processor|.|bbc_tech_320.txt|.|6|.|bbc_tech_018.txt|.|3|.|bbc_tech_319.txt|.|6
+using sms|.|bbc_tech_142.txt|.|1
+unveil the chip|.|bbc_tech_018.txt|.|1
+trillions|.|bbc_tech_190.txt|.|1
+details of the chip|.|bbc_tech_018.txt|.|2
+dominance|.|bbc_tech_319.txt|.|3
+shocks|.|bbc_politics_214.txt|.|1

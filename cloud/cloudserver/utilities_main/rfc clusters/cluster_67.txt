@@ -1,0 +1,31 @@
+67
+home country|.|bbc_politics_146.txt|.|1
+student vote|.|bbc_politics_213.txt|.|1
+lord rennard|.|bbc_politics_416.txt|.|2
+top tories|.|bbc_politics_416.txt|.|2
+dems|.|bbc_politics_301.txt|.|6|.|bbc_politics_403.txt|.|2|.|bbc_politics_272.txt|.|4|.|bbc_politics_102.txt|.|1|.|bbc_politics_396.txt|.|3|.|bbc_politics_213.txt|.|5|.|bbc_politics_085.txt|.|1|.|bbc_politics_269.txt|.|2|.|bbc_politics_300.txt|.|1|.|bbc_politics_141.txt|.|1|.|bbc_politics_340.txt|.|3|.|bbc_politics_339.txt|.|6|.|bbc_politics_387.txt|.|2|.|bbc_politics_361.txt|.|2|.|bbc_politics_398.txt|.|3|.|bbc_politics_223.txt|.|2|.|bbc_politics_070.txt|.|2|.|bbc_politics_338.txt|.|4|.|bbc_politics_235.txt|.|2|.|bbc_politics_014.txt|.|2|.|bbc_politics_341.txt|.|2|.|bbc_politics_182.txt|.|2|.|bbc_politics_417.txt|.|2|.|bbc_politics_054.txt|.|3|.|bbc_politics_283.txt|.|3|.|bbc_politics_002.txt|.|1
+heath|.|bbc_politics_303.txt|.|3
+says the party|.|bbc_politics_091.txt|.|1
+parties they receive|.|bbc_politics_322.txt|.|1
+win students|.|bbc_politics_213.txt|.|1
+democrat|.|bbc_politics_247.txt|.|1|.|bbc_politics_091.txt|.|1|.|bbc_politics_213.txt|.|1|.|bbc_politics_324.txt|.|1
+legal advice|.|bbc_politics_324.txt|.|4
+liberal leader|.|bbc_politics_303.txt|.|2
+donations totalling|.|bbc_politics_322.txt|.|2
+howard dismisses|.|bbc_politics_275.txt|.|1
+rennard|.|bbc_politics_416.txt|.|2
+increase taxes|.|bbc_politics_283.txt|.|1
+democrats|.|bbc_politics_247.txt|.|1|.|bbc_politics_146.txt|.|2|.|bbc_politics_272.txt|.|4|.|bbc_politics_036.txt|.|2|.|bbc_politics_275.txt|.|2|.|bbc_politics_417.txt|.|2|.|bbc_politics_054.txt|.|3|.|bbc_politics_416.txt|.|4|.|bbc_politics_335.txt|.|3|.|bbc_politics_322.txt|.|2
+clear|.|bbc_politics_036.txt|.|2|.|bbc_sport_080.txt|.|1|.|bbc_sport_006.txt|.|1
+cut winter|.|bbc_politics_091.txt|.|2
+clean|.|bbc_politics_146.txt|.|1|.|bbc_entertainment_381.txt|.|1
+permanently|.|bbc_politics_146.txt|.|2
+liberal democrats|.|bbc_politics_146.txt|.|2|.|bbc_politics_272.txt|.|4|.|bbc_politics_036.txt|.|2|.|bbc_politics_275.txt|.|2|.|bbc_politics_417.txt|.|2|.|bbc_politics_054.txt|.|3|.|bbc_politics_416.txt|.|4|.|bbc_politics_335.txt|.|3|.|bbc_politics_322.txt|.|2
+permanently stored|.|bbc_politics_146.txt|.|1
+scares|.|bbc_politics_036.txt|.|2
+real opposition|.|bbc_politics_272.txt|.|1
+level waste|.|bbc_politics_146.txt|.|2
+dumpsite|.|bbc_politics_146.txt|.|3
+votes|.|bbc_politics_416.txt|.|2
+populist|.|bbc_politics_036.txt|.|2
+liberal|.|bbc_politics_247.txt|.|2|.|bbc_politics_272.txt|.|4|.|bbc_politics_303.txt|.|3|.|bbc_politics_275.txt|.|2|.|bbc_politics_213.txt|.|2|.|bbc_politics_416.txt|.|6|.|bbc_politics_146.txt|.|2|.|bbc_politics_036.txt|.|5|.|bbc_politics_091.txt|.|2|.|bbc_politics_417.txt|.|2|.|bbc_politics_054.txt|.|3|.|bbc_politics_283.txt|.|2|.|bbc_politics_324.txt|.|2|.|bbc_politics_335.txt|.|4|.|bbc_politics_322.txt|.|2

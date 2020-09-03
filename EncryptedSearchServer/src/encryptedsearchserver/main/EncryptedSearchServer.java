@@ -100,7 +100,9 @@ public class EncryptedSearchServer {
 
     private void search() {
         System.out.println("Loading a blank index into memory.  The clusters will be added at run time.");
+        
         index = new Index();
+        
         //Search indefinitely 
         CloudSearcher searcher = new CloudSearcher(index);
         

@@ -1,0 +1,16 @@
+16
+pills|.|bbc_business_176.txt|.|4
+sack|.|bbc_sport_199.txt|.|2|.|bbc_sport_126.txt|.|1|.|bbc_sport_201.txt|.|2
+failed a drugs test|.|bbc_sport_199.txt|.|2
+ban imposed|.|bbc_sport_048.txt|.|1
+drugs|.|bbc_sport_023.txt|.|3|.|bbc_sport_050.txt|.|2|.|bbc_sport_051.txt|.|2|.|bbc_sport_046.txt|.|3|.|bbc_sport_044.txt|.|2|.|bbc_sport_035.txt|.|4|.|bbc_business_201.txt|.|1|.|bbc_sport_485.txt|.|2|.|bbc_sport_089.txt|.|2|.|bbc_sport_048.txt|.|2|.|bbc_sport_054.txt|.|3|.|bbc_sport_199.txt|.|10|.|bbc_sport_026.txt|.|4|.|bbc_sport_049.txt|.|4|.|bbc_business_176.txt|.|8|.|bbc_sport_088.txt|.|4|.|bbc_sport_080.txt|.|2|.|bbc_sport_201.txt|.|1|.|bbc_sport_045.txt|.|2|.|bbc_sport_004.txt|.|2
+cheats other athletes|.|bbc_sport_046.txt|.|1
+substance|.|bbc_sport_199.txt|.|3
+banned substance|.|bbc_sport_199.txt|.|2
+higher price|.|bbc_business_176.txt|.|2
+failed a drugs|.|bbc_sport_199.txt|.|2
+files lawsuit|.|bbc_sport_088.txt|.|1
+sack mutu|.|bbc_sport_199.txt|.|2
+drugs tests|.|bbc_sport_023.txt|.|2|.|bbc_sport_054.txt|.|2|.|bbc_sport_050.txt|.|2
+chelsea sack|.|bbc_sport_199.txt|.|1
+jones has filed|.|bbc_sport_049.txt|.|1|.|bbc_sport_088.txt|.|1

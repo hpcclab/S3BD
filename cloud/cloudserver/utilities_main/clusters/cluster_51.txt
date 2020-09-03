@@ -1,0 +1,6 @@
+51
+grand slams|.|bbc_sport_500.txt|.|1
+clinching|.|bbc_sport_466.txt|.|1
+cup debut|.|bbc_sport_500.txt|.|2
+british tennis|.|bbc_sport_449.txt|.|1
+cup|.|bbc_sport_174.txt|.|3|.|bbc_sport_437.txt|.|3|.|bbc_sport_131.txt|.|4|.|bbc_sport_390.txt|.|2|.|bbc_sport_497.txt|.|3|.|bbc_sport_144.txt|.|2|.|bbc_sport_500.txt|.|10|.|bbc_sport_122.txt|.|2|.|bbc_sport_267.txt|.|2|.|bbc_sport_470.txt|.|5|.|bbc_sport_466.txt|.|5|.|bbc_sport_496.txt|.|3|.|bbc_sport_161.txt|.|3|.|bbc_sport_485.txt|.|2|.|bbc_sport_132.txt|.|6|.|bbc_sport_391.txt|.|4|.|bbc_sport_472.txt|.|3|.|bbc_sport_317.txt|.|3|.|bbc_sport_184.txt|.|2|.|bbc_sport_197.txt|.|2|.|bbc_sport_449.txt|.|7|.|bbc_sport_171.txt|.|2|.|bbc_sport_387.txt|.|2|.|bbc_sport_095.txt|.|2|.|bbc_sport_374.txt|.|4|.|bbc_sport_150.txt|.|2|.|bbc_sport_499.txt|.|5|.|bbc_sport_367.txt|.|4|.|bbc_sport_345.txt|.|1|.|bbc_sport_388.txt|.|2|.|bbc_sport_111.txt|.|4|.|bbc_sport_455.txt|.|3|.|bbc_sport_375.txt|.|6|.|bbc_sport_431.txt|.|3|.|bbc_sport_385.txt|.|2|.|bbc_sport_194.txt|.|2|.|bbc_sport_169.txt|.|3|.|bbc_sport_358.txt|.|2|.|bbc_sport_159.txt|.|4|.|bbc_sport_261.txt|.|2|.|bbc_sport_205.txt|.|4|.|bbc_sport_400.txt|.|4|.|bbc_sport_469.txt|.|5

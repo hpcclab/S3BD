@@ -1,0 +1,10 @@
+36
+rush future at chester|.|bbc_sport_153.txt|.|1
+league one leaders|.|bbc_sport_205.txt|.|1
+dual|.|bbc_sport_370.txt|.|2
+fight to finish|.|bbc_sport_183.txt|.|1
+league|.|bbc_sport_357.txt|.|3|.|bbc_sport_182.txt|.|3|.|bbc_sport_152.txt|.|3|.|bbc_sport_102.txt|.|6|.|bbc_sport_183.txt|.|3|.|bbc_sport_118.txt|.|1|.|bbc_sport_229.txt|.|2|.|bbc_sport_370.txt|.|5|.|bbc_sport_153.txt|.|3|.|bbc_sport_255.txt|.|2|.|bbc_sport_125.txt|.|5|.|bbc_sport_112.txt|.|2|.|bbc_sport_227.txt|.|3|.|bbc_sport_252.txt|.|2|.|bbc_sport_236.txt|.|3|.|bbc_sport_141.txt|.|2|.|bbc_sport_206.txt|.|2|.|bbc_sport_111.txt|.|2|.|bbc_sport_243.txt|.|2|.|bbc_sport_239.txt|.|2|.|bbc_sport_159.txt|.|4|.|bbc_sport_181.txt|.|3|.|bbc_sport_223.txt|.|2|.|bbc_sport_205.txt|.|3|.|bbc_sport_398.txt|.|3|.|bbc_sport_160.txt|.|6|.|bbc_sport_121.txt|.|2|.|bbc_sport_164.txt|.|1|.|bbc_sport_177.txt|.|2
+future as chester|.|bbc_sport_153.txt|.|1
+champions league|.|bbc_sport_227.txt|.|3|.|bbc_sport_182.txt|.|3|.|bbc_sport_236.txt|.|3|.|bbc_sport_141.txt|.|2|.|bbc_sport_206.txt|.|2|.|bbc_sport_152.txt|.|3|.|bbc_sport_111.txt|.|2|.|bbc_sport_243.txt|.|2|.|bbc_sport_239.txt|.|2|.|bbc_sport_102.txt|.|6|.|bbc_sport_159.txt|.|2|.|bbc_sport_181.txt|.|3|.|bbc_sport_183.txt|.|3|.|bbc_sport_223.txt|.|2|.|bbc_sport_229.txt|.|2|.|bbc_sport_160.txt|.|5|.|bbc_sport_177.txt|.|2
+dual code|.|bbc_sport_370.txt|.|2
+bridge could miss rest|.|bbc_sport_111.txt|.|1

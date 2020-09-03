@@ -1,0 +1,17 @@
+12
+dvd formats|.|bbc_tech_219.txt|.|1|.|bbc_tech_224.txt|.|1
+pirate|.|bbc_tech_043.txt|.|1|.|bbc_tech_326.txt|.|1
+technology backed|.|bbc_tech_219.txt|.|1|.|bbc_tech_224.txt|.|1
+dvd copy|.|bbc_tech_043.txt|.|2|.|bbc_tech_326.txt|.|2
+backs sony|.|bbc_tech_219.txt|.|1|.|bbc_tech_224.txt|.|1
+dvds|.|bbc_entertainment_366.txt|.|5|.|bbc_tech_043.txt|.|5|.|bbc_tech_094.txt|.|8|.|bbc_tech_326.txt|.|4|.|bbc_tech_313.txt|.|8
+consuming|.|bbc_tech_094.txt|.|1|.|bbc_tech_313.txt|.|1
+dvd|.|bbc_entertainment_366.txt|.|1|.|bbc_tech_294.txt|.|8|.|bbc_tech_043.txt|.|11|.|bbc_tech_219.txt|.|6|.|bbc_entertainment_077.txt|.|4|.|bbc_tech_301.txt|.|6|.|bbc_entertainment_359.txt|.|4|.|bbc_tech_094.txt|.|11|.|bbc_entertainment_033.txt|.|4|.|bbc_tech_326.txt|.|10|.|bbc_tech_155.txt|.|8|.|bbc_tech_224.txt|.|6|.|bbc_tech_313.txt|.|11
+copy protection|.|bbc_tech_043.txt|.|3|.|bbc_tech_326.txt|.|3
+current dvd|.|bbc_tech_043.txt|.|2|.|bbc_tech_326.txt|.|2
+backs sony dvd technology|.|bbc_tech_219.txt|.|1|.|bbc_tech_224.txt|.|1
+week us|.|bbc_entertainment_359.txt|.|1
+home video|.|bbc_entertainment_359.txt|.|3|.|bbc_tech_094.txt|.|2|.|bbc_tech_313.txt|.|2
+home entertainment|.|bbc_tech_094.txt|.|3|.|bbc_tech_313.txt|.|3
+copy|.|bbc_tech_043.txt|.|5|.|bbc_tech_326.txt|.|5
+pirate dvds|.|bbc_tech_043.txt|.|1|.|bbc_tech_326.txt|.|1

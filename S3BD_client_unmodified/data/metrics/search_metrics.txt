@@ -1,0 +1,376 @@
+500-Abstracts Time-social media feed-181
+500-Query Time-social media feed-3082
+500-Cloud Time-social media feed-3
+500-Search Time-social media feed-3436
+500-Abstracts Time-social media feed-11
+500-Query Time-social media feed-1544
+500-Cloud Time-social media feed-3
+500-Search Time-social media feed-1665
+500-Abstracts Time-social media feed-9
+500-Query Time-social media feed-1211
+500-Cloud Time-social media feed-3
+500-Search Time-social media feed-1328
+500-Abstracts Time-social media feed-8
+500-Query Time-social media feed-1120
+500-Cloud Time-social media feed-3
+500-Search Time-social media feed-1235
+500-Abstracts Time-social media feed-6
+500-Query Time-social media feed-1078
+500-Cloud Time-social media feed-2
+500-Search Time-social media feed-1191
+500-Abstracts Time-social media feed-3
+500-Query Time-social media feed-947
+500-Abstracts Time-social media feed-173
+500-Query Time-social media feed-2792
+500-Cloud Time-social media feed-23
+500-Search Time-social media feed-3129
+500-Abstracts Time-social media feed-12
+500-Query Time-social media feed-1671
+500-Cloud Time-social media feed-7
+500-Search Time-social media feed-1793
+500-Abstracts Time-social media feed-6
+500-Query Time-social media feed-1170
+500-Cloud Time-social media feed-4
+500-Search Time-social media feed-1285
+500-Abstracts Time-social media feed-6
+500-Query Time-social media feed-1112
+1000-Abstracts Time-social media feed-214
+1000-Query Time-social media feed-2796
+1000-Cloud Time-social media feed-26
+1000-Search Time-social media feed-3187
+1000-Abstracts Time-social media feed-202
+1000-Query Time-social media feed-2959
+1000-Cloud Time-social media feed-26
+1000-Search Time-social media feed-3339
+1000-Abstracts Time-social media feed-215
+1000-Query Time-social media feed-3221
+1000-Cloud Time-social media feed-26
+1000-Search Time-social media feed-3614
+1000-Abstracts Time-social media feed-215
+1000-Query Time-social media feed-2783
+1000-Cloud Time-social media feed-26
+1000-Search Time-social media feed-3179
+1000-Abstracts Time-social media feed-212
+1000-Query Time-social media feed-3344
+1000-Cloud Time-social media feed-28
+1000-Search Time-social media feed-3733
+1000-Abstracts Time-social media feed-210
+1000-Query Time-social media feed-3017
+1000-Cloud Time-social media feed-28
+1000-Search Time-social media feed-3402
+1000-Abstracts Time-social media feed-199
+1000-Query Time-social media feed-3088
+1000-Cloud Time-social media feed-27
+1000-Search Time-social media feed-3458
+1000-Abstracts Time-social media feed-210
+1000-Query Time-social media feed-3091
+1000-Cloud Time-social media feed-27
+1000-Search Time-social media feed-3480
+1000-Abstracts Time-social media feed-210
+1000-Query Time-social media feed-2915
+1000-Cloud Time-social media feed-26
+1000-Search Time-social media feed-3303
+1000-Abstracts Time-social media feed-209
+1000-Query Time-social media feed-2799
+1000-Cloud Time-social media feed-27
+1000-Search Time-social media feed-3183
+1000-Abstracts Time-social media feed-200
+1000-Query Time-social media feed-3101
+1000-Cloud Time-social media feed-28
+1000-Search Time-social media feed-3472
+1000-Abstracts Time-social media feed-219
+1000-Query Time-social media feed-6352
+1000-Cloud Time-social media feed-28
+1000-Search Time-social media feed-8094
+1500-Abstracts Time-social media feed-210
+1500-Query Time-social media feed-3151
+1500-Cloud Time-social media feed-6
+1500-Search Time-social media feed-3536
+1500-Abstracts Time-social media feed-193
+1500-Query Time-social media feed-3133
+1500-Cloud Time-social media feed-8
+1500-Search Time-social media feed-3491
+1500-Abstracts Time-social media feed-212
+1500-Query Time-social media feed-2946
+1500-Cloud Time-social media feed-7
+1500-Search Time-social media feed-3333
+1500-Abstracts Time-social media feed-201
+1500-Query Time-social media feed-3190
+1500-Cloud Time-social media feed-7
+1500-Search Time-social media feed-3557
+1500-Abstracts Time-social media feed-209
+1500-Query Time-social media feed-3194
+1500-Cloud Time-social media feed-7
+1500-Search Time-social media feed-3578
+1500-Abstracts Time-social media feed-195
+1500-Query Time-social media feed-3021
+1500-Cloud Time-social media feed-6
+1500-Search Time-social media feed-3383
+1500-Abstracts Time-social media feed-210
+1500-Query Time-social media feed-2715
+1500-Cloud Time-social media feed-7
+1500-Search Time-social media feed-3098
+1500-Abstracts Time-social media feed-209
+1500-Query Time-social media feed-3213
+1500-Cloud Time-social media feed-6
+1500-Search Time-social media feed-3597
+1500-Abstracts Time-social media feed-208
+1500-Query Time-social media feed-2984
+1500-Cloud Time-social media feed-7
+1500-Search Time-social media feed-3367
+5-500-Abstracts Time-transmission protocol-1909
+5-500-Query Time-transmission protocol-9156
+5-500-Cloud Time-transmission protocol-7
+5-500-Search Time-transmission protocol-11840
+5-500-Abstracts Time-internet protocol-132
+5-500-Query Time-internet protocol-3991
+5-500-Cloud Time-internet protocol-17
+5-500-Search Time-internet protocol-4706
+5-500-Abstracts Time-transmission protocol-131
+5-500-Query Time-transmission protocol-3723
+5-500-Cloud Time-transmission protocol-4
+5-500-Search Time-transmission protocol-4423
+5-500-Abstracts Time-internet protocol-131
+5-500-Query Time-internet protocol-4317
+5-500-Cloud Time-internet protocol-20
+5-500-Search Time-internet protocol-5039
+5-500-Abstracts Time-internet protocol-200
+5-500-Abstracts Time-internet protocol-126
+5-500-Abstracts Time-internet protocol-125
+5-500-Abstracts Time-photographers of america-633
+5-500-Abstracts Time-photographers of america-112
+5-500-Query Time-photographers of america-2586
+5-500-Abstracts Time-photographers of america-116
+5-500-Query Time-photographers of america-2281
+5-500-Cloud Time-photographers of america-5
+5-500-Search Time-photographers of america-2559
+5-500-Abstracts Time-photographers of america-163
+5-500-Query Time-photographers of america-2748
+5-500-Cloud Time-photographers of america-5
+5-500-Search Time-photographers of america-3059
+5-500-Abstracts Time-european commission-176
+5-500-Query Time-european commission-1609
+5-500-Cloud Time-european commission-4
+5-500-Search Time-european commission-1971
+5-500-Abstracts Time-parlianment archives-165
+5-500-Query Time-parlianment archives-2672
+5-500-Cloud Time-parlianment archives-1
+5-500-Search Time-parlianment archives-3021
+5-500-Abstracts Time-top camera phones 2020-190
+5-500-Query Time-top camera phones 2020-6328
+5-500-Cloud Time-top camera phones 2020-3
+5-500-Search Time-top camera phones 2020-6672
+5-500-Abstracts Time-us airways-173
+5-500-Query Time-us airways-2415
+5-500-Cloud Time-us airways-2
+5-500-Search Time-us airways-2737
+5-500-Abstracts Time-lg credit card fraud-194
+5-500-Query Time-lg credit card fraud-6054
+5-500-Cloud Time-lg credit card fraud-1
+5-500-Search Time-LG credit card fraud-6402
+5-500-Abstracts Time-credit card-176
+5-500-Query Time-credit card-2197
+5-500-Cloud Time-credit card-2
+5-500-Search Time-credit card-2575
+5-500-Abstracts Time-credit card-201
+5-500-Query Time-credit card-1896
+5-500-Cloud Time-credit card-2
+5-500-Search Time-credit card-2257
+5-500-Abstracts Time-credit card fraud-194
+5-500-Query Time-credit card fraud-2737
+5-500-Cloud Time-credit card fraud-5
+5-500-Search Time-credit card fraud-3136
+5-500-Abstracts Time-mobile network speed-223
+5-500-Query Time-mobile network speed-3367
+5-500-Cloud Time-mobile network speed-2
+5-500-Search Time-mobile network speed-3788
+5-500-Abstracts Time-local stations-179
+5-500-Query Time-local stations-1889
+5-500-Cloud Time-local stations-1
+5-500-Search Time-local stations-2218
+5-500-Abstracts Time-animal welfare bill-200
+5-500-Query Time-animal welfare bill-4270
+5-500-Cloud Time-animal welfare bill-3
+5-500-Search Time-animal welfare bill-4667
+5-500-Abstracts Time-air travellers-176
+5-500-Query Time-air travellers-1933
+5-500-Cloud Time-air travellers-1
+5-500-Search Time-air travellers-2262
+5-500-Abstracts Time-animal welfare bill-200
+5-500-Query Time-animal welfare bill-3011
+5-500-Cloud Time-animal welfare bill-5
+5-500-Search Time-animal welfare bill-3446
+5-500-Abstracts Time-music piracy and copyright issues-209
+5-500-Query Time-music piracy and copyright issues-8694
+5-500-Cloud Time-music piracy and copyright issues-8
+5-500-Search Time-music piracy and copyright issues-9113
+5-500-Abstracts Time-satellite radio-178
+5-500-Query Time-satellite radio-1552
+5-500-Cloud Time-satellite radio-6
+5-500-Search Time-satellite radio-1921
+5-500-Abstracts Time-car and property market-205
+5-500-Query Time-car and property market-5086
+5-500-Cloud Time-car and property market-4
+5-500-Search Time-car and property market-5458
+5-500-Abstracts Time-car and property market-202
+5-500-Query Time-car and property market-4886
+5-500-Cloud Time-car and property market-4
+5-500-Search Time-car and property market-5313
+5-500-Abstracts Time-car and property market-203
+5-500-Query Time-car and property market-4286
+5-500-Cloud Time-car and property market-3
+5-500-Search Time-car and property market-4646
+5-500-Abstracts Time-ukraine president-186
+5-500-Query Time-ukraine president-1799
+5-500-Cloud Time-ukraine president-6
+5-500-Search Time-Ukraine president-2145
+5-500-Abstracts Time-rugby football league-197
+5-500-Query Time-rugby football league-2775
+5-500-Cloud Time-rugby football league-5
+5-500-Search Time-rugby football league-3186
+5-500-Abstracts Time-world economy-180
+5-500-Query Time-world economy-1907
+5-500-Cloud Time-world economy-13
+5-500-Search Time-world economy-2276
+5-500-Abstracts Time-satellite connection-184
+5-500-Query Time-satellite connection-1635
+5-500-Cloud Time-satellite connection-6
+5-500-Search Time-satellite connection-1984
+5-500-Abstracts Time-bill thompson-192
+5-500-Query Time-bill thompson-1592
+5-500-Cloud Time-bill thompson-7
+5-500-Search Time-bill thompson-1986
+5-500-Abstracts Time-higher education in scotland-289
+5-500-Query Time-higher education in scotland-4752
+5-500-Cloud Time-higher education in scotland-2
+5-500-Search Time-higher education in scotland-5237
+5-500-Abstracts Time-opera in vienna-199
+5-500-Query Time-opera in vienna-2163
+5-500-Cloud Time-opera in vienna-2
+5-500-Search Time-opera in vienna-2513
+5-500-Abstracts Time-sony psp and walkman technology-196
+5-500-Query Time-sony psp and walkman technology-6253
+5-500-Cloud Time-sony psp and walkman technology-5
+5-500-Search Time-sony psp and walkman technology-6641
+5-500-Abstracts Time-operating system-165
+5-500-Query Time-operating system-1354
+5-500-Cloud Time-operating system-5
+5-500-Search Time-operating system-1712
+5-500-Abstracts Time-operating system-166
+5-500-Query Time-operating system-1830
+5-500-Cloud Time-operating system-1
+5-500-Search Time-operating system-2184
+5-500-Abstracts Time-operating system-178
+5-500-Query Time-operating system-1795
+5-500-Cloud Time-operating system-5
+5-500-Search Time-operating system-2153
+5-500-Abstracts Time-windows operating system-183
+5-500-Query Time-windows operating system-3062
+5-500-Cloud Time-windows operating system-3
+5-500-Search Time-windows operating system-3408
+5-500-Abstracts Time-parliament archieves-172
+5-500-Query Time-parliament archieves-1694
+5-500-Cloud Time-parliament archieves-1
+5-500-Search Time-parliament archieves-2056
+5-500-Abstracts Time-lg credit card-202
+5-500-Query Time-lg credit card-2807
+5-500-Cloud Time-lg credit card-2
+5-500-Search Time-lg credit card-3169
+5-500-Abstracts Time-satellite connection-613
+5-500-Query Time-satellite connection-1976
+5-500-Cloud Time-satellite connection-2
+5-500-Search Time-satellite connection-2785
+5-500-Abstracts Time-animal welfare bill-247
+5-500-Query Time-animal welfare bill-4152
+5-500-Cloud Time-animal welfare bill-1
+5-500-Search Time-animal welfare bill-4564
+5-500-Abstracts Time-network information-908
+5-500-Query Time-network information-4718
+5-500-Abstracts Time-network information-439
+5-500-Query Time-network information-2473
+5-500-Abstracts Time-host network configuration-546
+5-500-Query Time-host network configuration-4062
+5-500-Cloud Time-host network configuration-12
+5-500-Search Time-host network configuration-4760
+5-500-Abstracts Time-service extension-976
+5-500-Query Time-service extension-2035
+5-500-Cloud Time-service extension-20
+5-500-Search Time-service extension-3241
+5-500-Abstracts Time-fibre channel-856
+5-500-Query Time-fibre channel-2826
+5-500-Abstracts Time-host network configuration-470
+5-500-Query Time-host network configuration-4032
+5-500-Cloud Time-host network configuration-29
+5-500-Search Time-host network configuration-4670
+5-500-Abstracts Time-network information-391
+5-500-Query Time-network information-2009
+5-500-Abstracts Time-data transfer-397
+5-500-Query Time-data transfer-2820
+5-500-Abstracts Time-message authentication-365
+5-500-Query Time-message authentication-2348
+5-500-Cloud Time-message authentication-8
+5-500-Search Time-message authentication-2898
+5-500-Abstracts Time-network access-446
+5-500-Query Time-network access-3188
+5-500-Cloud Time-network access-9
+5-500-Search Time-network access-3784
+5-500-Abstracts Time-transport layer-393
+5-500-Query Time-transport layer-1694
+5-500-Abstracts Time-transport layer-379
+5-500-Query Time-transport layer-1919
+5-500-Abstracts Time-internet engineering-342
+5-500-Query Time-internet engineering-2519
+5-500-Abstracts Time-internet engineering-344
+5-500-Query Time-internet engineering-2162
+5-500-Abstracts Time-internet engineering-356
+5-500-Query Time-internet engineering-2342
+5-500-Abstracts Time-internet engineering-318
+5-500-Query Time-internet engineering-2372
+5-500-Cloud Time-internet engineering-11
+5-500-Search Time-internet engineering-2871
+5-500-Abstracts Time-transport layer-380
+5-500-Query Time-transport layer-1978
+5-500-Cloud Time-transport layer-17
+5-500-Search Time-transport layer-2566
+5-500-Abstracts Time-data transfer-373
+5-500-Query Time-data transfer-1808
+5-500-Cloud Time-data transfer-10
+5-500-Search Time-data transfer-2382
+5-500-Abstracts Time-fibre channel-418
+5-500-Query Time-fibre channel-1738
+5-500-Cloud Time-fibre channel-12
+5-500-Search Time-fibre channel-2346
+5-500-Abstracts Time-network information-380
+5-500-Query Time-network information-1806
+5-500-Cloud Time-network information-32
+5-500-Search Time-network information-2347
+5-500-Abstracts Time-streaming media service-416
+5-500-Query Time-streaming media service-4820
+5-500-Cloud Time-streaming media service-14
+5-500-Search Time-streaming media service-5440
+5-500-Abstracts Time-internet-698
+5-500-Query Time-internet-1139
+5-500-Abstracts Time-wet in miami-115
+5-500-Query Time-wet in miami-5841
+5-500-Abstracts Time-experience classes-122
+5-500-Query Time-experience classes-2698
+5-500-Abstracts Time-experience classes-114
+5-500-Query Time-experience classes-2452
+5-500-Abstracts Time-classification-113
+5-500-Query Time-classification-974
+5-500-Abstracts Time-classification-110
+5-500-Query Time-classification-832
+5-500-Cloud Time-classification-3
+5-500-Search Time-classification-1119
+5-500-Abstracts Time-hajime no ippo-117
+5-500-Query Time-hajime no ippo-5748
+5-500-Cloud Time-hajime no ippo-9
+5-500-Search Time-hajime no ippo-6035
+5-500-Abstracts Time-experience classes-556
+5-500-Query Time-experience classes-2137
+5-500-Cloud Time-experience classes-2
+5-500-Search Time-experience classes-2853
+5-500-Abstracts Time-members posts-100
+5-500-Query Time-members posts-2306
+5-500-Cloud Time-members posts-10
+5-500-Search Time-members posts-2589

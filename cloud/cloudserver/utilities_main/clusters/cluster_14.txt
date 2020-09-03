@@ -1,0 +1,37 @@
+14
+mrs simpson|.|bbc_entertainment_358.txt|.|2
+booked|.|bbc_entertainment_294.txt|.|1
+show in london|.|bbc_entertainment_294.txt|.|2
+toronto|.|bbc_entertainment_294.txt|.|2
+west end to honour|.|bbc_entertainment_008.txt|.|1
+fenice|.|bbc_entertainment_023.txt|.|6|.|bbc_entertainment_273.txt|.|6
+end to honour finest|.|bbc_entertainment_008.txt|.|1
+national theatre|.|bbc_entertainment_008.txt|.|2
+theatre|.|bbc_entertainment_023.txt|.|3|.|bbc_entertainment_294.txt|.|5|.|bbc_entertainment_273.txt|.|3|.|bbc_entertainment_008.txt|.|4|.|bbc_entertainment_315.txt|.|2|.|bbc_entertainment_358.txt|.|10|.|bbc_entertainment_012.txt|.|6
+finest|.|bbc_entertainment_008.txt|.|2
+vienna state opera|.|bbc_entertainment_023.txt|.|2|.|bbc_entertainment_273.txt|.|2
+fenice theatre|.|bbc_entertainment_023.txt|.|2|.|bbc_entertainment_273.txt|.|2
+film star|.|bbc_entertainment_056.txt|.|2|.|bbc_entertainment_358.txt|.|1
+viotti|.|bbc_entertainment_023.txt|.|6|.|bbc_entertainment_273.txt|.|6
+end to honour|.|bbc_entertainment_008.txt|.|1
+liam|.|bbc_entertainment_154.txt|.|2|.|bbc_entertainment_012.txt|.|2
+west end|.|bbc_entertainment_294.txt|.|2|.|bbc_entertainment_295.txt|.|1|.|bbc_entertainment_008.txt|.|2
+vienna|.|bbc_entertainment_023.txt|.|2|.|bbc_entertainment_273.txt|.|2
+hoffman has hit|.|bbc_entertainment_315.txt|.|1
+palace|.|bbc_sport_148.txt|.|5|.|bbc_entertainment_358.txt|.|3
+stopped|.|bbc_entertainment_315.txt|.|2
+neeson said|.|bbc_entertainment_012.txt|.|2
+palace theatre|.|bbc_entertainment_358.txt|.|2
+ballymena|.|bbc_entertainment_012.txt|.|1
+conducted|.|bbc_entertainment_023.txt|.|3|.|bbc_entertainment_273.txt|.|3
+rings musical|.|bbc_entertainment_294.txt|.|2
+premiere|.|bbc_entertainment_360.txt|.|2|.|bbc_entertainment_294.txt|.|4|.|bbc_entertainment_071.txt|.|4|.|bbc_entertainment_265.txt|.|3|.|bbc_entertainment_036.txt|.|2
+honouring|.|bbc_entertainment_008.txt|.|1
+rings|.|bbc_entertainment_294.txt|.|2|.|bbc_entertainment_385.txt|.|2
+vienna state|.|bbc_entertainment_023.txt|.|2|.|bbc_entertainment_273.txt|.|2
+honouring its finest|.|bbc_entertainment_008.txt|.|1
+simpson|.|bbc_sport_214.txt|.|2|.|bbc_entertainment_358.txt|.|2
+stopped working|.|bbc_entertainment_315.txt|.|2
+mr neeson|.|bbc_entertainment_012.txt|.|2
+state opera|.|bbc_entertainment_023.txt|.|1|.|bbc_entertainment_273.txt|.|1
+liam neeson|.|bbc_entertainment_012.txt|.|2

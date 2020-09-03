@@ -1,0 +1,44 @@
+23
+audit committee|.|bbc_politics_167.txt|.|2
+select|.|bbc_politics_048.txt|.|2|.|bbc_politics_023.txt|.|2
+animal welfare|.|bbc_politics_048.txt|.|5
+added|.|bbc_politics_016.txt|.|1
+committee said|.|bbc_politics_048.txt|.|2
+prosecution|.|bbc_politics_048.txt|.|2
+committee added|.|bbc_politics_016.txt|.|1
+skills shortages|.|bbc_politics_016.txt|.|3
+mps said|.|bbc_politics_048.txt|.|2|.|bbc_politics_051.txt|.|2
+emergency|.|bbc_tech_027.txt|.|2|.|bbc_tech_315.txt|.|2
+talking|.|bbc_politics_243.txt|.|1
+missing three drugs|.|bbc_sport_089.txt|.|1|.|bbc_sport_054.txt|.|1
+welfare|.|bbc_politics_048.txt|.|5
+received advice|.|bbc_politics_089.txt|.|2
+paid advocacy|.|bbc_politics_089.txt|.|3
+fake site|.|bbc_tech_027.txt|.|4|.|bbc_tech_315.txt|.|4
+emergency committee|.|bbc_tech_027.txt|.|2|.|bbc_tech_315.txt|.|2
+environment select|.|bbc_politics_048.txt|.|2
+advocacy|.|bbc_politics_089.txt|.|3
+computer implemented inventions|.|bbc_tech_030.txt|.|1
+implemented|.|bbc_tech_030.txt|.|2
+uk university|.|bbc_politics_023.txt|.|1
+select committee|.|bbc_politics_048.txt|.|2|.|bbc_politics_023.txt|.|2
+committee|.|bbc_politics_048.txt|.|8|.|bbc_tech_030.txt|.|2|.|bbc_politics_090.txt|.|2|.|bbc_politics_089.txt|.|2|.|bbc_politics_016.txt|.|5|.|bbc_politics_245.txt|.|1|.|bbc_politics_167.txt|.|2|.|bbc_politics_243.txt|.|3|.|bbc_sport_054.txt|.|4|.|bbc_politics_023.txt|.|3|.|bbc_tech_027.txt|.|2|.|bbc_politics_071.txt|.|3|.|bbc_tech_315.txt|.|2
+mcletchie received|.|bbc_politics_089.txt|.|1
+subjects|.|bbc_politics_016.txt|.|2
+fishing|.|bbc_politics_243.txt|.|4
+disgraceful|.|bbc_politics_023.txt|.|2
+social science|.|bbc_politics_016.txt|.|4
+shortages in key|.|bbc_politics_016.txt|.|3
+wind farms|.|bbc_politics_090.txt|.|2
+fish markets and talking|.|bbc_politics_243.txt|.|1
+single battalion|.|bbc_politics_245.txt|.|1
+environment|.|bbc_politics_048.txt|.|2
+juri|.|bbc_tech_030.txt|.|2
+improve|.|bbc_politics_048.txt|.|2
+key subjects|.|bbc_politics_016.txt|.|2
+fish|.|bbc_politics_243.txt|.|5
+animal|.|bbc_politics_032.txt|.|1|.|bbc_politics_048.txt|.|9|.|bbc_politics_250.txt|.|2
+disasters emergency|.|bbc_tech_027.txt|.|1|.|bbc_tech_315.txt|.|1
+improve animal|.|bbc_politics_048.txt|.|2
+fishing industry|.|bbc_politics_243.txt|.|2
+wind|.|bbc_politics_090.txt|.|2

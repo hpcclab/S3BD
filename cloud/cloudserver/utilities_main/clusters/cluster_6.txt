@@ -1,0 +1,41 @@
+6
+accuse|.|bbc_business_449.txt|.|1
+inhibitors|.|bbc_business_191.txt|.|4
+advisory panel|.|bbc_business_191.txt|.|2
+guidant|.|bbc_business_300.txt|.|4
+heart attack|.|bbc_business_191.txt|.|2
+shares in gw|.|bbc_business_327.txt|.|2
+iressa|.|bbc_business_309.txt|.|3
+idec|.|bbc_business_150.txt|.|3
+regulators|.|bbc_business_191.txt|.|2|.|bbc_business_326.txt|.|1
+drug|.|bbc_business_327.txt|.|5|.|bbc_sport_035.txt|.|2|.|bbc_business_191.txt|.|7|.|bbc_business_309.txt|.|7|.|bbc_business_201.txt|.|1|.|bbc_business_300.txt|.|2|.|bbc_business_449.txt|.|3|.|bbc_business_150.txt|.|3|.|bbc_sport_082.txt|.|1|.|bbc_business_233.txt|.|2
+sclerosis|.|bbc_business_150.txt|.|3
+lung cancer|.|bbc_business_309.txt|.|2
+firm|.|bbc_business_027.txt|.|3|.|bbc_business_095.txt|.|2|.|bbc_business_124.txt|.|4|.|bbc_business_302.txt|.|3|.|bbc_business_132.txt|.|2|.|bbc_business_265.txt|.|2|.|bbc_business_125.txt|.|2|.|bbc_business_327.txt|.|2|.|bbc_tech_373.txt|.|2|.|bbc_tech_055.txt|.|4|.|bbc_tech_290.txt|.|2|.|bbc_business_096.txt|.|3|.|bbc_business_335.txt|.|2|.|bbc_business_017.txt|.|2|.|bbc_business_318.txt|.|3|.|bbc_tech_250.txt|.|2|.|bbc_business_433.txt|.|2|.|bbc_business_150.txt|.|3|.|bbc_business_299.txt|.|3|.|bbc_business_485.txt|.|4|.|bbc_tech_276.txt|.|4|.|bbc_business_364.txt|.|3|.|bbc_business_334.txt|.|2|.|bbc_business_508.txt|.|2|.|bbc_business_029.txt|.|2|.|bbc_tech_043.txt|.|2|.|bbc_business_092.txt|.|2|.|bbc_business_062.txt|.|4|.|bbc_tech_314.txt|.|4|.|bbc_business_127.txt|.|2|.|bbc_business_114.txt|.|2|.|bbc_business_034.txt|.|2|.|bbc_tech_221.txt|.|1|.|bbc_tech_362.txt|.|4|.|bbc_business_131.txt|.|3|.|bbc_business_333.txt|.|2|.|bbc_business_223.txt|.|2|.|bbc_business_401.txt|.|1|.|bbc_politics_045.txt|.|3|.|bbc_sport_253.txt|.|2|.|bbc_tech_024.txt|.|2|.|bbc_business_082.txt|.|4|.|bbc_business_375.txt|.|4|.|bbc_business_501.txt|.|5|.|bbc_business_162.txt|.|2|.|bbc_business_307.txt|.|3|.|bbc_business_324.txt|.|4|.|bbc_business_099.txt|.|1|.|bbc_business_510.txt|.|2|.|bbc_tech_246.txt|.|1|.|bbc_business_083.txt|.|4|.|bbc_tech_271.txt|.|1|.|bbc_business_198.txt|.|2|.|bbc_tech_122.txt|.|3|.|bbc_business_349.txt|.|5|.|bbc_tech_148.txt|.|2|.|bbc_business_208.txt|.|4|.|bbc_business_074.txt|.|2|.|bbc_business_366.txt|.|2|.|bbc_business_202.txt|.|3|.|bbc_tech_269.txt|.|4|.|bbc_business_011.txt|.|1|.|bbc_business_386.txt|.|5|.|bbc_business_399.txt|.|4|.|bbc_tech_280.txt|.|2|.|bbc_sport_146.txt|.|3|.|bbc_business_300.txt|.|2|.|bbc_tech_268.txt|.|2|.|bbc_business_164.txt|.|4|.|bbc_business_038.txt|.|1|.|bbc_business_419.txt|.|5|.|bbc_business_233.txt|.|4|.|bbc_tech_079.txt|.|2|.|bbc_business_418.txt|.|3|.|bbc_tech_116.txt|.|2|.|bbc_tech_010.txt|.|2|.|bbc_business_312.txt|.|2|.|bbc_tech_261.txt|.|3
+bat|.|bbc_business_233.txt|.|3
+cas|.|bbc_sport_035.txt|.|4
+sclerosis drug|.|bbc_business_150.txt|.|2
+protein|.|bbc_business_233.txt|.|2
+open letter|.|bbc_business_449.txt|.|2
+hopes|.|bbc_business_327.txt|.|2|.|bbc_entertainment_106.txt|.|1|.|bbc_tech_189.txt|.|2|.|bbc_sport_490.txt|.|1|.|bbc_sport_493.txt|.|2|.|bbc_business_073.txt|.|3
+stent|.|bbc_business_300.txt|.|1
+drug testing|.|bbc_sport_035.txt|.|1
+advisory|.|bbc_business_191.txt|.|2
+fights|.|bbc_business_449.txt|.|1
+multiple sclerosis|.|bbc_business_150.txt|.|3
+testing|.|bbc_politics_349.txt|.|1|.|bbc_sport_035.txt|.|1
+cannabis|.|bbc_business_327.txt|.|5
+sandoz|.|bbc_business_201.txt|.|4
+astrazeneca|.|bbc_business_309.txt|.|2
+stroke|.|bbc_business_191.txt|.|3
+heart|.|bbc_business_191.txt|.|4
+lung|.|bbc_business_309.txt|.|2
+saliva|.|bbc_business_233.txt|.|2
+drugmakers|.|bbc_business_201.txt|.|1
+clinical|.|bbc_business_309.txt|.|2
+food and drug|.|bbc_business_191.txt|.|2
+eli lilly|.|bbc_business_449.txt|.|2
+iressa drug|.|bbc_business_309.txt|.|2
+risk|.|bbc_business_191.txt|.|4|.|bbc_tech_272.txt|.|1|.|bbc_business_081.txt|.|2|.|bbc_business_434.txt|.|5
+pharma|.|bbc_business_327.txt|.|5
+biogen|.|bbc_business_150.txt|.|5

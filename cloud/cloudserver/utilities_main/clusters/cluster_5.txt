@@ -1,0 +1,38 @@
+5
+oil pipeline|.|bbc_business_363.txt|.|2
+internet and american|.|bbc_tech_047.txt|.|2|.|bbc_tech_327.txt|.|2
+life project|.|bbc_tech_047.txt|.|2|.|bbc_tech_327.txt|.|2
+beijing news|.|bbc_business_282.txt|.|2
+poland|.|bbc_tech_256.txt|.|2
+xiluodu|.|bbc_business_282.txt|.|3
+project|.|bbc_tech_066.txt|.|5|.|bbc_tech_047.txt|.|2|.|bbc_business_282.txt|.|4|.|bbc_tech_256.txt|.|8|.|bbc_tech_249.txt|.|2|.|bbc_business_062.txt|.|3|.|bbc_tech_327.txt|.|2|.|bbc_tech_357.txt|.|2|.|bbc_tech_381.txt|.|5|.|bbc_business_363.txt|.|3|.|bbc_tech_115.txt|.|4
+ports|.|bbc_business_363.txt|.|2
+textbooks|.|bbc_tech_066.txt|.|3|.|bbc_tech_381.txt|.|3
+gameboy|.|bbc_tech_256.txt|.|5
+gameboyzz|.|bbc_tech_256.txt|.|8
+project corp|.|bbc_business_282.txt|.|2
+handheld computer|.|bbc_tech_066.txt|.|1|.|bbc_tech_381.txt|.|1
+satellite radio|.|bbc_tech_066.txt|.|2|.|bbc_tech_381.txt|.|2
+stop construction|.|bbc_business_282.txt|.|2
+handhelds|.|bbc_tech_256.txt|.|1
+orchestra|.|bbc_entertainment_280.txt|.|8|.|bbc_tech_256.txt|.|8
+security researchers|.|bbc_tech_357.txt|.|2
+connection|.|bbc_tech_392.txt|.|1|.|bbc_tech_066.txt|.|3|.|bbc_tech_150.txt|.|1|.|bbc_tech_184.txt|.|6|.|bbc_tech_381.txt|.|3
+satellite|.|bbc_tech_066.txt|.|5|.|bbc_entertainment_218.txt|.|3|.|bbc_tech_381.txt|.|5|.|bbc_tech_223.txt|.|7
+wembley stadium|.|bbc_business_062.txt|.|2
+gorges project|.|bbc_business_282.txt|.|3
+american life project|.|bbc_tech_047.txt|.|2|.|bbc_tech_327.txt|.|2
+aims|.|bbc_tech_153.txt|.|1|.|bbc_business_363.txt|.|2
+honeynet project|.|bbc_tech_357.txt|.|2
+orchestra project|.|bbc_tech_256.txt|.|7
+balkan|.|bbc_business_363.txt|.|2
+construction projects|.|bbc_business_282.txt|.|2
+wireless connection|.|bbc_tech_066.txt|.|1|.|bbc_tech_381.txt|.|1
+gameboyzz orchestra|.|bbc_tech_256.txt|.|8
+cultural|.|bbc_entertainment_383.txt|.|1|.|bbc_tech_115.txt|.|2
+multiplex|.|bbc_business_062.txt|.|4
+china three gorges|.|bbc_business_282.txt|.|2
+american life|.|bbc_tech_047.txt|.|2|.|bbc_tech_327.txt|.|2
+pompeii|.|bbc_tech_115.txt|.|3
+tourists|.|bbc_tech_115.txt|.|2
+visitor|.|bbc_entertainment_026.txt|.|3|.|bbc_tech_115.txt|.|2

@@ -1,0 +1,20 @@
+65
+economic reforms|.|bbc_business_285.txt|.|1
+falling|.|bbc_business_173.txt|.|1
+gartner said|.|bbc_tech_064.txt|.|1|.|bbc_tech_338.txt|.|1
+blamed the us|.|bbc_business_089.txt|.|1
+broadband was challenging|.|bbc_tech_158.txt|.|1
+usher won|.|bbc_entertainment_153.txt|.|1
+strong sales|.|bbc_business_247.txt|.|2
+blamed|.|bbc_business_089.txt|.|1
+falling profits|.|bbc_business_173.txt|.|1
+bring music|.|bbc_tech_059.txt|.|1|.|bbc_tech_322.txt|.|1
+saw annual|.|bbc_business_173.txt|.|1
+massachusetts institute|.|bbc_tech_282.txt|.|2
+great year|.|bbc_business_247.txt|.|2
+massachusetts|.|bbc_tech_282.txt|.|2
+sharpness|.|bbc_tech_240.txt|.|1
+europe|.|bbc_tech_317.txt|.|3|.|bbc_tech_059.txt|.|4|.|bbc_tech_240.txt|.|5|.|bbc_tech_338.txt|.|2|.|bbc_tech_351.txt|.|1|.|bbc_tech_147.txt|.|2|.|bbc_business_285.txt|.|3|.|bbc_tech_322.txt|.|4|.|bbc_tech_064.txt|.|2|.|bbc_business_176.txt|.|3|.|bbc_business_141.txt|.|2|.|bbc_tech_025.txt|.|3|.|bbc_business_247.txt|.|5|.|bbc_tech_361.txt|.|3|.|bbc_business_496.txt|.|2|.|bbc_business_262.txt|.|2|.|bbc_business_173.txt|.|4|.|bbc_entertainment_153.txt|.|3|.|bbc_tech_158.txt|.|2|.|bbc_business_058.txt|.|3|.|bbc_tech_282.txt|.|3|.|bbc_tech_214.txt|.|4|.|bbc_tech_159.txt|.|2|.|bbc_sport_160.txt|.|2|.|bbc_tech_146.txt|.|2|.|bbc_business_152.txt|.|2|.|bbc_business_089.txt|.|2
+margins to be lower|.|bbc_business_247.txt|.|1
+blames|.|bbc_business_089.txt|.|1
+spam campaign|.|bbc_tech_214.txt|.|1|.|bbc_tech_159.txt|.|1|.|bbc_tech_147.txt|.|1

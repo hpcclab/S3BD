@@ -1,0 +1,9 @@
+52
+scored a chart|.|bbc_entertainment_285.txt|.|1
+top of supercomputing|.|bbc_tech_141.txt|.|1
+supercomputing chart|.|bbc_tech_141.txt|.|1
+top of the supercomputing chart|.|bbc_tech_141.txt|.|1
+sundays|.|bbc_entertainment_184.txt|.|2
+top|.|bbc_sport_424.txt|.|2|.|bbc_entertainment_334.txt|.|1|.|bbc_business_506.txt|.|2|.|bbc_tech_070.txt|.|1|.|bbc_entertainment_254.txt|.|3|.|bbc_business_397.txt|.|3|.|bbc_business_484.txt|.|1|.|bbc_entertainment_384.txt|.|2|.|bbc_entertainment_335.txt|.|5|.|bbc_sport_221.txt|.|2|.|bbc_sport_423.txt|.|3|.|bbc_sport_433.txt|.|1|.|bbc_sport_369.txt|.|2|.|bbc_entertainment_083.txt|.|1|.|bbc_entertainment_212.txt|.|2|.|bbc_sport_229.txt|.|1|.|bbc_entertainment_286.txt|.|2|.|bbc_entertainment_060.txt|.|1|.|bbc_sport_499.txt|.|2|.|bbc_entertainment_099.txt|.|1|.|bbc_entertainment_189.txt|.|3|.|bbc_entertainment_049.txt|.|5|.|bbc_sport_511.txt|.|2|.|bbc_tech_141.txt|.|8|.|bbc_sport_425.txt|.|1|.|bbc_politics_409.txt|.|2|.|bbc_politics_130.txt|.|2|.|bbc_tech_045.txt|.|2|.|bbc_politics_301.txt|.|2|.|bbc_entertainment_364.txt|.|1|.|bbc_entertainment_109.txt|.|4|.|bbc_politics_416.txt|.|3|.|bbc_entertainment_380.txt|.|3|.|bbc_entertainment_144.txt|.|4|.|bbc_entertainment_096.txt|.|1|.|bbc_politics_211.txt|.|2|.|bbc_entertainment_053.txt|.|2|.|bbc_entertainment_268.txt|.|4|.|bbc_sport_428.txt|.|2|.|bbc_entertainment_128.txt|.|2|.|bbc_entertainment_234.txt|.|2|.|bbc_entertainment_184.txt|.|8|.|bbc_entertainment_242.txt|.|3|.|bbc_business_385.txt|.|2|.|bbc_entertainment_285.txt|.|6|.|bbc_entertainment_014.txt|.|3|.|bbc_entertainment_112.txt|.|3|.|bbc_sport_037.txt|.|3|.|bbc_sport_261.txt|.|2|.|bbc_sport_452.txt|.|2|.|bbc_business_037.txt|.|3|.|bbc_tech_341.txt|.|2
+scores|.|bbc_entertainment_285.txt|.|1
+pop music|.|bbc_entertainment_184.txt|.|2

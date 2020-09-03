@@ -1,0 +1,21 @@
+63
+news|.|bbc_tech_102.txt|.|2|.|bbc_business_447.txt|.|4|.|bbc_politics_403.txt|.|2|.|bbc_entertainment_167.txt|.|2|.|bbc_tech_186.txt|.|12|.|bbc_business_254.txt|.|4|.|bbc_politics_011.txt|.|3|.|bbc_tech_296.txt|.|2|.|bbc_tech_002.txt|.|2|.|bbc_entertainment_367.txt|.|3|.|bbc_business_034.txt|.|2|.|bbc_tech_114.txt|.|4|.|bbc_tech_193.txt|.|2|.|bbc_business_282.txt|.|2|.|bbc_business_422.txt|.|8|.|bbc_entertainment_368.txt|.|4|.|bbc_entertainment_108.txt|.|3|.|bbc_business_325.txt|.|3|.|bbc_tech_354.txt|.|3
+video games market|.|bbc_business_447.txt|.|2|.|bbc_business_254.txt|.|2
+eyeing|.|bbc_business_447.txt|.|1|.|bbc_sport_067.txt|.|1|.|bbc_business_254.txt|.|1
+google news site|.|bbc_tech_186.txt|.|1
+corp|.|bbc_business_447.txt|.|4|.|bbc_business_282.txt|.|2|.|bbc_business_422.txt|.|6|.|bbc_business_254.txt|.|4
+news corp|.|bbc_business_447.txt|.|4|.|bbc_business_422.txt|.|6|.|bbc_business_254.txt|.|4
+blocks|.|bbc_tech_186.txt|.|1
+corporation|.|bbc_business_422.txt|.|1
+google news|.|bbc_tech_186.txt|.|5
+bbc news|.|bbc_tech_114.txt|.|3|.|bbc_tech_102.txt|.|2|.|bbc_tech_193.txt|.|2|.|bbc_politics_403.txt|.|2|.|bbc_entertainment_167.txt|.|2|.|bbc_tech_296.txt|.|2|.|bbc_entertainment_368.txt|.|3|.|bbc_tech_354.txt|.|3|.|bbc_business_034.txt|.|2
+independent game|.|bbc_tech_114.txt|.|1
+news site|.|bbc_tech_186.txt|.|2
+editions|.|bbc_tech_186.txt|.|1
+cafes operate|.|bbc_tech_002.txt|.|1
+barbara county|.|bbc_entertainment_108.txt|.|2
+publishes|.|bbc_business_325.txt|.|1
+firm by a chinese|.|bbc_business_034.txt|.|1
+entertainment group|.|bbc_business_422.txt|.|2
+news conference|.|bbc_politics_011.txt|.|2
+news website|.|bbc_tech_193.txt|.|2|.|bbc_tech_296.txt|.|2|.|bbc_entertainment_368.txt|.|3

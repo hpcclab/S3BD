@@ -1,0 +1,7 @@
+56
+uk house prices dip|.|bbc_business_415.txt|.|1
+dipped|.|bbc_business_415.txt|.|1
+house prices dipped|.|bbc_business_415.txt|.|1
+prices dip|.|bbc_business_415.txt|.|1
+mortgage approvals|.|bbc_business_153.txt|.|1
+prices|.|bbc_business_340.txt|.|2|.|bbc_business_184.txt|.|5|.|bbc_business_057.txt|.|2|.|bbc_business_480.txt|.|1|.|bbc_business_294.txt|.|5|.|bbc_business_370.txt|.|2|.|bbc_business_170.txt|.|4|.|bbc_business_086.txt|.|2|.|bbc_business_493.txt|.|2|.|bbc_business_138.txt|.|10|.|bbc_business_248.txt|.|5|.|bbc_business_099.txt|.|2|.|bbc_business_110.txt|.|2|.|bbc_business_125.txt|.|2|.|bbc_business_140.txt|.|5|.|bbc_business_153.txt|.|8|.|bbc_business_004.txt|.|3|.|bbc_business_252.txt|.|3|.|bbc_tech_021.txt|.|3|.|bbc_business_119.txt|.|3|.|bbc_business_163.txt|.|4|.|bbc_business_323.txt|.|5|.|bbc_business_273.txt|.|2|.|bbc_business_286.txt|.|2|.|bbc_business_466.txt|.|3|.|bbc_business_461.txt|.|2|.|bbc_business_016.txt|.|2|.|bbc_business_012.txt|.|8|.|bbc_business_259.txt|.|2|.|bbc_business_144.txt|.|4|.|bbc_business_415.txt|.|8|.|bbc_business_270.txt|.|6|.|bbc_business_497.txt|.|2|.|bbc_business_406.txt|.|4|.|bbc_business_430.txt|.|2|.|bbc_business_405.txt|.|13|.|bbc_business_263.txt|.|2|.|bbc_business_045.txt|.|5|.|bbc_business_360.txt|.|3|.|bbc_business_028.txt|.|3|.|bbc_business_067.txt|.|2|.|bbc_business_329.txt|.|6|.|bbc_business_381.txt|.|3|.|bbc_business_182.txt|.|3|.|bbc_tech_328.txt|.|3|.|bbc_business_152.txt|.|9|.|bbc_business_351.txt|.|2
