@@ -53,7 +53,6 @@ class Index {
     public Index() {
         postingList = new HashMap<>();
         clustersPutIntoPostingList = new HashSet<>();
-        System.out.println('I');
         try {
             //Try to open the files.  If they don't exist, make new ones.
             indexFile = new File(indexFileLocation);
