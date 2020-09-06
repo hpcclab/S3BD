@@ -32,7 +32,7 @@ These two can be run on the same machine, or on two machines connected by a netw
 
 1. To start an upload, launch the cloud server and select upload as its action (the ``` -u ``` flag) in IDE (e.g., Eclipse) console.
 2. Choose how they'll be uploaded based on your project configuration. Default:
-   input ```-f```, hit enter  to upload files through network.
+   input ```-n```, hit enter  to upload files through network.
 3. Once the server is running, launch the client and select upload as its action (again, the ``` -u ``` flag).  
 4. To perform a batch upload, enter the path for the directory with the files. Command: ```data/tmp``` to upload demo dataset. Single file uploads are not currently supported.
 
