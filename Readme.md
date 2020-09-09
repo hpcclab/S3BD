@@ -20,7 +20,7 @@ http://hpcclab.org/paperPdf/ccpe18/ccpe18.pdf
 
 ## Set up
 1. Clone S3BD. ```git clone https://github.com/hpcclab/S3BD.git```  
-2. Go to S3Bd folder and provide read, write, and execute permission to all. ```chmod a+x *```
+2. Go to S3BD folder and provide read, write, and execute permission to all. ```chmod a+x *```
 3. Command ```./execute.sh``` to build required folders and load the upload folder with dataset.
  
 ## S3BD Running Instructions
@@ -36,7 +36,7 @@ These two can be run on the same machine, or on two machines connected by a netw
 3. Once the server is running, launch the client and select upload as its action (again, the ``` -u ``` flag).  
 4. To perform a batch upload, enter the path for the directory with the files. Command: ```data/tmp``` to upload demo dataset. Single file uploads are not currently supported.
 
-5. After finishing the uploads, go to S3BD->cloudserver->utilities location. Check index.txt and docsizes.txt files. They should be filled with recent update.
+5. After finishing the uploads, go to S3BD->cloud->cloudserver->utilities location. Check index.txt and docsizes.txt files. They should be filled with recent update.
 
 
 ## Partitioning Dataset
